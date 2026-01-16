@@ -6,7 +6,7 @@ import pandas as pd
 def main():
     # Chemins par défaut (TES chemins)
     input_glob = sys.argv[1] if len(sys.argv) > 1 else "data/roulage/*.csv"
-    output_file = sys.argv[2] if len(sys.argv) > 2 else "data/all_roulage/all_roulage.csv"
+    output_file = sys.argv[2] if len(sys.argv) > 2 else "data/merged_roulage/all_roulage.csv"
 
     # Récupère les CSV et exclut le fichier de sortie s'il matche le glob
     files = sorted(glob.glob(input_glob))
