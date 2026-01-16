@@ -1,0 +1,42 @@
+name: Concat CSV (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      input_glob:
+        description: "Fichiers à concat (glob)"
+        required: false
+        default: "data/roulage/*.csv"
+      output_file:
+        description: "Fichier de sortie"
+        required: false
+        default: "data/all_roulage/all.csv"
+
+jobs:
+  concat:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # nécessaire pour commit/push
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install pandas
+
+      - name: Concat CSV
+        run: |
+          python scripts/concat_csv.py \
+            "${{ github.event.inputs.input_glob }}" \
+            "${{ github.event.inputs.output_file }}"
+
+      - name: Commit merged file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "${{ github.event.inputs.output_file }}"
+          git commit -m "Manual concat CSV -> ${{ github.event.inputs.output_file }}" || echo "Nothing to commit"
+          git push
