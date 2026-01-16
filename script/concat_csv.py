@@ -3,10 +3,17 @@ import os
 import sys
 import pandas as pd
 
+
+
 def main():
     # Arguments depuis GitHub Actions (ou valeurs par défaut)
     input_glob = sys.argv[1] if len(sys.argv) > 1 else "data/roulage/*.csv"
     output_file = sys.argv[2] if len(sys.argv) > 2 else "data/all_roulage/all.csv"
+
+    files = sorted(
+    f for f in glob.glob(input_glob)
+    if not f.endswith("all.csv"))
+
 
     # Liste des fichiers à concaténer
     files = sorted(glob.glob(input_glob))
