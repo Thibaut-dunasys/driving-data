@@ -19,8 +19,8 @@ def main():
     dfs = []
     for f in files:
         df = pd.read_csv(f)
-        df.drop(df_labels.index[-1], inplace=True)
-        df.drop(df_labels.index[0], inplace=True)
+        df.drop(df.index[-1], inplace=True)
+        df.drop(df.index[0], inplace=True)
         df["source_file"] = os.path.basename(f)
         dfs.append(df)
 
