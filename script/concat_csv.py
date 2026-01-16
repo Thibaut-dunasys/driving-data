@@ -9,9 +9,10 @@ def main():
     output_file = sys.argv[2] if len(sys.argv) > 2 else "data/merged_roulage/all_roulage.csv"
 
     # Récupère les CSV et exclut le fichier de sortie s'il matche le glob
-    files = sorted(glob.glob(input_glob))
+    files = sorted(glob.glob(input_glob, recursive=True))
+    files = [f for f in files if f.lower().endswith(".csv")]
     files = [f for f in files if os.path.normpath(f) != os.path.normpath(output_file)]
-    
+
 
     if not files:
         raise SystemExit(f"No CSV files found for glob: {input_glob} (excluding output: {output_file})")
