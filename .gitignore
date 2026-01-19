@@ -1,0 +1,28 @@
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# --- Logs / temp ---
+*.log
+*.tmp
+
+# --- Data ---
+# On ignore tout le dossier merged (généré automatiquement)
+data/merged_roulage/
+
+# MAIS si tu veux quand même versionner le fichier merged, commente la ligne au-dessus
+# et utilise plutôt:
+# data/merged_roulage/*
+# !data/merged_roulage/all_roulage.csv
+
+# Important: on garde les CSV sources dans data/roulage
+# (Ne mets PAS "data/" ou "*.csv" sinon ça casse tout)
