@@ -24,9 +24,8 @@ jobs:
         run: pip install pandas
 
       - name: Concat CSV
-        run: python script/concat_csv.py \
-             "data/roulage/*.csv" \
-             "data/merged_roulage/all_roulage.csv"
+        run: python script/concat_csv.py "data/roulage/*.csv" "data/merged_roulage/all_roulage.csv"
+
 
       - name: Commit merged file
         run: |
