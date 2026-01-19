@@ -17,7 +17,9 @@ venv/
 
 # --- Data ---
 # On ignore tout le dossier merged (généré automatiquement)
-data/merged_roulage/
+data/merged_roulage/*
+!data/merged_roulage/all_roulage.csv
+
 
 # MAIS si tu veux quand même versionner le fichier merged, commente la ligne au-dessus
 # et utilise plutôt:
