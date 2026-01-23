@@ -30,6 +30,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add trajets
+          git add roualge
           git commit -m "Auto-clean speed / engine_speed / mileage CSV" || echo "Nothing to commit"
           git push
