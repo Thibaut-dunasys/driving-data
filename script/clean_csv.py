@@ -61,8 +61,8 @@ def choose_cleaner(filename):
 # ---------- MAIN ----------
 
 def main():
-    trips = Path("trajets")
-    for csv in trips.rglob("*.csv"):
+    trips = Path("dataV2")
+    for csv in trips.rglob("/**/*.csv"):
         cleaner = choose_cleaner(csv.name)
         if cleaner is None:
             continue
