@@ -1,4 +1,4 @@
-name: Clean roualge CSV
+name: Clean roulage CSV
 
 on:
   workflow_dispatch:   # 👈 bouton manuel
