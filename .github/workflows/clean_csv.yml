@@ -24,7 +24,7 @@ jobs:
 
       - name: Clean CSV files
         run: |
-          python scripts/clean_csv.py
+          python script/clean_csv.py
 
       - name: Commit cleaned files
         run: |
