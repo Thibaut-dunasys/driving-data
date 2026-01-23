@@ -1,11 +1,10 @@
 name: Clean roualge CSV
 
 on:
+  workflow_dispatch:   # 👈 bouton manuel
   push:
     paths:
-      - "trajets/**/*.csv"
-      - "scripts/clean_trips_csv.py"
-
+      - "dataV2/**/**/*.csv"
 jobs:
   clean:
     runs-on: ubuntu-latest
