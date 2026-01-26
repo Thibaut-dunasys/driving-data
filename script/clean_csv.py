@@ -59,14 +59,36 @@ def clean_engine_speed(df):
 
 # ---------- DISPATCH ----------
 
-def choose_cleaner(filename):
+# def choose_cleaner(filename):
+#     f = filename.lower()
+#     if "engine_speed" in f:
+#         return clean_engine_speed
+#     if "speed" in f:
+#         return clean_speed
+#     if "mileage" in f or "milleage" in f:
+#         return clean_odometer
+#     return None
+
+import re
+
+def choose_cleaner(filename: str):
     f = filename.lower()
-    if "engine_speed" in f:
+
+    # 1) ENGINE SPEED d'abord (prioritaire)
+    # match: enginespeed, engine_speed, engine-speed, engine speed, eng_speed
+    if re.search(r"(engine[_\-\s]?speed|eng[_\-\s]?speed|enginespeed)", f):
         return clean_engine_speed
-    if "speed" in f:
+
+    # 2) SPEED véhicule ensuite
+    # match: speed, vehicle_speed, vehicle-speed, vss
+    # MAIS exclut engine/eng pour éviter enginespeed
+    if re.search(r"(vehicle[_\-\s]?speed|vehiclespeed|\bspeed\b|\bvss\b)", f) and not re.search(r"\b(engine|eng)\b", f):
         return clean_speed
-    if "mileage" in f or "milleage" in f:
+
+    # 3) ODOMETER / MILEAGE
+    if re.search(r"(mileage|milleage|odometer|distance|totalizer)", f):
         return clean_odometer
+
     return None
 
 
