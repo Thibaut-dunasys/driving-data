@@ -1,6 +1,18 @@
 from pathlib import Path
 import pandas as pd
 
+#----------------LOG-------------------
+def get_value_col(df: pd.DataFrame) -> str:
+    # Priorité: capability, value, puis "la seule colonne non-Time"
+    for c in ["capability", "value", "Value"]:
+        if c in df.columns:
+            return c
+    non_time = [c for c in df.columns if c.lower() not in ("time", "timestamp", "date")]
+    if len(non_time) == 1:
+        return non_time[0]
+    raise ValueError(f"Impossible d'identifier la colonne valeur. Colonnes={list(df.columns)}")
+
+
 # ---------- CLEANERS ----------
 
 def clean_odometer(df):
@@ -61,18 +73,55 @@ def choose_cleaner(filename):
 # ---------- MAIN ----------
 
 def main():
-    trips = Path("dataV2")
-    for csv in trips.rglob("**/*.csv"):
+    root = Path("dataV2")
+    n_csv = 0
+    n_matched = 0
+    n_changed = 0
+
+    for csv in root.rglob("*.csv"):
+        n_csv += 1
         cleaner = choose_cleaner(csv.name)
         if cleaner is None:
             continue
 
+        n_matched += 1
         df = pd.read_csv(csv)
+
+        # Debug colonnes
+        print(f"\n[MATCH] {csv} | cols={list(df.columns)}")
+
+        # Snapshot avant/après (sur la colonne valeur)
+        val_col = get_value_col(df)
+        before = df[val_col].astype(str).head(5).tolist()
+
         df_clean = cleaner(df)
 
-        df_clean.to_csv(csv, index=False)
-        print(f"[CLEANED] {csv}")
+        after_col = get_value_col(df_clean)
+        after = df_clean[after_col].astype(str).head(5).tolist()
+
+        # Détecter un vrai changement
+        if before != after or df_clean.shape != df.shape or list(df_clean.columns) != list(df.columns):
+            n_changed += 1
+            df_clean.to_csv(csv, index=False)
+            print(f"[CHANGED] wrote file. sample before={before} after={after}")
+        else:
+            print(f"[UNCHANGED] sample before={before} after={after}")
+
+    print(f"\nRésumé: scanned={n_csv} matched={n_matched} changed={n_changed}")
+    # trips = Path("dataV2")
+    # for csv in trips.rglob("**/*.csv"):
+    #     cleaner = choose_cleaner(csv.name)
+    #     if cleaner is None:
+    #         continue
+
+    #     df = pd.read_csv(csv)
+    #     df_clean = cleaner(df)
+
+    #     df_clean.to_csv(csv, index=False)
+    #     print(f"[CLEANED] {csv}")
 
 
 if __name__ == "__main__":
     main()
+
+
