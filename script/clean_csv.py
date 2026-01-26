@@ -72,42 +72,51 @@ def choose_cleaner(filename):
 
 # ---------- MAIN ----------
 
+# def main():
+#     from pathlib import Path
+
 def main():
     root = Path("dataV2")
-    n_csv = 0
-    n_matched = 0
-    n_changed = 0
+    files = sorted(root.rglob("**/*.csv"))
+    print(f"CSV trouvés: {len(files)}")
+    for p in files[:200]:  # limite à 200 pour pas spam
+        print(p.as_posix())
 
-    for csv in root.rglob("*.csv"):
-        n_csv += 1
-        cleaner = choose_cleaner(csv.name)
-        if cleaner is None:
-            continue
+    # root = Path("dataV2")
+    # n_csv = 0
+    # n_matched = 0
+    # n_changed = 0
 
-        n_matched += 1
-        df = pd.read_csv(csv)
+    # for csv in root.rglob("*.csv"):
+    #     n_csv += 1
+    #     cleaner = choose_cleaner(csv.name)
+    #     if cleaner is None:
+    #         continue
 
-        # Debug colonnes
-        print(f"\n[MATCH] {csv} | cols={list(df.columns)}")
+    #     n_matched += 1
+    #     df = pd.read_csv(csv)
 
-        # Snapshot avant/après (sur la colonne valeur)
-        val_col = get_value_col(df)
-        before = df[val_col].astype(str).head(5).tolist()
+    #     # Debug colonnes
+    #     print(f"\n[MATCH] {csv} | cols={list(df.columns)}")
 
-        df_clean = cleaner(df)
+    #     # Snapshot avant/après (sur la colonne valeur)
+    #     val_col = get_value_col(df)
+    #     before = df[val_col].astype(str).head(5).tolist()
 
-        after_col = get_value_col(df_clean)
-        after = df_clean[after_col].astype(str).head(5).tolist()
+    #     df_clean = cleaner(df)
 
-        # Détecter un vrai changement
-        if before != after or df_clean.shape != df.shape or list(df_clean.columns) != list(df.columns):
-            n_changed += 1
-            df_clean.to_csv(csv, index=False)
-            print(f"[CHANGED] wrote file. sample before={before} after={after}")
-        else:
-            print(f"[UNCHANGED] sample before={before} after={after}")
+    #     after_col = get_value_col(df_clean)
+    #     after = df_clean[after_col].astype(str).head(5).tolist()
 
-    print(f"\nRésumé: scanned={n_csv} matched={n_matched} changed={n_changed}")
+    #     # Détecter un vrai changement
+    #     if before != after or df_clean.shape != df.shape or list(df_clean.columns) != list(df.columns):
+    #         n_changed += 1
+    #         df_clean.to_csv(csv, index=False)
+    #         print(f"[CHANGED] wrote file. sample before={before} after={after}")
+    #     else:
+    #         print(f"[UNCHANGED] sample before={before} after={after}")
+
+    # print(f"\nRésumé: scanned={n_csv} matched={n_matched} changed={n_changed}")
     # trips = Path("dataV2")
     # for csv in trips.rglob("**/*.csv"):
     #     cleaner = choose_cleaner(csv.name)
