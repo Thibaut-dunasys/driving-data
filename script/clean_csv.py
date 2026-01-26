@@ -76,8 +76,8 @@ def choose_cleaner(filename):
 #     from pathlib import Path
 
 def main():
-    root = Path("dataV2")
-    files = sorted(root.rglob("*.csv"))
+    root = Path("datav2")
+    files = sorted(root.rglob("**/*.csv"))
     print(f"CSV trouvés: {len(files)}")
     for p in files[:200]:  # limite à 200 pour pas spam
         print(p.as_posix())
