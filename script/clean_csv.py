@@ -102,8 +102,10 @@ def main():
 
         df = pd.read_csv(csv)
         df_clean = cleaner(df)
-
-        df_clean.to_csv(csv, index=False)
+        
+        out_csv = csv.with_name(csv.stem + "_clean" + csv.suffix)
+        df_clean.to_csv(out_csv, index=False)
+        # df_clean.to_csv(csv, index=False)
         print(f"[CLEANED] {csv}")
 
 
