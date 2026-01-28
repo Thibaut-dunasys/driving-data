@@ -39,6 +39,7 @@ def main():
         df = pd.read_csv(f)
         df = df[~df["Label"].isin(["Fin", "Initialisation"])]
         df["source_file"] = os.path.basename(f)
+        df.drop(columns=["Acceleration X", "Acceleration Y", "Acceleration Z","Gyroscope X","Gyroscope Y","Gyroscope Z"])
         df["Start_time"]=pd.to_datetime(df["Start_time"])
         df["Start_time"]=df["Start_time"].dt.strftime("%Y-%m-%d %H:%M:%S")
     
