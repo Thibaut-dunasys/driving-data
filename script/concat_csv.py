@@ -39,7 +39,7 @@ def main():
         df = pd.read_csv(f)
         df = df[~df["Label"].isin(["Fin", "Initialisation"])]
         df["source_file"] = os.path.basename(f)
-        df.drop(columns=["Acceleration X", "Acceleration Y", "Acceleration Z","Gyroscope X","Gyroscope Y","Gyroscope Z"])
+        df.drop(columns=["Acceleration X", "Acceleration Y", "Acceleration Z","Gyroscope X","Gyroscope Y","Gyroscope Z"], inplace=True)
         df["Start_time"]=pd.to_datetime(df["Start_time"])
         df["Start_time"]=df["Start_time"].dt.strftime("%Y-%m-%d %H:%M:%S")
     
@@ -57,8 +57,8 @@ def main():
 
 
     merged = pd.concat(dfs, ignore_index=True)
-    # merged["Start_time"] = pd.to_datetime(merged["Start_time"])
-    # merged.sort_values("Start_time", inplace=True)
+    merged["Start_time"] = pd.to_datetime(merged["Start_time"])
+    merged.sort_values("Start_time", inplace=True)
 
 
     out_dir = os.path.dirname(output_file)
