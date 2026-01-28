@@ -56,7 +56,6 @@ def main():
 
     candidates = sorted(glob.glob(input_glob, recursive=True))
     files = [f for f in candidates if f.lower().endswith(".csv")]
-
     files = [f for f in files if os.path.normpath(f) != os.path.normpath(output_file)]
 
     if not files:
@@ -69,24 +68,28 @@ def main():
     dfs = []
     for f in files:
         df = pd.read_csv(f)
-
         df = df[~df["Label"].isin(["Fin", "Initialisation"])]
-
-        # 🔹 Conversion Start_time → datetime
-        df["Start_time"] = pd.to_datetime(df["Start_time"])
 
         df["source_file"] = os.path.basename(f)
         dfs.append(df)
 
     merged = pd.concat(dfs, ignore_index=True)
 
-    # 🔹 Tri par Start_time
+    # ✅ Parse dates (évite le warning + rend .dt utilisable)
+    # - errors="coerce" => si une date est invalide, elle devient NaT au lieu de faire planter
+    merged["Start_time"] = pd.to_datetime(merged["Start_time"], dayfirst=True, errors="coerce")
+
+    if "End_time" in merged.columns:
+        merged["End_time"] = pd.to_datetime(merged["End_time"], dayfirst=True, errors="coerce")
+
+    # ✅ Tri par Start_time
     merged.sort_values("Start_time", inplace=True)
 
-    # 🔹 Format ISO : YYYY-MM-DD HH:MM:SS
+    # ✅ Format ISO: YYYY-MM-DD HH:MM:SS (en gardant les NaT -> NaN dans le CSV)
     merged["Start_time"] = merged["Start_time"].dt.strftime("%Y-%m-%d %H:%M:%S")
-    merged["End_time"] = merged["End_time"].dt.strftime("%Y-%m-%d %H:%M:%S")
-    
+    if "End_time" in merged.columns:
+        merged["End_time"] = merged["End_time"].dt.strftime("%Y-%m-%d %H:%M:%S")
+
     out_dir = os.path.dirname(output_file)
     if out_dir:
         os.makedirs(out_dir, exist_ok=True)
@@ -96,4 +99,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
