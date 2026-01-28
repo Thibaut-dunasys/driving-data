@@ -56,8 +56,8 @@ def main():
 
 
     merged = pd.concat(dfs, ignore_index=True)
-    merged["Start_time"] = pd.to_datetime(merged["Start_time"])
-    merged.sort_values("Start_time", inplace=True)
+    # merged["Start_time"] = pd.to_datetime(merged["Start_time"])
+    # merged.sort_values("Start_time", inplace=True)
 
 
     out_dir = os.path.dirname(output_file)
