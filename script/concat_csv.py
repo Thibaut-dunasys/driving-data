@@ -22,17 +22,35 @@ def main():
         print("DEBUG: sample candidates =", candidates[:20])
         raise SystemExit(f"No CSV files found for glob: {input_glob} (excluding output: {output_file})")
 
+    # dfs = []
+    # for f in files:
+    #     df = pd.read_csv(f)
+    #     df = df[~df["Label"].isin(["Fin", "Initialisation"])]
+    #     # df.drop(df.index[-1], inplace=True)
+    #     # df.drop(df.index[0], inplace=True)
+    #     df["source_file"] = os.path.basename(f)
+    #         # 🔹 Format ISO : YYYY-MM-DD HH:MM:SS
+    #     df["Start_time"] = df["Start_time"].dt.strftime("%Y-%m-%d %H:%M:%S)
+    #     df["End_time"] = df["End_time"].dt.strftime("%Y-%m-%d %H:%M:%S")
+    #     dfs.append(df)
     dfs = []
     for f in files:
         df = pd.read_csv(f)
         df = df[~df["Label"].isin(["Fin", "Initialisation"])]
-        # df.drop(df.index[-1], inplace=True)
-        # df.drop(df.index[0], inplace=True)
         df["source_file"] = os.path.basename(f)
-            # 🔹 Format ISO : YYYY-MM-DD HH:MM:SS
+    
+        # 1) Parse en datetime (évite aussi le warning dayfirst)
+        df["Start_time"] = pd.to_datetime(df["Start_time"], dayfirst=True, errors="coerce")
+        if "End_time" in df.columns:
+            df["End_time"] = pd.to_datetime(df["End_time"], dayfirst=True, errors="coerce")
+    
+        # 2) Format ISO (après conversion)
         df["Start_time"] = df["Start_time"].dt.strftime("%Y-%m-%d %H:%M:%S")
-        df["End_time"] = df["End_time"].dt.strftime("%Y-%m-%d %H:%M:%S")
+        if "End_time" in df.columns:
+            df["End_time"] = df["End_time"].dt.strftime("%Y-%m-%d %H:%M:%S")
+    
         dfs.append(df)
+
 
     merged = pd.concat(dfs, ignore_index=True)
     merged["start_time"] = pd.to_datetime(merged["Start_time"])
