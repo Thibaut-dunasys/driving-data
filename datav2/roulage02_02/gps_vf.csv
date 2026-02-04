@@ -1,0 +1,1186 @@
+Time,latitude,longitude,SpeedLimit,Rond_point,Traffic_ligths,Stop,name_street,type_route,peage_arret,is_tunnel,Speed,exces_vitesse,eco_vitesse
+2026-02-02 14:37:25,48.88785,2.18991,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:27,48.88784,2.18998,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:29,48.88784,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:31,48.88783,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:33,48.88783,2.18999,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:35,48.88783,2.19,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:37,48.88782,2.19,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:39,48.88781,2.19,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:41,48.88783,2.18999,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:43,48.88782,2.18998,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:45,48.88782,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:47,48.88782,2.18998,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:49,48.88781,2.18998,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:51,48.88781,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:53,48.88781,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:54,48.88781,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:56,48.88782,2.18995,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:37:58,48.88782,2.18995,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:00,48.88783,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:02,48.88783,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:04,48.88783,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:06,48.88783,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:08,48.88783,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:10,48.88783,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:12,48.88784,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:14,48.88784,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:16,48.88784,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:19,48.88783,2.18998,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:21,48.88783,2.18998,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:23,48.88783,2.18999,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:25,48.88783,2.18999,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:27,48.88783,2.18999,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:29,48.88783,2.18999,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:31,48.88783,2.18999,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:33,48.88783,2.18999,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:35,48.88783,2.18998,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:37,48.88783,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:39,48.88783,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:38:41,48.88782,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 14:38:43,48.88782,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,2,0,0
+2026-02-02 14:38:45,48.88782,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,2,0,0
+2026-02-02 14:38:47,48.88782,2.18995,20.0,0,0,0,Villa Blanche,living_street,0,0,2,0,0
+2026-02-02 14:38:49,48.88783,2.18994,20.0,0,0,0,Villa Blanche,living_street,0,0,2,0,0
+2026-02-02 14:38:50,48.88783,2.18993,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 14:38:52,48.88783,2.18992,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 14:38:54,48.88783,2.1899,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 14:38:56,48.88783,2.18988,20.0,0,0,0,Villa Blanche,living_street,0,0,2,0,0
+2026-02-02 14:38:58,48.88786,2.18987,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 14:39:00,48.88786,2.18986,20.0,0,0,0,Villa Blanche,living_street,0,0,2,0,0
+2026-02-02 14:39:02,48.88786,2.18983,20.0,0,0,0,Villa Blanche,living_street,0,0,4,0,0
+2026-02-02 14:39:04,48.88788,2.1898,20.0,0,0,0,Villa Blanche,living_street,0,0,5,0,0
+2026-02-02 14:39:06,48.8879,2.18977,20.0,0,0,0,Villa Blanche,living_street,0,0,4,0,0
+2026-02-02 14:39:08,48.88791,2.18974,20.0,0,0,0,Villa Blanche,living_street,0,0,2,0,0
+2026-02-02 14:39:10,48.88791,2.18972,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:39:13,48.8879,2.18972,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:39:15,48.8879,2.18972,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 14:39:17,48.88789,2.18972,20.0,0,0,0,Villa Blanche,living_street,0,0,7,0,0
+2026-02-02 14:39:19,48.88791,2.18973,20.0,0,0,0,Villa Blanche,living_street,0,0,4,0,0
+2026-02-02 14:39:21,48.88794,2.18974,20.0,0,0,0,Villa Blanche,living_street,0,0,2,0,0
+2026-02-02 14:39:23,48.88795,2.18975,20.0,0,0,0,Villa Blanche,living_street,0,0,7,0,0
+2026-02-02 14:39:25,48.88797,2.18977,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,11,0,0
+2026-02-02 14:39:27,48.88798,2.18985,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,12,0,0
+2026-02-02 14:39:29,48.888,2.18994,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,6,0,0
+2026-02-02 14:39:31,48.888,2.18998,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,2,0,0
+2026-02-02 14:39:33,48.888,2.18999,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,2,0,0
+2026-02-02 14:39:35,48.888,2.19,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,11,0,0
+2026-02-02 14:39:37,48.88802,2.19016,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,28,0,0
+2026-02-02 14:39:39,48.88804,2.19042,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,42,0,0
+2026-02-02 14:39:41,48.88807,2.19079,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,50,0,0
+2026-02-02 14:39:43,48.8881,2.19119,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,52,0,0
+2026-02-02 14:39:45,48.88814,2.19158,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,47,0,0
+2026-02-02 14:39:46,48.88815,2.19175,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,45,0,0
+2026-02-02 14:39:48,48.88817,2.19207,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,40,0,0
+2026-02-02 14:39:50,48.88818,2.19236,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,36,0,0
+2026-02-02 14:39:52,48.8882,2.19262,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,32,0,0
+2026-02-02 14:39:54,48.88821,2.19286,50.0,0,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,29,0,0
+2026-02-02 14:39:56,48.88823,2.19306,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,13,0,0
+2026-02-02 14:39:58,48.88824,2.19315,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,1,0,0
+2026-02-02 14:40:00,48.88825,2.19315,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:02,48.88825,2.19315,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:04,48.88825,2.19315,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:06,48.88826,2.19315,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:09,48.88825,2.19316,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:11,48.88825,2.19317,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:13,48.88825,2.19318,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:15,48.88825,2.19319,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:17,48.88825,2.1932,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:19,48.88825,2.1932,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:21,48.88826,2.1932,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:23,48.88826,2.19321,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:25,48.88826,2.19322,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:27,48.88826,2.19322,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:29,48.88827,2.19321,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 14:40:31,48.88828,2.19323,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,12,0,0
+2026-02-02 14:40:33,48.88829,2.19337,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,21,0,0
+2026-02-02 14:40:35,48.8883,2.19357,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,31,0,0
+2026-02-02 14:40:37,48.8883,2.19381,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,31,0,0
+2026-02-02 14:40:39,48.88828,2.19403,50.0,1,1,1,Avenue Vladimir Ilitch Lénine,primary,0,0,33,0,0
+2026-02-02 14:40:41,48.88825,2.19429,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,36,0,0
+2026-02-02 14:40:42,48.88823,2.19442,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,39,0,0
+2026-02-02 14:40:44,48.88818,2.19474,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,46,0,0
+2026-02-02 14:40:46,48.88811,2.19507,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,43,0,0
+2026-02-02 14:40:48,48.88805,2.19539,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,40,0,0
+2026-02-02 14:40:50,48.888,2.1957,50.0,0,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,41,0,0
+2026-02-02 14:40:52,48.88794,2.19601,50.0,0,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,43,0,0
+2026-02-02 14:40:54,48.88788,2.19632,50.0,0,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,41,0,0
+2026-02-02 14:40:56,48.88783,2.19661,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,37,0,0
+2026-02-02 14:40:58,48.88778,2.19688,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,35,0,0
+2026-02-02 14:41:00,48.88773,2.19713,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,32,0,0
+2026-02-02 14:41:02,48.88768,2.19735,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,25,0,0
+2026-02-02 14:41:05,48.88765,2.19753,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,15,0,0
+2026-02-02 14:41:07,48.88763,2.19763,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,5,0,0
+2026-02-02 14:41:09,48.88763,2.19766,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:11,48.88763,2.19764,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:13,48.88763,2.19764,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:15,48.88763,2.19765,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:17,48.88763,2.19766,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:19,48.88763,2.19765,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:21,48.88763,2.19766,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:23,48.88762,2.19766,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:26,48.88762,2.19766,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:27,48.88762,2.19766,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:29,48.88762,2.19767,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:31,48.88763,2.19767,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:33,48.88762,2.1977,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,7,0,0
+2026-02-02 14:41:34,48.88762,2.19773,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,11,0,0
+2026-02-02 14:41:36,48.8876,2.19781,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,17,0,0
+2026-02-02 14:41:38,48.88757,2.19794,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,21,0,0
+2026-02-02 14:41:40,48.88754,2.19808,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,21,0,0
+2026-02-02 14:41:42,48.88749,2.19824,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,22,0,0
+2026-02-02 14:41:44,48.88747,2.19841,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,21,0,0
+2026-02-02 14:41:46,48.88744,2.19855,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,18,0,0
+2026-02-02 14:41:48,48.88742,2.19867,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,15,0,0
+2026-02-02 14:41:50,48.88739,2.19879,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,13,0,0
+2026-02-02 14:41:52,48.88738,2.19887,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,7,0,0
+2026-02-02 14:41:55,48.88739,2.19892,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,1,0,0
+2026-02-02 14:41:57,48.88739,2.19892,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:41:59,48.88739,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:01,48.88739,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:03,48.88739,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:05,48.88739,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:07,48.88739,2.19894,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:09,48.88739,2.19894,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:11,48.88739,2.19894,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:13,48.88738,2.19894,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:15,48.88739,2.19894,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:17,48.88738,2.19894,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:19,48.88738,2.19894,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:21,48.88738,2.19894,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:23,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:25,48.88739,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:27,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:28,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:30,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:32,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:34,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:36,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:38,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:40,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:42,48.88739,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:44,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:46,48.88738,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,0,0,0
+2026-02-02 14:42:48,48.88739,2.19893,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,5,0,0
+2026-02-02 14:42:51,48.88738,2.19898,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,18,0,0
+2026-02-02 14:42:53,48.88736,2.1991,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,0,16,0,0
+2026-02-02 14:42:55,48.88734,2.19923,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,1,22,0,0
+2026-02-02 14:42:57,48.88733,2.19939,50.0,0,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,1,24,0,0
+2026-02-02 14:42:59,48.88729,2.19957,50.0,1,0,0,Sortie de l'Avenue Georges Clemenceau,primary_link,0,1,23,0,0
+2026-02-02 14:43:01,48.88725,2.19974,50.0,1,0,0,Tunnel Place la Boule,primary_link,0,1,22,0,0
+2026-02-02 14:43:03,48.88716,2.19986,50.0,1,0,0,Avenue Vladimir Ilitch Lénine,primary,0,1,22,0,0
+2026-02-02 14:43:05,48.88706,2.19995,50.0,1,0,0,Place de la Boule,primary,0,1,16,0,0
+2026-02-02 14:43:07,48.88699,2.20003,50.0,1,0,0,Place de la Boule,primary,0,1,15,0,0
+2026-02-02 14:43:09,48.88695,2.20012,50.0,1,0,0,,primary_link,0,1,13,0,0
+2026-02-02 14:43:11,48.88693,2.20021,50.0,1,0,0,,primary_link,0,1,18,0,0
+2026-02-02 14:43:13,48.88694,2.20042,50.0,1,0,0,,primary_link,0,1,17,0,0
+2026-02-02 14:43:15,48.88696,2.20054,50.0,1,0,0,,primary_link,0,1,13,0,0
+2026-02-02 14:43:17,48.88696,2.20064,50.0,1,0,0,Rue Paul Vaillant-Couturier,primary,0,1,14,0,0
+2026-02-02 14:43:19,48.88693,2.20072,50.0,1,1,0,Rue Paul Vaillant-Couturier,primary,0,1,16,0,0
+2026-02-02 14:43:21,48.88684,2.20081,50.0,1,1,0,Rue Paul Vaillant-Couturier,primary,0,1,22,0,0
+2026-02-02 14:43:23,48.88675,2.20092,50.0,1,1,0,Rue Paul Vaillant-Couturier,primary,0,0,26,0,0
+2026-02-02 14:43:24,48.88669,2.20098,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,29,0,0
+2026-02-02 14:43:26,48.88656,2.20113,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,31,0,0
+2026-02-02 14:43:28,48.88643,2.20128,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,29,0,0
+2026-02-02 14:43:30,48.88632,2.20142,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,25,0,0
+2026-02-02 14:43:32,48.88621,2.20154,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,32,0,0
+2026-02-02 14:43:34,48.88609,2.20168,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,31,0,0
+2026-02-02 14:43:36,48.88594,2.2018,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,35,0,0
+2026-02-02 14:43:38,48.88578,2.20191,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,36,0,0
+2026-02-02 14:43:40,48.88561,2.20205,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,34,0,0
+2026-02-02 14:43:42,48.88547,2.20216,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,33,0,0
+2026-02-02 14:43:45,48.88533,2.20227,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,36,0,0
+2026-02-02 14:43:47,48.88517,2.20238,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,40,0,0
+2026-02-02 14:43:49,48.88501,2.2025,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,38,0,0
+2026-02-02 14:43:51,48.88486,2.20262,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,37,0,0
+2026-02-02 14:43:53,48.88472,2.20274,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,38,0,0
+2026-02-02 14:43:55,48.88458,2.20287,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,36,0,0
+2026-02-02 14:43:57,48.88445,2.20298,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,34,0,0
+2026-02-02 14:43:59,48.88432,2.20308,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,32,0,0
+2026-02-02 14:44:01,48.8842,2.20316,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,30,0,0
+2026-02-02 14:44:03,48.88409,2.20325,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,27,0,0
+2026-02-02 14:44:05,48.88397,2.20334,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,31,0,0
+2026-02-02 14:44:07,48.88376,2.20352,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,35,0,0
+2026-02-02 14:44:09,48.88357,2.20362,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,41,0,0
+2026-02-02 14:44:11,48.88336,2.20377,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,45,0,0
+2026-02-02 14:44:13,48.88316,2.20393,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,45,0,0
+2026-02-02 14:44:15,48.88297,2.20406,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,42,0,0
+2026-02-02 14:44:16,48.88287,2.20413,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,43,0,0
+2026-02-02 14:44:18,48.88268,2.20428,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,46,0,0
+2026-02-02 14:44:20,48.88245,2.20445,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,44,0,0
+2026-02-02 14:44:22,48.88225,2.20461,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,42,0,0
+2026-02-02 14:44:24,48.88205,2.2048,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,40,0,0
+2026-02-02 14:44:26,48.88189,2.20499,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,31,0,0
+2026-02-02 14:44:28,48.88176,2.20513,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,18,0,0
+2026-02-02 14:44:30,48.88169,2.2052,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,6,0,0
+2026-02-02 14:44:32,48.88165,2.20523,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,6,0,0
+2026-02-02 14:44:34,48.8816,2.20527,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,6,0,0
+2026-02-02 14:44:36,48.88157,2.2053,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,2,0,0
+2026-02-02 14:44:40,48.88153,2.20534,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,7,0,0
+2026-02-02 14:44:42,48.8815,2.20538,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,5,0,0
+2026-02-02 14:44:44,48.88147,2.20541,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,1,0,0
+2026-02-02 14:44:46,48.88147,2.20541,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:44:48,48.88146,2.20542,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:44:50,48.88146,2.20542,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:44:52,48.88145,2.20543,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,14,0,0
+2026-02-02 14:44:54,48.88139,2.20551,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,22,0,0
+2026-02-02 14:44:56,48.88127,2.20564,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,29,0,0
+2026-02-02 14:44:58,48.88117,2.20579,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,27,0,0
+2026-02-02 14:45:01,48.88105,2.20591,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,23,0,0
+2026-02-02 14:45:03,48.88097,2.20601,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,16,0,0
+2026-02-02 14:45:05,48.8809,2.20608,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,9,0,0
+2026-02-02 14:45:07,48.88086,2.20613,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,12,0,0
+2026-02-02 14:45:09,48.8808,2.20619,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,21,0,0
+2026-02-02 14:45:11,48.88071,2.2063,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,28,0,0
+2026-02-02 14:45:13,48.8806,2.20642,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,33,0,0
+2026-02-02 14:45:15,48.88045,2.20657,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,37,0,0
+2026-02-02 14:45:17,48.8803,2.20674,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,42,0,0
+2026-02-02 14:45:19,48.88013,2.20694,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,38,0,0
+2026-02-02 14:45:21,48.87994,2.20714,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,10,0,0
+2026-02-02 14:45:23,48.87993,2.20717,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,3,0,0
+2026-02-02 14:45:25,48.87993,2.20717,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:27,48.87992,2.20716,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:29,48.87992,2.20717,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:30,48.87992,2.20717,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:32,48.87991,2.20718,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:34,48.87991,2.20717,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:36,48.87991,2.20717,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:38,48.87991,2.20717,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:40,48.8799,2.20716,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:42,48.8799,2.20716,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:44,48.8799,2.20715,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:46,48.8799,2.20715,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:48,48.8799,2.20714,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:50,48.87989,2.20714,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:53,48.87989,2.20715,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:55,48.87989,2.20714,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:57,48.87987,2.20714,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:45:59,48.87987,2.20714,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:46:01,48.87987,2.20714,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:46:03,48.87986,2.20715,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:46:05,48.87986,2.20715,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:46:07,48.87986,2.20715,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:46:09,48.87986,2.20714,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,0,0,0
+2026-02-02 14:46:11,48.87986,2.20715,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,1,0,0
+2026-02-02 14:46:13,48.87984,2.20715,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,17,0,0
+2026-02-02 14:46:15,48.87978,2.20725,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,24,0,0
+2026-02-02 14:46:17,48.87966,2.20748,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,36,0,0
+2026-02-02 14:46:19,48.87957,2.20773,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,38,0,0
+2026-02-02 14:46:21,48.87949,2.208,50.0,,,,Rue Paul Vaillant-Couturier,primary,,,45,0,0
+2026-02-02 14:46:23,48.87939,2.20833,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,49,0,0
+2026-02-02 14:46:25,48.87928,2.20867,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,47,0,0
+2026-02-02 14:46:26,48.87923,2.20882,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,45,0,0
+2026-02-02 14:46:28,48.87914,2.20912,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,41,0,0
+2026-02-02 14:46:30,48.87903,2.20939,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,36,0,0
+2026-02-02 14:46:32,48.87896,2.20962,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,28,0,0
+2026-02-02 14:46:34,48.87891,2.20979,50.0,0,0,0,Rue Paul Vaillant-Couturier,primary,0,0,16,0,0
+2026-02-02 14:46:36,48.87889,2.20988,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,10,0,0
+2026-02-02 14:46:38,48.87887,2.20994,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,5,0,0
+2026-02-02 14:46:40,48.87886,2.20998,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,1,0,0
+2026-02-02 14:46:42,48.87885,2.20998,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,0,0,0
+2026-02-02 14:46:44,48.87886,2.20999,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,0,0,0
+2026-02-02 14:46:46,48.87887,2.20999,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,0,0,0
+2026-02-02 14:46:49,48.87887,2.20999,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,0,0,0
+2026-02-02 14:46:51,48.87887,2.20999,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,0,0,0
+2026-02-02 14:46:53,48.87886,2.21,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,0,0,0
+2026-02-02 14:46:55,48.87887,2.21,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,0,0,0
+2026-02-02 14:46:57,48.87886,2.21,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,0,0,0
+2026-02-02 14:46:59,48.87886,2.21,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,0,0,0
+2026-02-02 14:47:01,48.87885,2.21001,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,0,0,0
+2026-02-02 14:47:03,48.87885,2.21002,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,9,0,0
+2026-02-02 14:47:05,48.87883,2.21009,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,13,0,0
+2026-02-02 14:47:07,48.8788,2.21017,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,9,0,0
+2026-02-02 14:47:09,48.87878,2.21024,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,8,0,0
+2026-02-02 14:47:11,48.87877,2.2103,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,7,0,0
+2026-02-02 14:47:13,48.87873,2.21033,50.0,0,1,0,Rue Paul Vaillant-Couturier,primary,0,0,9,0,0
+2026-02-02 14:47:15,48.8787,2.21027,30.0,0,1,0,Rue de Garches,residential,0,0,16,0,0
+2026-02-02 14:47:17,48.87871,2.21013,30.0,0,1,0,Rue de Garches,residential,0,0,22,0,0
+2026-02-02 14:47:19,48.87872,2.20996,30.0,0,1,0,Rue de Garches,residential,0,0,25,0,0
+2026-02-02 14:47:21,48.8787,2.20978,30.0,0,1,0,Rue de Garches,residential,0,0,25,0,0
+2026-02-02 14:47:22,48.87871,2.20969,30.0,0,0,0,Rue de Garches,residential,0,0,25,0,0
+2026-02-02 14:47:24,48.87872,2.2095,30.0,0,0,0,Rue de Garches,residential,0,0,28,0,0
+2026-02-02 14:47:26,48.8787,2.20929,30.0,0,0,0,Rue de Garches,residential,0,0,28,0,0
+2026-02-02 14:47:28,48.87867,2.20909,30.0,0,0,0,Rue de Garches,residential,0,0,26,0,0
+2026-02-02 14:47:30,48.87865,2.2089,30.0,0,0,0,Rue de Garches,residential,0,0,20,0,0
+2026-02-02 14:47:32,48.87865,2.20876,30.0,0,0,0,Rue de Garches,residential,0,0,15,0,0
+2026-02-02 14:47:34,48.87863,2.20866,30.0,0,0,0,Rue de Garches,residential,0,0,15,0,0
+2026-02-02 14:47:36,48.87863,2.20855,30.0,0,0,0,Rue de Garches,residential,0,0,18,0,0
+2026-02-02 14:47:38,48.87863,2.20841,30.0,0,0,0,Rue de Garches,residential,0,0,20,0,0
+2026-02-02 14:47:40,48.87861,2.20826,30.0,0,0,0,Rue de Garches,residential,0,0,21,0,0
+2026-02-02 14:47:42,48.87858,2.20811,30.0,0,0,0,Rue de Garches,residential,0,0,22,0,0
+2026-02-02 14:47:45,48.87857,2.20794,30.0,0,0,0,Rue de Garches,residential,0,0,25,0,0
+2026-02-02 14:47:47,48.87856,2.20775,30.0,0,0,0,Rue de Garches,residential,0,0,29,0,0
+2026-02-02 14:47:49,48.87852,2.20753,30.0,0,0,0,Rue de Garches,residential,0,0,30,0,0
+2026-02-02 14:47:51,48.87848,2.20729,30.0,0,0,0,Rue de Garches,residential,0,0,33,0,0
+2026-02-02 14:47:53,48.87844,2.20705,30.0,0,0,0,Rue de Garches,residential,0,0,33,0,0
+2026-02-02 14:47:55,48.8784,2.20681,30.0,0,0,0,Rue de Garches,residential,0,0,30,0,0
+2026-02-02 14:47:57,48.87836,2.20659,30.0,0,0,0,Rue de Garches,residential,0,0,29,0,0
+2026-02-02 14:47:59,48.87832,2.20638,30.0,0,0,0,Rue de Garches,residential,0,0,28,0,0
+2026-02-02 14:48:01,48.87828,2.20617,30.0,,,,Rue de Garches,residential,,,28,0,0
+2026-02-02 14:48:03,48.87823,2.20597,30.0,0,0,0,Rue de Garches,residential,0,0,28,0,0
+2026-02-02 14:48:05,48.8782,2.20576,30.0,0,0,0,Rue de Garches,residential,0,0,27,0,0
+2026-02-02 14:48:07,48.87816,2.20556,30.0,0,0,0,Rue de Garches,residential,0,0,25,0,0
+2026-02-02 14:48:09,48.87809,2.2053,30.0,0,1,0,Rue de Garches,residential,0,0,22,0,0
+2026-02-02 14:48:11,48.87806,2.20514,30.0,0,1,0,Rue de Garches,residential,0,0,21,0,0
+2026-02-02 14:48:13,48.87803,2.20499,30.0,0,1,0,Rue de Garches,residential,0,0,22,0,0
+2026-02-02 14:48:15,48.87798,2.20481,30.0,0,1,0,Rue de Garches,residential,0,0,29,0,0
+2026-02-02 14:48:17,48.87794,2.2046,30.0,0,1,0,Rue de Garches,residential,0,0,28,0,0
+2026-02-02 14:48:18,48.87791,2.2045,30.0,0,1,0,Rue de Garches,residential,0,0,28,0,0
+2026-02-02 14:48:20,48.87786,2.2043,30.0,0,0,0,Rue de Garches,residential,0,0,26,0,0
+2026-02-02 14:48:22,48.87781,2.20412,30.0,0,0,0,Rue de Garches,residential,0,0,25,0,0
+2026-02-02 14:48:24,48.87776,2.20394,30.0,0,0,0,Rue de Garches,residential,0,0,30,0,0
+2026-02-02 14:48:26,48.87771,2.20373,30.0,0,0,0,Rue de Garches,residential,0,0,30,0,0
+2026-02-02 14:48:28,48.87765,2.2035,30.0,0,0,0,Rue de Garches,residential,0,0,32,0,0
+2026-02-02 14:48:30,48.87757,2.20327,30.0,0,0,0,Rue de Garches,residential,0,0,33,0,0
+2026-02-02 14:48:32,48.87749,2.20308,30.0,0,0,0,Rue de Garches,residential,0,0,33,0,0
+2026-02-02 14:48:34,48.8774,2.20288,50.0,0,0,0,Rue Eugène Sue,residential,0,0,33,0,0
+2026-02-02 14:48:36,48.8773,2.20268,50.0,0,0,0,Rue Eugène Sue,residential,0,0,33,0,0
+2026-02-02 14:48:39,48.87722,2.20249,50.0,0,0,0,Rue Eugène Sue,residential,0,0,32,0,0
+2026-02-02 14:48:41,48.87711,2.2023,50.0,0,0,0,Rue Eugène Sue,residential,0,0,32,0,0
+2026-02-02 14:48:43,48.87703,2.20211,50.0,0,0,0,Rue Eugène Sue,residential,0,0,33,0,0
+2026-02-02 14:48:45,48.87692,2.20191,50.0,0,0,0,Rue Eugène Sue,residential,0,0,33,0,0
+2026-02-02 14:48:47,48.87682,2.20172,50.0,0,0,0,Rue Eugène Sue,residential,0,0,30,0,0
+2026-02-02 14:48:49,48.87672,2.20157,50.0,0,0,0,Rue Eugène Sue,residential,0,0,21,0,0
+2026-02-02 14:48:51,48.87664,2.20146,50.0,,,,Rue Eugène Sue,residential,,,16,0,0
+2026-02-02 14:48:53,48.87661,2.20137,50.0,1,0,0,Rue Eugène Sue,residential,0,0,13,0,0
+2026-02-02 14:48:55,48.87656,2.2013,50.0,1,0,0,Rue Eugène Sue,residential,0,0,13,0,0
+2026-02-02 14:48:57,48.87652,2.20122,50.0,1,0,0,Rue Eugène Sue,residential,0,0,26,0,0
+2026-02-02 14:48:59,48.87648,2.20104,50.0,1,0,0,Rue Eugène Sue,residential,0,0,30,0,0
+2026-02-02 14:49:01,48.87648,2.20081,50.0,1,0,0,Place du Docteur Jean Bru,tertiary,0,0,26,0,0
+2026-02-02 14:49:03,48.87659,2.20057,,,,,,,,,27,0,0
+2026-02-02 14:49:05,48.87667,2.20039,,,,,,,,,31,0,0
+2026-02-02 14:49:07,48.87676,2.2002,,,,,,,,,32,0,0
+2026-02-02 14:49:09,48.87685,2.2,,,,,,,,,30,0,0
+2026-02-02 14:49:11,48.87693,2.19982,,,,,,,,,26,0,0
+2026-02-02 14:49:12,48.87697,2.19973,,,,,,,,,29,0,0
+2026-02-02 14:49:14,48.87705,2.19955,50.0,0,0,0,Rue Danton,tertiary,0,0,31,0,0
+2026-02-02 14:49:16,48.87716,2.19935,50.0,0,0,0,Rue Danton,tertiary,0,0,30,0,0
+2026-02-02 14:49:18,48.87725,2.19917,50.0,0,0,0,Rue Danton,tertiary,0,0,29,0,0
+2026-02-02 14:49:20,48.87731,2.19898,50.0,0,0,0,Rue Danton,tertiary,0,0,34,0,0
+2026-02-02 14:49:22,48.87739,2.19877,50.0,0,0,0,Rue Danton,tertiary,0,0,34,0,0
+2026-02-02 14:49:24,48.87748,2.19855,50.0,0,0,0,Rue Danton,tertiary,0,0,32,0,0
+2026-02-02 14:49:26,48.87756,2.19835,50.0,0,0,0,Rue Danton,tertiary,0,0,29,0,0
+2026-02-02 14:49:28,48.87762,2.19814,50.0,0,0,0,Rue Danton,tertiary,0,0,29,0,0
+2026-02-02 14:49:30,48.87766,2.19792,50.0,0,0,0,Rue Danton,tertiary,0,0,32,0,0
+2026-02-02 14:49:32,48.87769,2.19767,50.0,0,0,0,Rue Danton,tertiary,0,0,33,0,0
+2026-02-02 14:49:35,48.87771,2.1974,50.0,0,0,0,Rue Danton,tertiary,0,0,33,0,0
+2026-02-02 14:49:37,48.87776,2.19715,50.0,0,1,0,Rue Danton,tertiary,0,0,30,0,0
+2026-02-02 14:49:39,48.87781,2.19691,50.0,0,1,0,Rue Danton,tertiary,0,0,33,0,0
+2026-02-02 14:49:41,48.87786,2.19666,50.0,0,1,0,Rue Danton,tertiary,0,0,36,0,0
+2026-02-02 14:49:43,48.87789,2.19638,50.0,0,1,0,Rue Danton,tertiary,0,0,35,0,0
+2026-02-02 14:49:45,48.87792,2.19612,50.0,0,0,0,Rue Danton,tertiary,0,0,33,0,0
+2026-02-02 14:49:47,48.87795,2.19586,50.0,0,0,0,Rue Danton,tertiary,0,0,35,0,0
+2026-02-02 14:49:49,48.87798,2.19559,50.0,0,0,0,Rue Danton,tertiary,0,0,37,0,0
+2026-02-02 14:49:51,48.87803,2.19532,50.0,0,0,0,Rue Danton,tertiary,0,0,31,0,0
+2026-02-02 14:49:53,48.87808,2.19509,50.0,0,0,0,Rue Danton,tertiary,0,0,23,0,0
+2026-02-02 14:49:55,48.87811,2.19491,50.0,0,0,0,Rue Danton,tertiary,0,0,26,0,0
+2026-02-02 14:49:57,48.87815,2.19472,50.0,0,0,0,Rue Danton,tertiary,0,0,29,0,0
+2026-02-02 14:49:59,48.87824,2.1944,50.0,0,0,0,Rue Danton,tertiary,0,0,32,0,0
+2026-02-02 14:50:01,48.8783,2.19417,50.0,0,0,0,Rue Danton,tertiary,0,0,34,0,0
+2026-02-02 14:50:03,48.87836,2.19393,50.0,0,0,0,Rue Danton,tertiary,0,0,31,0,0
+2026-02-02 14:50:05,48.87842,2.19371,50.0,0,0,0,Rue Danton,tertiary,0,0,29,0,0
+2026-02-02 14:50:07,48.87846,2.19348,50.0,0,0,0,Rue Danton,tertiary,0,0,34,0,0
+2026-02-02 14:50:08,48.87848,2.19335,50.0,0,0,0,Rue Danton,tertiary,0,0,36,0,0
+2026-02-02 14:50:10,48.8785,2.19305,50.0,0,0,0,Rue Danton,tertiary,0,0,39,0,0
+2026-02-02 14:50:12,48.87853,2.19275,50.0,0,0,0,Rue Danton,tertiary,0,0,41,0,0
+2026-02-02 14:50:14,48.87854,2.19243,50.0,0,0,0,Rue Danton,tertiary,0,0,40,0,0
+2026-02-02 14:50:16,48.87857,2.19213,50.0,0,0,0,Rue Danton,tertiary,0,0,36,0,0
+2026-02-02 14:50:18,48.87859,2.19186,50.0,0,0,0,Rue Danton,tertiary,0,0,36,0,0
+2026-02-02 14:50:20,48.87862,2.19158,50.0,0,0,0,Rue Danton,tertiary,0,0,38,0,0
+2026-02-02 14:50:22,48.87865,2.19129,50.0,0,0,0,Rue Danton,tertiary,0,0,38,0,0
+2026-02-02 14:50:24,48.8787,2.19101,50.0,0,0,0,Rue Danton,tertiary,0,0,38,0,0
+2026-02-02 14:50:26,48.87876,2.19073,50.0,0,0,0,Rue Danton,tertiary,0,0,39,0,0
+2026-02-02 14:50:28,48.87884,2.19045,50.0,0,0,0,Rue Danton,tertiary,0,0,38,0,0
+2026-02-02 14:50:31,48.87893,2.19019,50.0,0,0,0,Rue Danton,tertiary,0,0,35,0,0
+2026-02-02 14:50:33,48.87901,2.18996,50.0,0,0,0,Rue Danton,tertiary,0,0,28,0,0
+2026-02-02 14:50:35,48.87906,2.18977,50.0,0,0,0,Rue Danton,tertiary,0,0,23,0,0
+2026-02-02 14:50:37,48.87905,2.18959,50.0,0,0,0,Rue Danton,tertiary,0,0,29,0,0
+2026-02-02 14:50:39,48.87899,2.18939,50.0,0,0,0,Rue Danton,tertiary,0,0,30,0,0
+2026-02-02 14:50:41,48.87893,2.18919,50.0,0,0,0,Rue Danton,tertiary,0,0,30,0,0
+2026-02-02 14:50:43,48.87889,2.18897,50.0,0,0,0,Rue Danton,tertiary,0,0,29,0,0
+2026-02-02 14:50:45,48.87886,2.18876,50.0,0,0,0,Rue Danton,tertiary,0,0,29,0,0
+2026-02-02 14:50:47,48.87884,2.18855,50.0,0,0,0,Rue Danton,tertiary,0,0,32,0,0
+2026-02-02 14:50:49,48.87888,2.1883,50.0,0,0,0,Rue Danton,tertiary,0,0,32,0,0
+2026-02-02 14:50:51,48.87891,2.18806,50.0,0,0,0,Rue Danton,tertiary,0,0,31,0,0
+2026-02-02 14:50:53,48.87899,2.18772,50.0,0,0,0,Rue Danton,tertiary,0,0,31,0,0
+2026-02-02 14:50:55,48.87899,2.18749,30.0,0,0,0,Rue Lienard,residential,0,0,30,0,0
+2026-02-02 14:50:57,48.87894,2.18727,50.0,0,0,0,Rue Lienard,tertiary,0,0,29,0,0
+2026-02-02 14:50:59,48.87888,2.18708,50.0,0,1,0,Rue Lienard,tertiary,0,0,26,0,0
+2026-02-02 14:51:00,48.87885,2.18701,50.0,0,1,0,Rue Lienard,tertiary,0,0,19,0,0
+2026-02-02 14:51:02,48.87881,2.18691,50.0,0,1,0,Rue Lienard,tertiary,0,0,6,0,0
+2026-02-02 14:51:04,48.87881,2.18688,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:06,48.87881,2.18688,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:08,48.8788,2.18689,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:10,48.8788,2.18689,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:12,48.87879,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:14,48.87879,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:16,48.8788,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:18,48.8788,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:20,48.8788,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:23,48.87879,2.18691,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:25,48.87879,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:27,48.87879,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:29,48.87879,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:31,48.87879,2.18691,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:33,48.87879,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:35,48.87878,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:37,48.87878,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:39,48.87878,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:41,48.87878,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:43,48.87878,2.18689,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:45,48.87878,2.1869,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:47,48.87877,2.18689,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:49,48.87877,2.18689,50.0,0,1,0,Rue Lienard,tertiary,0,0,0,0,0
+2026-02-02 14:51:51,48.87877,2.18685,50.0,0,1,0,Rue Lienard,tertiary,0,0,13,0,0
+2026-02-02 14:51:53,48.87873,2.18675,50.0,0,1,0,Rue Lienard,tertiary,0,0,16,0,0
+2026-02-02 14:51:55,48.87875,2.18663,50.0,0,1,0,Rue Lienard,tertiary,0,0,21,0,0
+2026-02-02 14:51:56,48.87879,2.18658,50.0,0,1,0,Rue Lienard,tertiary,0,0,28,0,0
+2026-02-02 14:51:58,48.87893,2.18645,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,35,0,0
+2026-02-02 14:52:00,48.87911,2.18628,50.0,0,0,0,Boulevard de l'Hôpital Stell,secondary,0,0,42,0,0
+2026-02-02 14:52:02,48.87929,2.18612,50.0,0,0,0,Boulevard de l'Hôpital Stell,secondary,0,0,41,0,0
+2026-02-02 14:52:04,48.87947,2.18596,50.0,0,0,0,Boulevard de l'Hôpital Stell,secondary,0,0,34,0,0
+2026-02-02 14:52:06,48.8796,2.18583,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,20,0,0
+2026-02-02 14:52:08,48.87967,2.18577,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,4,0,0
+2026-02-02 14:52:10,48.87968,2.18576,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:12,48.87968,2.18577,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:14,48.87968,2.18578,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:16,48.87968,2.18579,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:19,48.87968,2.18579,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:21,48.87969,2.18578,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:23,48.87968,2.18579,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:25,48.87968,2.1858,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:27,48.87969,2.1858,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:29,48.87969,2.18581,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:31,48.87969,2.18582,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:33,48.87968,2.18582,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:35,48.87968,2.18582,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:37,48.87968,2.18583,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:39,48.87968,2.18583,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:41,48.87969,2.18582,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:43,48.87969,2.18582,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:45,48.87969,2.18582,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:47,48.87969,2.18582,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:49,48.87968,2.18583,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:50,48.87968,2.18583,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:52:52,48.87969,2.18583,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,8,0,0
+2026-02-02 14:52:54,48.87974,2.18579,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,16,0,0
+2026-02-02 14:52:56,48.87981,2.18572,50.0,,,,Boulevard de l'Hôpital Stell,secondary,,,21,0,0
+2026-02-02 14:52:58,48.87993,2.18563,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,31,0,0
+2026-02-02 14:53:00,48.88006,2.18552,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,32,0,0
+2026-02-02 14:53:02,48.8802,2.1854,50.0,0,0,0,Boulevard de l'Hôpital Stell,secondary,0,0,31,0,0
+2026-02-02 14:53:04,48.88033,2.18528,50.0,0,0,0,Boulevard de l'Hôpital Stell,secondary,0,0,28,0,0
+2026-02-02 14:53:06,48.88044,2.18519,50.0,0,0,0,Boulevard de l'Hôpital Stell,secondary,0,0,23,0,0
+2026-02-02 14:53:08,48.88054,2.18511,50.0,0,0,0,Boulevard de l'Hôpital Stell,secondary,0,0,17,0,0
+2026-02-02 14:53:11,48.88062,2.18505,50.0,0,0,0,Boulevard de l'Hôpital Stell,secondary,0,0,15,0,0
+2026-02-02 14:53:13,48.88067,2.185,50.0,0,0,0,Boulevard de l'Hôpital Stell,secondary,0,0,12,0,0
+2026-02-02 14:53:15,48.88073,2.18496,50.0,0,0,0,Boulevard de l'Hôpital Stell,secondary,0,0,9,0,0
+2026-02-02 14:53:17,48.88076,2.18494,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,3,0,0
+2026-02-02 14:53:19,48.88077,2.18494,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:21,48.88077,2.18493,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:23,48.88076,2.18493,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:25,48.88077,2.18492,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:27,48.88077,2.18492,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:29,48.88078,2.18492,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:31,48.88081,2.18492,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:33,48.88082,2.18492,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:35,48.88082,2.18492,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:37,48.88081,2.18492,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:39,48.88081,2.18492,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:41,48.88082,2.18492,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:43,48.88081,2.18492,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:45,48.88081,2.18493,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:46,48.88081,2.18493,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,0,0,0
+2026-02-02 14:53:48,48.88083,2.18493,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,2,0,0
+2026-02-02 14:53:50,48.88088,2.18489,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,8,0,0
+2026-02-02 14:53:52,48.88094,2.18486,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,15,0,0
+2026-02-02 14:53:54,48.881,2.18481,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,0,17,0,0
+2026-02-02 14:53:56,48.88107,2.18475,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,17,0,0
+2026-02-02 14:53:58,48.88115,2.18469,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,15,0,0
+2026-02-02 14:54:00,48.8812,2.18463,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,6,0,0
+2026-02-02 14:54:02,48.88123,2.18461,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,0,0,0
+2026-02-02 14:54:04,48.88123,2.1846,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,0,0,0
+2026-02-02 14:54:07,48.88122,2.18459,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,0,0,0
+2026-02-02 14:54:09,48.88123,2.18459,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,0,0,0
+2026-02-02 14:54:11,48.88123,2.18458,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,0,0,0
+2026-02-02 14:54:13,48.88123,2.18457,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,0,0,0
+2026-02-02 14:54:15,48.88124,2.18457,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,6,0,0
+2026-02-02 14:54:17,48.88126,2.18454,50.0,0,1,0,Avenue Paul Doumer,primary,0,1,11,0,0
+2026-02-02 14:54:19,48.88131,2.18448,50.0,0,1,0,Boulevard de l'Hôpital Stell,secondary,0,1,15,0,0
+2026-02-02 14:54:21,48.88132,2.18438,50.0,0,1,0,Avenue Paul Doumer,primary,0,1,23,0,0
+2026-02-02 14:54:23,48.88126,2.18422,50.0,0,1,0,Avenue Paul Doumer,primary,0,1,29,0,0
+2026-02-02 14:54:25,48.88118,2.18402,50.0,0,1,0,Avenue Paul Doumer,primary,0,1,35,0,0
+2026-02-02 14:54:27,48.88109,2.18381,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,37,0,0
+2026-02-02 14:54:29,48.881,2.18356,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,36,0,0
+2026-02-02 14:54:31,48.88091,2.18332,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,34,0,0
+2026-02-02 14:54:33,48.88077,2.18301,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,33,0,0
+2026-02-02 14:54:35,48.88069,2.18279,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,31,0,0
+2026-02-02 14:54:37,48.88062,2.18261,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,25,0,0
+2026-02-02 14:54:39,48.88057,2.18246,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,20,0,0
+2026-02-02 14:54:40,48.88055,2.1824,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,16,0,0
+2026-02-02 14:54:42,48.88051,2.18232,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,8,0,0
+2026-02-02 14:54:44,48.8805,2.18227,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,8,0,0
+2026-02-02 14:54:46,48.88048,2.18221,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,13,0,0
+2026-02-02 14:54:48,48.88044,2.18213,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,16,0,0
+2026-02-02 14:54:50,48.88039,2.18203,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,20,0,0
+2026-02-02 14:54:52,48.88035,2.1819,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,20,0,0
+2026-02-02 14:54:54,48.88029,2.18177,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,20,0,0
+2026-02-02 14:54:56,48.88024,2.18164,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,22,0,0
+2026-02-02 14:54:58,48.88019,2.18151,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,23,0,0
+2026-02-02 14:55:00,48.88014,2.18135,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,24,0,0
+2026-02-02 14:55:03,48.88007,2.18118,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,25,0,0
+2026-02-02 14:55:05,48.88001,2.18101,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,26,0,0
+2026-02-02 14:55:07,48.87996,2.18083,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,26,0,0
+2026-02-02 14:55:09,48.87989,2.18065,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,29,0,0
+2026-02-02 14:55:11,48.87983,2.18044,50.0,0,1,0,Avenue Paul Doumer,primary_link,0,0,29,0,0
+2026-02-02 14:55:13,48.87977,2.18024,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,17,0,0
+2026-02-02 14:55:15,48.87973,2.18012,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,12,0,0
+2026-02-02 14:55:17,48.8797,2.18005,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,18,0,0
+2026-02-02 14:55:19,48.87966,2.17994,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,19,0,0
+2026-02-02 14:55:21,48.87962,2.1798,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,16,0,0
+2026-02-02 14:55:23,48.87959,2.17968,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,11,0,0
+2026-02-02 14:55:25,48.87956,2.17961,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,4,0,0
+2026-02-02 14:55:27,48.87954,2.17956,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,2,0,0
+2026-02-02 14:55:29,48.87954,2.17956,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 14:55:31,48.87954,2.17956,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 14:55:33,48.87954,2.17955,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 14:55:34,48.87952,2.17955,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 14:55:36,48.87952,2.17955,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 14:55:38,48.87952,2.17955,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 14:55:40,48.87952,2.17955,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 14:55:42,48.87952,2.17956,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,2,0,0
+2026-02-02 14:55:44,48.87952,2.17951,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,20,0,0
+2026-02-02 14:55:46,48.87947,2.17941,50.0,,,,Avenue Paul Doumer,primary,,,26,0,0
+2026-02-02 14:55:48,48.8794,2.17923,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,33,0,0
+2026-02-02 14:55:50,48.87931,2.179,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,34,0,0
+2026-02-02 14:55:52,48.87923,2.17878,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,31,0,0
+2026-02-02 14:55:54,48.87916,2.17857,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,25,0,0
+2026-02-02 14:55:57,48.87911,2.1784,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,18,0,0
+2026-02-02 14:55:59,48.87908,2.17829,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,11,0,0
+2026-02-02 14:56:01,48.87906,2.17823,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,5,0,0
+2026-02-02 14:56:03,48.87905,2.1782,50.0,,,,Avenue Paul Doumer,primary,,,4,0,0
+2026-02-02 14:56:05,48.87903,2.17818,50.0,,,,Avenue Paul Doumer,primary,,,11,0,0
+2026-02-02 14:56:07,48.87899,2.17812,50.0,,,,Avenue Paul Doumer,primary,,,14,0,0
+2026-02-02 14:56:09,48.87896,2.17803,50.0,,,,Avenue Paul Doumer,primary,,,20,0,0
+2026-02-02 14:56:11,48.87893,2.17791,50.0,,,,Avenue Paul Doumer,primary,,,27,0,0
+2026-02-02 14:56:13,48.87887,2.17773,50.0,,,,Avenue Paul Doumer,primary,,,29,0,0
+2026-02-02 14:56:15,48.87878,2.17752,50.0,,,,Avenue Paul Doumer,primary,,,33,0,0
+2026-02-02 14:56:17,48.8787,2.17729,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,36,0,0
+2026-02-02 14:56:19,48.87859,2.17704,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,36,0,0
+2026-02-02 14:56:21,48.87848,2.17668,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,33,0,0
+2026-02-02 14:56:23,48.87838,2.17647,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,30,0,0
+2026-02-02 14:56:25,48.87832,2.17628,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,27,0,0
+2026-02-02 14:56:27,48.87825,2.17611,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,27,0,0
+2026-02-02 14:56:28,48.87821,2.17604,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,27,0,0
+2026-02-02 14:56:30,48.87816,2.17586,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,28,0,0
+2026-02-02 14:56:32,48.87809,2.17567,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,28,0,0
+2026-02-02 14:56:34,48.87804,2.1755,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,31,0,0
+2026-02-02 14:56:36,48.87795,2.1753,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,35,0,0
+2026-02-02 14:56:38,48.87787,2.17505,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,43,0,0
+2026-02-02 14:56:40,48.87776,2.17475,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,44,0,0
+2026-02-02 14:56:42,48.87766,2.17444,50.0,,,,Avenue Paul Doumer,primary,,,42,0,0
+2026-02-02 14:56:44,48.87756,2.17417,50.0,,,,Avenue Paul Doumer,primary,,,40,0,0
+2026-02-02 14:56:46,48.87746,2.17388,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,38,0,0
+2026-02-02 14:56:48,48.87737,2.17361,,,,,,,,,29,0,0
+2026-02-02 14:56:51,48.8773,2.17341,,,,,,,,,17,0,0
+2026-02-02 14:56:53,48.87727,2.17331,,,,,,,,,5,0,0
+2026-02-02 14:56:55,48.87726,2.17326,50.0,0,1,0,Avenue Napoléon Bonaparte,primary,0,0,12,0,0
+2026-02-02 14:56:57,48.87722,2.17318,50.0,0,1,0,Avenue Napoléon Bonaparte,primary,0,0,23,0,0
+2026-02-02 14:56:59,48.87715,2.17301,50.0,0,1,0,Avenue Napoléon Bonaparte,primary,0,0,36,0,0
+2026-02-02 14:57:01,48.87707,2.17278,50.0,0,1,0,Avenue Napoléon Bonaparte,primary,0,0,43,0,0
+2026-02-02 14:57:03,48.87696,2.17249,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,49,0,0
+2026-02-02 14:57:05,48.87684,2.17216,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,50,0,0
+2026-02-02 14:57:07,48.87672,2.17181,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,47,0,0
+2026-02-02 14:57:09,48.87661,2.17149,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,46,0,0
+2026-02-02 14:57:11,48.87647,2.1712,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,46,0,0
+2026-02-02 14:57:13,48.87634,2.17091,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,46,0,0
+2026-02-02 14:57:15,48.87614,2.17049,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,44,0,0
+2026-02-02 14:57:17,48.87602,2.17022,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,41,0,0
+2026-02-02 14:57:19,48.8759,2.16997,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,41,0,0
+2026-02-02 14:57:21,48.87579,2.16971,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,39,0,0
+2026-02-02 14:57:23,48.8757,2.16949,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,30,0,0
+2026-02-02 14:57:24,48.87566,2.16939,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,24,0,0
+2026-02-02 14:57:26,48.8756,2.16925,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,20,0,0
+2026-02-02 14:57:28,48.87556,2.16917,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,0,0,0
+2026-02-02 14:57:30,48.87554,2.16918,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,0,0,0
+2026-02-02 14:57:32,48.87556,2.16918,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,0,0,0
+2026-02-02 14:57:34,48.87556,2.16918,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,0,0,0
+2026-02-02 14:57:36,48.87556,2.16919,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,0,0,0
+2026-02-02 14:57:38,48.87556,2.16919,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,0,0,0
+2026-02-02 14:57:40,48.87556,2.1692,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,5,0,0
+2026-02-02 14:57:42,48.87556,2.16918,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,19,0,0
+2026-02-02 14:57:45,48.87551,2.16908,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,23,0,0
+2026-02-02 14:57:47,48.87543,2.16892,50.0,0,0,0,Avenue Napoléon Bonaparte,primary,0,0,26,0,0
+2026-02-02 14:57:49,48.87534,2.16875,50.0,,,,Avenue Napoléon Bonaparte,primary,,,29,0,0
+2026-02-02 14:57:51,48.87525,2.16856,50.0,0,1,0,Avenue Napoléon Bonaparte,primary,0,0,31,0,0
+2026-02-02 14:57:53,48.87516,2.16836,50.0,0,1,0,Avenue Napoléon Bonaparte,primary,0,0,30,0,0
+2026-02-02 14:57:55,48.87506,2.16816,50.0,0,1,0,Avenue Napoléon Bonaparte,primary,0,0,26,0,0
+2026-02-02 14:57:57,48.87499,2.16799,50.0,0,1,0,Avenue Napoléon Bonaparte,primary,0,0,24,0,0
+2026-02-02 14:57:59,48.87493,2.16783,50.0,0,1,0,Avenue Napoléon Bonaparte,primary,0,0,23,0,0
+2026-02-02 14:58:01,48.87498,2.16766,50.0,0,1,0,Avenue Napoléon Bonaparte,primary,0,0,28,0,0
+2026-02-02 14:58:03,48.87503,2.16745,,,,,,,,,35,0,0
+2026-02-02 14:58:05,48.8751,2.1672,,,,,,,,,35,0,0
+2026-02-02 14:58:07,48.87517,2.16694,,,,,,,,,33,0,0
+2026-02-02 14:58:09,48.87524,2.16671,,,,,,,,,40,0,0
+2026-02-02 14:58:11,48.87533,2.16644,,,,,,,,,38,0,0
+2026-02-02 14:58:13,48.87545,2.16603,,,,,,,,,36,0,0
+2026-02-02 14:58:15,48.87553,2.16579,,,,,,,,,36,0,0
+2026-02-02 14:58:17,48.87561,2.16555,,,,,,,,,34,0,0
+2026-02-02 14:58:19,48.87568,2.16533,20.0,0,0,0,Chemin Gagneau,service,0,0,34,1,0
+2026-02-02 14:58:20,48.87571,2.16521,,,,,,,,,32,0,0
+2026-02-02 14:58:22,48.87578,2.16499,,,,,,,,,28,0,0
+2026-02-02 14:58:24,48.87584,2.16481,20.0,0,0,0,Rue Nadar,residential,0,0,28,1,0
+2026-02-02 14:58:26,48.87589,2.16461,,,,,,,,,32,0,0
+2026-02-02 14:58:28,48.87595,2.16437,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,38,1,0
+2026-02-02 14:58:30,48.87604,2.16411,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,37,1,0
+2026-02-02 14:58:32,48.87612,2.16387,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,33,0,0
+2026-02-02 14:58:34,48.87619,2.16365,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,29,0,0
+2026-02-02 14:58:36,48.87626,2.16344,20.0,0,0,0,Avenue Auguste Renoir,residential,0,0,28,1,0
+2026-02-02 14:58:38,48.87631,2.16325,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,27,0,0
+2026-02-02 14:58:41,48.87639,2.16309,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,23,0,0
+2026-02-02 14:58:43,48.87647,2.16295,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,13,0,0
+2026-02-02 14:58:45,48.8765,2.16288,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,7,0,0
+2026-02-02 14:58:47,48.87652,2.16283,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,8,0,0
+2026-02-02 14:58:49,48.87651,2.16276,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,12,0,0
+2026-02-02 14:58:51,48.87647,2.16267,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,12,0,0
+2026-02-02 14:58:53,48.87643,2.1626,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,11,0,0
+2026-02-02 14:58:55,48.87639,2.16253,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,10,0,0
+2026-02-02 14:58:57,48.87636,2.16247,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,16,0,0
+2026-02-02 14:59:01,48.87626,2.16227,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,20,0,0
+2026-02-02 14:59:01,48.87626,2.16227,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,20,0,0
+2026-02-02 14:59:03,48.87618,2.16215,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,20,0,0
+2026-02-02 14:59:05,48.87611,2.16203,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,26,0,0
+2026-02-02 14:59:07,48.87606,2.16187,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,24,0,0
+2026-02-02 14:59:09,48.87621,2.1617,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,18,0,0
+2026-02-02 14:59:11,48.87626,2.16181,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,17,0,0
+2026-02-02 14:59:13,48.8763,2.16193,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,17,0,0
+2026-02-02 14:59:15,48.87634,2.16203,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,16,0,0
+2026-02-02 14:59:16,48.87637,2.16207,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,16,0,0
+2026-02-02 14:59:18,48.87642,2.16217,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,15,0,0
+2026-02-02 14:59:20,48.87647,2.16225,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,15,0,0
+2026-02-02 14:59:22,48.87648,2.16233,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,14,0,0
+2026-02-02 14:59:24,48.87644,2.16244,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,15,0,0
+2026-02-02 14:59:26,48.87644,2.16254,30.0,,,,Boulevard Marcel Pourtout,unclassified,,,16,0,0
+2026-02-02 14:59:28,48.8765,2.16263,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,6,0,0
+2026-02-02 14:59:30,48.87652,2.16265,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,0,0,0
+2026-02-02 14:59:32,48.87651,2.16263,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,0,0,0
+2026-02-02 14:59:34,48.87651,2.16263,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,0,0,0
+2026-02-02 14:59:37,48.87651,2.16262,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,3,0,0
+2026-02-02 14:59:39,48.87652,2.16266,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,14,0,0
+2026-02-02 14:59:41,48.8765,2.16276,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,17,0,0
+2026-02-02 14:59:43,48.87645,2.16286,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,20,0,0
+2026-02-02 14:59:45,48.87639,2.16298,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,24,0,0
+2026-02-02 14:59:47,48.87632,2.16312,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,26,0,0
+2026-02-02 14:59:49,48.87626,2.1633,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,37,1,0
+2026-02-02 14:59:51,48.87617,2.16355,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,39,1,0
+2026-02-02 14:59:53,48.87608,2.16381,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,38,1,0
+2026-02-02 14:59:55,48.876,2.16406,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,34,1,0
+2026-02-02 14:59:57,48.87591,2.16428,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,20,0,0
+2026-02-02 14:59:59,48.87587,2.16442,30.0,0,0,0,Boulevard Marcel Pourtout,unclassified,0,0,12,0,0
+2026-02-02 15:00:01,48.87584,2.1645,30.0,0,0,0,Rue Édouard Manet,residential,0,0,17,0,0
+2026-02-02 15:00:03,48.87577,2.16469,,,,,,,,,22,0,0
+2026-02-02 15:00:05,48.87571,2.16486,,,,,,,,,28,0,0
+2026-02-02 15:00:07,48.87565,2.16506,,,,,,,,,33,0,0
+2026-02-02 15:00:09,48.87557,2.16529,,,,,,,,,34,0,0
+2026-02-02 15:00:10,48.87553,2.1654,,,,,,,,,33,0,0
+2026-02-02 15:00:12,48.87545,2.16562,,,,,,,,,32,0,0
+2026-02-02 15:00:14,48.87539,2.16583,,,,,,,,,32,0,0
+2026-02-02 15:00:16,48.8753,2.16604,,,,,,,,,32,0,0
+2026-02-02 15:00:18,48.87522,2.16626,,,,,,,,,36,0,0
+2026-02-02 15:00:20,48.87513,2.16649,,,,,,,,,34,0,0
+2026-02-02 15:00:22,48.87505,2.16671,,,,,,,,,32,0,0
+2026-02-02 15:00:24,48.87498,2.16691,,,,,,,,,22,0,0
+2026-02-02 15:00:26,48.87493,2.16704,,,,,,,,,7,0,0
+2026-02-02 15:00:28,48.87491,2.16707,,,,,,,,,0,0,0
+2026-02-02 15:00:31,48.87492,2.16707,,,,,,,,,0,0,0
+2026-02-02 15:00:33,48.87492,2.16707,,,,,,,,,0,0,0
+2026-02-02 15:00:35,48.87492,2.16708,,,,,,,,,0,0,0
+2026-02-02 15:00:37,48.87493,2.16707,,,,,,,,,0,0,0
+2026-02-02 15:00:39,48.87493,2.16707,,,,,,,,,0,0,0
+2026-02-02 15:00:56,48.87493,2.16707,,,,,,,,,6,0,0
+2026-02-02 15:00:59,48.87493,2.16708,,,,,,,,,18,0,0
+2026-02-02 15:00:59,48.87493,2.16708,,,,,,,,,18,0,0
+2026-02-02 15:01:24,48.8748,2.16746,,,,,,,,,0,0,0
+2026-02-02 15:03:06,48.87774,2.17467,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,38,0,0
+2026-02-02 15:03:08,48.87783,2.17491,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,37,0,0
+2026-02-02 15:03:10,48.87792,2.17516,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,40,0,0
+2026-02-02 15:03:12,48.87802,2.17543,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,43,0,0
+2026-02-02 15:03:14,48.87817,2.17589,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,41,0,0
+2026-02-02 15:03:16,48.87828,2.17616,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,41,0,0
+2026-02-02 15:03:18,48.87838,2.17644,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,39,0,0
+2026-02-02 15:03:20,48.87847,2.17671,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,37,0,0
+2026-02-02 15:03:22,48.87854,2.17692,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,15,0,0
+2026-02-02 15:03:23,48.87854,2.17695,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,5,0,0
+2026-02-02 15:03:25,48.87853,2.17693,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,3,0,0
+2026-02-02 15:03:27,48.87853,2.17694,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,1,0,0
+2026-02-02 15:03:29,48.87853,2.17695,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:31,48.87856,2.17696,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:33,48.87857,2.17698,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:35,48.87859,2.17699,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:37,48.87861,2.17699,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:39,48.87861,2.177,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:41,48.87862,2.17699,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:43,48.87861,2.17699,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:45,48.87861,2.17699,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:47,48.87861,2.17699,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:49,48.87861,2.17698,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:51,48.87859,2.17698,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:53,48.87859,2.17698,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:55,48.87859,2.17697,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:03:57,48.87859,2.17697,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:04:00,48.87859,2.17698,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:04:02,48.87861,2.17698,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,6,0,0
+2026-02-02 15:04:04,48.87862,2.17703,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,18,0,0
+2026-02-02 15:04:06,48.87867,2.17716,50.0,,,,Avenue Paul Doumer,primary,,,18,0,0
+2026-02-02 15:04:08,48.87871,2.17732,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,27,0,0
+2026-02-02 15:04:10,48.8788,2.17758,50.0,,,,Avenue Paul Doumer,primary,,,26,0,0
+2026-02-02 15:04:12,48.87886,2.17775,50.0,,,,Avenue Paul Doumer,primary,,,28,0,0
+2026-02-02 15:04:14,48.87893,2.17794,50.0,,,,Avenue Paul Doumer,primary,,,31,0,0
+2026-02-02 15:04:16,48.87901,2.17815,50.0,,,,Avenue Paul Doumer,primary,,,31,0,0
+2026-02-02 15:04:17,48.87905,2.17825,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,31,0,0
+2026-02-02 15:04:19,48.87912,2.17845,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,32,0,0
+2026-02-02 15:04:21,48.8792,2.17865,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,31,0,0
+2026-02-02 15:04:23,48.87929,2.17885,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,33,0,0
+2026-02-02 15:04:25,48.87937,2.17907,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,32,0,0
+2026-02-02 15:04:27,48.87945,2.1793,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,33,0,0
+2026-02-02 15:04:29,48.87954,2.17951,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,38,0,0
+2026-02-02 15:04:31,48.87963,2.17975,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,38,0,0
+2026-02-02 15:04:33,48.87974,2.17998,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,35,0,0
+2026-02-02 15:04:35,48.87983,2.1802,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,33,0,0
+2026-02-02 15:04:37,48.8799,2.18041,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,32,0,0
+2026-02-02 15:04:39,48.87997,2.18062,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,31,0,0
+2026-02-02 15:04:41,48.88005,2.18082,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,29,0,0
+2026-02-02 15:04:43,48.88011,2.18101,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,10,0,0
+2026-02-02 15:04:45,48.88014,2.18107,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,1,0,0
+2026-02-02 15:04:47,48.88013,2.18106,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:04:49,48.88013,2.18106,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:04:51,48.88012,2.18107,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:04:54,48.88012,2.18107,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:04:56,48.88011,2.18109,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:04:58,48.88011,2.1811,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:00,48.8801,2.1811,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:02,48.8801,2.18111,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:04,48.8801,2.18112,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:06,48.8801,2.18113,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:08,48.8801,2.18114,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:10,48.8801,2.18114,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:11,48.8801,2.18114,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:13,48.8801,2.18116,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:15,48.8801,2.18116,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:17,48.8801,2.18116,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:19,48.88009,2.18117,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:05:21,48.8801,2.18119,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,14,0,0
+2026-02-02 15:05:23,48.88013,2.18131,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,23,0,0
+2026-02-02 15:05:25,48.88019,2.18148,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,33,0,0
+2026-02-02 15:05:27,48.88027,2.18171,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,38,0,0
+2026-02-02 15:05:29,48.88038,2.18198,50.0,0,1,0,Avenue Paul Doumer,primary,0,0,45,0,0
+2026-02-02 15:05:31,48.8805,2.18228,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,46,0,0
+2026-02-02 15:05:33,48.88062,2.18259,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,45,0,0
+2026-02-02 15:05:35,48.88073,2.18288,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,45,0,0
+2026-02-02 15:05:37,48.88083,2.18319,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,42,0,0
+2026-02-02 15:05:39,48.88094,2.18347,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,41,0,0
+2026-02-02 15:05:41,48.88102,2.18375,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,45,0,0
+2026-02-02 15:05:43,48.88114,2.18406,50.0,0,1,0,Avenue Paul Doumer,primary,0,1,51,0,0
+2026-02-02 15:05:45,48.88126,2.1844,50.0,0,1,0,Avenue Paul Doumer,primary,0,1,52,0,0
+2026-02-02 15:05:48,48.88135,2.18478,50.0,0,1,0,Avenue Paul Doumer,primary,0,1,53,0,0
+2026-02-02 15:05:50,48.88144,2.18514,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,49,0,0
+2026-02-02 15:05:52,48.88156,2.18547,50.0,0,0,1,Avenue Paul Doumer,primary,0,0,50,0,0
+2026-02-02 15:05:54,48.88168,2.18579,50.0,0,0,1,Avenue Paul Doumer,primary,0,0,55,1,0
+2026-02-02 15:05:56,48.88181,2.18614,50.0,0,0,1,Avenue Paul Doumer,primary,0,0,55,1,0
+2026-02-02 15:05:58,48.88202,2.18668,50.0,0,0,1,Avenue Paul Doumer,primary,0,0,53,0,0
+2026-02-02 15:06:00,48.88216,2.18702,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,51,0,0
+2026-02-02 15:06:02,48.88228,2.18736,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,49,0,0
+2026-02-02 15:06:04,48.88239,2.18769,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,48,0,0
+2026-02-02 15:06:06,48.8825,2.18799,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,45,0,0
+2026-02-02 15:06:07,48.88256,2.18814,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,44,0,0
+2026-02-02 15:06:09,48.88266,2.18843,50.0,0,0,1,Avenue Paul Doumer,primary,0,0,43,0,0
+2026-02-02 15:06:11,48.88277,2.18873,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,45,0,0
+2026-02-02 15:06:13,48.88288,2.18902,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,43,0,0
+2026-02-02 15:06:15,48.88298,2.18931,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,40,0,0
+2026-02-02 15:06:17,48.88306,2.18958,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,38,0,0
+2026-02-02 15:06:19,48.88314,2.18983,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,39,0,0
+2026-02-02 15:06:21,48.88324,2.1901,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,41,0,0
+2026-02-02 15:06:23,48.88333,2.19036,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,42,0,0
+2026-02-02 15:06:25,48.88345,2.19062,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,39,0,0
+2026-02-02 15:06:27,48.88353,2.19089,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,38,0,0
+2026-02-02 15:06:29,48.88361,2.19114,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,37,0,0
+2026-02-02 15:06:31,48.88369,2.19139,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,38,0,0
+2026-02-02 15:06:33,48.88378,2.19164,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,34,0,0
+2026-02-02 15:06:35,48.88387,2.19187,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,25,0,0
+2026-02-02 15:06:37,48.88392,2.19203,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,13,0,0
+2026-02-02 15:06:39,48.88394,2.1921,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:06:41,48.88394,2.19211,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:06:44,48.88394,2.1921,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:06:46,48.88395,2.1921,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:06:48,48.88394,2.19211,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:06:50,48.88394,2.19211,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:06:52,48.88394,2.19211,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,0,0,0
+2026-02-02 15:06:54,48.88395,2.19211,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,13,0,0
+2026-02-02 15:06:56,48.88397,2.19218,50.0,0,0,0,Avenue Paul Doumer,primary,0,0,29,0,0
+2026-02-02 15:06:58,48.88405,2.1924,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,43,0,0
+2026-02-02 15:07:00,48.8842,2.19276,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,45,0,0
+2026-02-02 15:07:02,48.8844,2.19316,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,43,0,0
+2026-02-02 15:07:03,48.88446,2.1933,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,42,0,0
+2026-02-02 15:07:05,48.88457,2.19357,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,23,0,0
+2026-02-02 15:07:07,48.8846,2.19367,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,4,0,0
+2026-02-02 15:07:09,48.8846,2.19367,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:11,48.8846,2.19367,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:13,48.8846,2.19369,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:15,48.88461,2.19369,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:17,48.88462,2.1937,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:19,48.88462,2.1937,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:21,48.88462,2.1937,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:23,48.88463,2.1937,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:25,48.88463,2.1937,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:27,48.88463,2.19372,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,18,0,0
+2026-02-02 15:07:29,48.88468,2.19383,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,27,0,0
+2026-02-02 15:07:31,48.88475,2.19404,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,44,0,0
+2026-02-02 15:07:33,48.88487,2.19434,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,53,0,0
+2026-02-02 15:07:35,48.885,2.1947,50.0,,,,Avenue du Maréchal Joffre,primary,,,42,0,0
+2026-02-02 15:07:37,48.88512,2.19501,50.0,,,,Avenue du Maréchal Joffre,primary,,,35,0,0
+2026-02-02 15:07:40,48.88519,2.19522,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,27,0,0
+2026-02-02 15:07:42,48.88527,2.19539,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,16,0,0
+2026-02-02 15:07:44,48.8853,2.19549,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,10,0,0
+2026-02-02 15:07:46,48.88531,2.19556,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,3,0,0
+2026-02-02 15:07:48,48.88532,2.19558,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:50,48.88531,2.19559,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:52,48.88531,2.19559,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:54,48.8853,2.1956,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,0,0,0
+2026-02-02 15:07:56,48.8853,2.19562,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,7,0,0
+2026-02-02 15:07:57,48.88531,2.19565,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,12,0,0
+2026-02-02 15:07:59,48.88535,2.19576,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,18,0,0
+2026-02-02 15:08:01,48.88541,2.1959,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,28,0,0
+2026-02-02 15:08:03,48.88548,2.1961,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,32,0,0
+2026-02-02 15:08:05,48.88556,2.19634,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,37,0,0
+2026-02-02 15:08:07,48.88565,2.19658,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,32,0,0
+2026-02-02 15:08:09,48.88572,2.19679,50.0,0,0,0,Avenue du Maréchal Joffre,primary,0,0,32,0,0
+2026-02-02 15:08:11,48.88579,2.19701,50.0,0,0,0,,primary_link,0,0,37,0,0
+2026-02-02 15:08:13,48.88588,2.19728,50.0,0,0,0,,primary_link,0,0,44,0,0
+2026-02-02 15:08:15,48.88599,2.19757,50.0,0,0,0,,primary_link,0,0,46,0,0
+2026-02-02 15:08:17,48.88609,2.19791,50.0,0,0,0,,primary_link,0,0,49,0,0
+2026-02-02 15:08:19,48.88619,2.19823,50.0,0,0,0,,primary_link,0,0,47,0,0
+2026-02-02 15:08:21,48.88631,2.19854,50.0,0,0,0,,primary_link,0,0,47,0,0
+2026-02-02 15:08:23,48.88641,2.19885,50.0,0,0,0,,primary_link,0,0,48,0,0
+2026-02-02 15:08:25,48.88653,2.19916,50.0,0,0,0,,primary_link,0,0,50,0,0
+2026-02-02 15:08:27,48.88664,2.1995,50.0,0,0,0,,primary_link,0,1,54,1,0
+2026-02-02 15:08:29,48.88681,2.19985,50.0,1,0,0,,primary_link,0,1,54,1,0
+2026-02-02 15:08:31,48.88697,2.20016,50.0,1,0,0,,primary_link,0,1,53,0,0
+2026-02-02 15:08:38,48.88722,2.20118,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,1,54,1,0
+2026-02-02 15:08:40,48.88714,2.20162,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,55,1,0
+2026-02-02 15:08:42,48.88708,2.20216,50.0,0,0,0,Avenue Georges Clemenceau,primary_link,0,0,57,1,0
+2026-02-02 15:08:44,48.88702,2.20262,50.0,0,0,0,Avenue Georges Clemenceau,primary_link,0,0,58,1,0
+2026-02-02 15:08:46,48.88697,2.2033,50.0,0,0,0,Avenue Georges Clemenceau,primary_link,0,0,58,1,0
+2026-02-02 15:08:48,48.88693,2.20372,50.0,0,0,0,Avenue Georges Clemenceau,primary_link,0,0,53,0,0
+2026-02-02 15:08:50,48.88687,2.2041,50.0,0,0,0,Avenue Georges Clemenceau,primary_link,0,0,48,0,0
+2026-02-02 15:08:52,48.88681,2.20445,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,47,0,0
+2026-02-02 15:08:54,48.88678,2.20479,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,43,0,0
+2026-02-02 15:08:55,48.88677,2.20494,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,42,0,0
+2026-02-02 15:08:57,48.88675,2.20525,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,41,0,0
+2026-02-02 15:08:59,48.88673,2.20556,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,45,0,0
+2026-02-02 15:09:01,48.8867,2.20593,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,50,0,0
+2026-02-02 15:09:03,48.88668,2.2063,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,51,0,0
+2026-02-02 15:09:05,48.88666,2.20667,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,49,0,0
+2026-02-02 15:09:07,48.88663,2.20703,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,46,0,0
+2026-02-02 15:09:09,48.8866,2.20737,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,42,0,0
+2026-02-02 15:09:11,48.88658,2.20767,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,38,0,0
+2026-02-02 15:09:13,48.88656,2.20795,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,34,0,0
+2026-02-02 15:09:15,48.88653,2.20821,50.0,0,0,0,Avenue Georges Clemenceau,primary,0,0,27,0,0
+2026-02-02 15:09:17,48.88652,2.2084,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,19,0,0
+2026-02-02 15:09:19,48.88651,2.20853,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,8,0,0
+2026-02-02 15:09:21,48.8865,2.20858,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:23,48.88651,2.20859,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:25,48.88652,2.20859,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:27,48.88652,2.20858,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:30,48.88652,2.20858,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:32,48.88652,2.20858,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:34,48.88652,2.20859,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:36,48.88652,2.20859,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:38,48.88652,2.2086,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,10,0,0
+2026-02-02 15:09:40,48.88652,2.20866,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,19,0,0
+2026-02-02 15:09:42,48.88651,2.20888,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,14,0,0
+2026-02-02 15:09:44,48.88649,2.20898,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,11,0,0
+2026-02-02 15:09:46,48.88649,2.20906,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,8,0,0
+2026-02-02 15:09:48,48.88649,2.20911,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,4,0,0
+2026-02-02 15:09:49,48.88649,2.20912,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,2,0,0
+2026-02-02 15:09:51,48.8865,2.20913,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:53,48.8865,2.20912,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:55,48.8865,2.20912,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:57,48.8865,2.20912,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:09:59,48.8865,2.20913,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,1,0,0
+2026-02-02 15:10:01,48.8865,2.20915,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,1,0,0
+2026-02-02 15:10:03,48.8865,2.20916,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:10:05,48.8865,2.20916,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:10:07,48.8865,2.20915,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:10:09,48.8865,2.20915,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,1,0,0
+2026-02-02 15:10:11,48.8865,2.20916,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,1,0,0
+2026-02-02 15:10:13,48.8865,2.20918,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:10:15,48.88649,2.20918,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,0,0,0
+2026-02-02 15:10:17,48.88649,2.20918,50.0,0,1,0,Avenue Georges Clemenceau,primary,0,0,9,0,0
+2026-02-02 15:10:19,48.88653,2.20922,50.0,0,1,0,Rue Sadi Carnot,unclassified,0,0,24,0,0
+2026-02-02 15:10:21,48.88664,2.20914,50.0,0,1,0,Rue Sadi Carnot,unclassified,0,0,27,0,0
+2026-02-02 15:10:23,48.88673,2.20896,50.0,0,1,0,Rue Sadi Carnot,unclassified,0,0,26,0,0
+2026-02-02 15:10:26,48.8868,2.20879,50.0,0,1,0,Rue Sadi Carnot,residential,0,0,28,0,0
+2026-02-02 15:10:28,48.88688,2.2086,50.0,0,0,1,Rue Sadi Carnot,residential,0,0,32,0,0
+2026-02-02 15:10:30,48.88697,2.20839,50.0,0,0,1,Rue Sadi Carnot,residential,0,0,37,0,0
+2026-02-02 15:10:32,48.88706,2.20816,50.0,0,0,1,Rue Sadi Carnot,residential,0,0,37,0,0
+2026-02-02 15:10:34,48.88716,2.20793,50.0,0,0,0,Rue Sadi Carnot,residential,0,0,36,0,0
+2026-02-02 15:10:36,48.88731,2.20758,50.0,0,1,0,Rue Sadi Carnot,residential,0,0,35,0,0
+2026-02-02 15:10:38,48.88741,2.20735,50.0,0,1,0,Rue Sadi Carnot,residential,0,0,37,0,0
+2026-02-02 15:10:40,48.88753,2.20712,50.0,,,,Rue Sadi Carnot,residential,,,37,0,0
+2026-02-02 15:10:42,48.88763,2.20688,50.0,0,0,1,Rue Sadi Carnot,residential,0,0,38,0,0
+2026-02-02 15:10:44,48.88775,2.20665,50.0,,,,Rue Sadi Carnot,residential,,,38,0,0
+2026-02-02 15:10:45,48.88783,2.20655,50.0,,,,Rue Sadi Carnot,residential,,,39,0,0
+2026-02-02 15:10:47,48.88797,2.20634,50.0,,,,Rue Sadi Carnot,residential,,,41,0,0
+2026-02-02 15:10:49,48.88811,2.20612,50.0,0,0,0,Rue Sadi Carnot,residential,0,0,41,0,0
+2026-02-02 15:10:51,48.88826,2.2059,50.0,,,,Rue Sadi Carnot,residential,,,42,0,0
+2026-02-02 15:10:53,48.88841,2.20568,50.0,0,0,0,Rue Sadi Carnot,residential,0,0,42,0,0
+2026-02-02 15:10:55,48.88857,2.20547,50.0,,,,Rue Sadi Carnot,residential,,,41,0,0
+2026-02-02 15:10:57,48.88871,2.20526,50.0,,,,Rue Sadi Carnot,residential,,,38,0,0
+2026-02-02 15:10:59,48.88882,2.20505,50.0,,,,Rue Sadi Carnot,residential,,,36,0,0
+2026-02-02 15:11:01,48.88891,2.20479,50.0,0,0,0,Rue Sadi Carnot,residential,0,0,35,0,0
+2026-02-02 15:11:03,48.889,2.20457,50.0,0,0,0,Rue des Venêts,residential,0,0,28,0,0
+2026-02-02 15:11:05,48.88908,2.20443,50.0,0,0,0,Rue des Venêts,residential,0,0,14,0,0
+2026-02-02 15:11:07,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,4,0,0
+2026-02-02 15:11:09,48.8891,2.20437,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:11,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:13,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:15,48.88911,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:17,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:20,48.88911,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:22,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:24,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:26,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:28,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:30,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:32,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:34,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:36,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:38,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:39,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:41,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:43,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:45,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:47,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:49,48.8891,2.20439,50.0,0,0,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:51,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:53,48.8891,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:55,48.88911,2.20439,50.0,0,0,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:57,48.88911,2.20438,50.0,0,1,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:11:59,48.88911,2.20439,50.0,0,0,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:12:01,48.88911,2.20439,50.0,0,0,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:12:03,48.88911,2.20439,50.0,0,0,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:12:05,48.88912,2.20439,50.0,0,0,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:12:07,48.88912,2.20439,50.0,0,0,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:12:09,48.88912,2.20439,50.0,0,0,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:12:11,48.88912,2.2044,50.0,0,0,0,Rue des Venêts,residential,0,0,0,0,0
+2026-02-02 15:12:13,48.88913,2.20439,50.0,0,1,0,Rue des Venêts,residential,0,0,6,0,0
+2026-02-02 15:12:16,48.88914,2.20437,50.0,0,1,0,Rue des Venêts,residential,0,0,22,0,0
+2026-02-02 15:12:18,48.88924,2.20428,50.0,0,1,0,Rue des Venêts,residential,0,0,28,0,0
+2026-02-02 15:12:20,48.88937,2.20417,50.0,0,1,0,Rue des Venêts,residential,0,0,29,0,0
+2026-02-02 15:12:22,48.88948,2.20402,30.0,0,1,0,Rue des Venêts,tertiary,0,0,28,0,0
+2026-02-02 15:12:24,48.88958,2.20386,30.0,0,0,0,Rue des Venêts,tertiary,0,0,26,0,0
+2026-02-02 15:12:26,48.88971,2.20363,30.0,0,0,0,Rue des Venêts,tertiary,0,0,28,0,0
+2026-02-02 15:12:28,48.88981,2.20348,30.0,0,0,0,Rue des Venêts,tertiary,0,0,26,0,0
+2026-02-02 15:12:30,48.88989,2.20337,30.0,0,0,0,Rue des Venêts,tertiary,0,0,18,0,0
+2026-02-02 15:12:32,48.88994,2.20327,30.0,0,0,0,Rue des Venêts,tertiary,0,0,19,0,0
+2026-02-02 15:12:34,48.89001,2.20316,30.0,0,0,0,Rue des Venêts,tertiary,0,0,23,0,0
+2026-02-02 15:12:35,48.89005,2.20308,30.0,0,0,0,Rue des Venêts,tertiary,0,0,25,0,0
+2026-02-02 15:12:37,48.89013,2.20292,30.0,0,0,0,Rue des Venêts,tertiary,0,0,24,0,0
+2026-02-02 15:12:39,48.89021,2.20277,30.0,0,0,0,Rue des Venêts,tertiary,0,0,24,0,0
+2026-02-02 15:12:41,48.89028,2.20262,30.0,,,,Rue des Venêts,tertiary,,,24,0,0
+2026-02-02 15:12:43,48.89036,2.20248,30.0,0,0,0,Rue des Venêts,tertiary,0,0,22,0,0
+2026-02-02 15:12:45,48.89042,2.20235,30.0,0,0,0,Rue des Venêts,tertiary,0,0,19,0,0
+2026-02-02 15:12:47,48.89048,2.20223,30.0,0,0,0,Rue des Venêts,tertiary,0,0,18,0,0
+2026-02-02 15:12:49,48.89053,2.20213,30.0,0,0,0,Rue des Venêts,tertiary,0,0,19,0,0
+2026-02-02 15:12:51,48.8906,2.20201,30.0,0,0,0,Rue des Venêts,tertiary,0,0,18,0,0
+2026-02-02 15:12:53,48.89066,2.20189,30.0,0,0,0,Rue des Venêts,tertiary,0,0,18,0,0
+2026-02-02 15:12:55,48.89071,2.20178,30.0,0,0,0,Rue des Venêts,tertiary,0,0,21,0,0
+2026-02-02 15:12:57,48.89078,2.20164,30.0,0,0,0,Rue des Venêts,tertiary,0,0,21,0,0
+2026-02-02 15:12:59,48.89085,2.20151,30.0,0,0,0,Rue des Venêts,tertiary,0,0,21,0,0
+2026-02-02 15:13:01,48.89091,2.20138,30.0,0,0,0,Rue des Venêts,tertiary,0,0,21,0,0
+2026-02-02 15:13:03,48.89097,2.20125,30.0,0,0,0,Rue des Venêts,tertiary,0,0,21,0,0
+2026-02-02 15:13:05,48.89105,2.20113,30.0,0,1,0,Rue des Venêts,tertiary,0,0,17,0,0
+2026-02-02 15:13:07,48.89111,2.20102,30.0,0,1,0,Rue des Venêts,tertiary,0,0,16,0,0
+2026-02-02 15:13:10,48.89115,2.20092,30.0,0,1,0,Rue des Venêts,tertiary,0,0,19,0,0
+2026-02-02 15:13:12,48.89122,2.2008,30.0,0,1,0,Rue des Venêts,tertiary,0,0,17,0,0
+2026-02-02 15:13:14,48.89126,2.2007,30.0,,,,Rue des Venêts,tertiary,,,18,0,0
+2026-02-02 15:13:16,48.89124,2.20058,30.0,0,1,0,Rue des Venêts,tertiary,0,0,26,0,0
+2026-02-02 15:13:18,48.89114,2.20046,30.0,0,1,0,Boulevard du Levant,residential,0,0,30,0,0
+2026-02-02 15:13:20,48.89102,2.2003,30.0,0,1,0,Boulevard du Levant,residential,0,0,32,0,0
+2026-02-02 15:13:22,48.89085,2.20004,30.0,0,0,0,Boulevard du Levant,residential,0,0,30,0,0
+2026-02-02 15:13:24,48.89076,2.19989,30.0,0,0,0,Boulevard du Levant,residential,0,0,29,0,0
+2026-02-02 15:13:26,48.89067,2.19972,30.0,0,0,0,Boulevard du Levant,residential,0,0,31,0,0
+2026-02-02 15:13:28,48.89055,2.19954,30.0,0,0,0,Boulevard du Levant,residential,0,1,32,0,0
+2026-02-02 15:13:29,48.8905,2.19945,30.0,0,0,0,Boulevard du Levant,residential,0,1,31,0,0
+2026-02-02 15:13:31,48.89041,2.19928,30.0,,,,Boulevard du Levant,residential,,,29,0,0
+2026-02-02 15:13:33,48.89032,2.19913,30.0,0,0,0,Boulevard du Levant,residential,0,1,26,0,0
+2026-02-02 15:13:35,48.89024,2.199,30.0,0,0,0,Boulevard du Levant,residential,0,0,24,0,0
+2026-02-02 15:13:37,48.89016,2.19889,30.0,0,0,0,Boulevard du Levant,residential,0,0,16,0,0
+2026-02-02 15:13:39,48.89012,2.19882,30.0,0,0,0,Boulevard du Levant,residential,0,0,12,0,0
+2026-02-02 15:13:41,48.8901,2.19879,30.0,0,0,0,Boulevard du Levant,residential,0,0,8,0,0
+2026-02-02 15:13:43,48.89008,2.19874,30.0,0,0,0,Boulevard du Levant,residential,0,0,4,0,0
+2026-02-02 15:13:45,48.89008,2.19872,30.0,0,0,0,Boulevard du Levant,residential,0,0,1,0,0
+2026-02-02 15:13:47,48.89007,2.19871,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:13:49,48.89006,2.19869,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:13:51,48.89006,2.19869,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:13:53,48.89006,2.19868,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:13:55,48.89005,2.19867,30.0,0,0,0,Boulevard du Levant,residential,0,0,10,0,0
+2026-02-02 15:13:57,48.89002,2.19861,30.0,0,0,0,Boulevard du Levant,residential,0,0,14,0,0
+2026-02-02 15:13:59,48.88997,2.19852,30.0,0,0,0,Boulevard du Levant,residential,0,0,15,0,0
+2026-02-02 15:14:01,48.88991,2.19844,30.0,0,0,0,Boulevard du Levant,residential,0,0,20,0,0
+2026-02-02 15:14:03,48.88982,2.19832,30.0,0,0,0,Boulevard du Levant,residential,0,0,17,0,0
+2026-02-02 15:14:06,48.88975,2.19824,30.0,0,0,0,Boulevard du Levant,residential,0,0,7,0,0
+2026-02-02 15:14:08,48.88971,2.19819,30.0,0,0,0,Boulevard du Levant,residential,0,0,5,0,0
+2026-02-02 15:14:10,48.88968,2.19817,30.0,0,0,0,Boulevard du Levant,residential,0,0,8,0,0
+2026-02-02 15:14:12,48.88965,2.19812,30.0,0,0,0,Boulevard du Levant,residential,0,0,4,0,0
+2026-02-02 15:14:14,48.88964,2.19809,30.0,0,0,0,Boulevard du Levant,residential,0,0,4,0,0
+2026-02-02 15:14:16,48.88964,2.19808,30.0,0,0,0,Boulevard du Levant,residential,0,0,4,0,0
+2026-02-02 15:14:18,48.88963,2.19807,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:14:20,48.88963,2.19806,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:14:22,48.88963,2.19804,30.0,0,0,0,Boulevard du Levant,residential,0,0,1,0,0
+2026-02-02 15:14:24,48.88963,2.19802,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:14:25,48.88963,2.19802,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:14:27,48.88964,2.19801,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:14:29,48.88963,2.19801,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:14:31,48.88963,2.19801,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:14:33,48.88964,2.19801,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:14:35,48.88965,2.198,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:14:37,48.88963,2.198,30.0,0,0,0,Boulevard du Levant,residential,0,0,0,0,0
+2026-02-02 15:14:39,48.88963,2.198,30.0,0,0,0,Boulevard du Levant,residential,0,0,2,0,0
+2026-02-02 15:14:41,48.88964,2.19799,30.0,0,0,0,Boulevard du Levant,residential,0,0,7,0,0
+2026-02-02 15:14:43,48.88966,2.19794,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,12,0,0
+2026-02-02 15:14:45,48.88971,2.19788,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,13,0,0
+2026-02-02 15:14:47,48.88975,2.19782,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,9,0,0
+2026-02-02 15:14:49,48.88978,2.19778,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,7,0,0
+2026-02-02 15:14:51,48.88981,2.19774,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,6,0,0
+2026-02-02 15:14:53,48.88982,2.19772,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,3,0,0
+2026-02-02 15:14:55,48.88983,2.1977,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,1,0,0
+2026-02-02 15:14:57,48.88984,2.1977,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:14:59,48.88985,2.1977,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:02,48.88985,2.19771,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:04,48.88986,2.19771,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:06,48.88987,2.19771,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:08,48.88987,2.19772,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:10,48.88987,2.19773,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:12,48.88987,2.19773,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:14,48.88987,2.19773,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:16,48.88987,2.19773,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:18,48.88989,2.19773,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:20,48.88989,2.19773,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:21,48.88987,2.19773,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:23,48.88989,2.19774,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:25,48.88989,2.19774,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:27,48.88987,2.19775,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:29,48.88989,2.19773,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:31,48.88989,2.19773,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:33,48.88987,2.19773,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:35,48.88989,2.19774,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:37,48.88989,2.19774,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,0,0,0
+2026-02-02 15:15:39,48.88989,2.19774,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,6,0,0
+2026-02-02 15:15:41,48.88992,2.19769,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,14,0,0
+2026-02-02 15:15:43,48.88998,2.1976,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,16,0,0
+2026-02-02 15:15:45,48.89004,2.19751,30.0,0,0,0,Place Gabriel Péri,tertiary,0,0,19,0,0
+2026-02-02 15:15:47,48.89008,2.19737,30.0,0,0,0,Place Gabriel Péri,residential,0,0,22,0,0
+2026-02-02 15:15:49,48.89012,2.1972,30.0,0,0,0,Place Gabriel Péri,residential,0,0,22,0,0
+2026-02-02 15:15:51,48.89016,2.19703,30.0,0,0,0,Place Gabriel Péri,residential,0,0,24,0,0
+2026-02-02 15:15:53,48.89021,2.19686,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,21,0,0
+2026-02-02 15:15:55,48.89026,2.19672,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,19,0,0
+2026-02-02 15:15:58,48.8903,2.1966,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,18,0,0
+2026-02-02 15:16:00,48.89032,2.19647,30.0,,,,Rue Henri Barbusse,tertiary,,,17,0,0
+2026-02-02 15:16:02,48.89033,2.19634,30.0,,,,Rue Henri Barbusse,tertiary,,,18,0,0
+2026-02-02 15:16:04,48.89032,2.19618,30.0,,,,Rue Henri Barbusse,tertiary,,,17,0,0
+2026-02-02 15:16:06,48.89032,2.19604,30.0,,,,Rue Henri Barbusse,tertiary,,,15,0,0
+2026-02-02 15:16:08,48.89031,2.19592,30.0,,,,Rue Henri Barbusse,tertiary,,,15,0,0
+2026-02-02 15:16:10,48.89032,2.19574,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,12,0,0
+2026-02-02 15:16:12,48.89031,2.19565,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,12,0,0
+2026-02-02 15:16:14,48.89032,2.19557,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,4,0,0
+2026-02-02 15:16:16,48.89033,2.19555,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,0,0,0
+2026-02-02 15:16:17,48.89032,2.19555,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,0,0,0
+2026-02-02 15:16:19,48.89032,2.19554,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,5,0,0
+2026-02-02 15:16:21,48.89032,2.19547,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,11,0,0
+2026-02-02 15:16:23,48.89031,2.1954,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,10,0,0
+2026-02-02 15:16:25,48.8903,2.19536,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,2,0,0
+2026-02-02 15:16:27,48.89029,2.19535,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,1,0,0
+2026-02-02 15:16:29,48.89029,2.19534,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,14,0,0
+2026-02-02 15:16:31,48.89024,2.1953,30.0,0,0,0,Rue Henri Barbusse,tertiary,0,0,20,0,0
+2026-02-02 15:16:33,48.89013,2.19521,30.0,0,0,0,Rue du Marché,residential,0,0,26,0,0
+2026-02-02 15:16:35,48.89001,2.19512,30.0,0,0,0,Rue du Marché,residential,0,0,25,0,0
+2026-02-02 15:16:37,48.88989,2.19505,30.0,0,0,0,Rue du Marché,residential,0,0,22,0,0
+2026-02-02 15:16:39,48.8898,2.19499,30.0,0,0,0,Rue du Marché,residential,0,0,22,0,0
+2026-02-02 15:16:41,48.88969,2.19494,30.0,0,0,0,Rue du Marché,residential,0,0,17,0,0
+2026-02-02 15:16:43,48.8896,2.19486,30.0,0,0,0,Rue du Marché,residential,0,0,15,0,0
+2026-02-02 15:16:45,48.88952,2.19479,30.0,0,0,0,Rue du Marché,residential,0,0,17,0,0
+2026-02-02 15:16:47,48.88943,2.19475,30.0,0,0,0,Rue du Marché,residential,0,0,20,0,0
+2026-02-02 15:16:49,48.88931,2.19468,30.0,0,0,0,Place du Maréchal Foch,residential,0,0,22,0,0
+2026-02-02 15:16:52,48.88923,2.19457,30.0,0,0,0,Place du Maréchal Foch,residential,0,0,25,0,0
+2026-02-02 15:16:54,48.88911,2.19446,30.0,0,0,0,Place du Maréchal Foch,residential,0,0,23,0,0
+2026-02-02 15:16:56,48.889,2.19437,30.0,0,0,0,Place du Maréchal Foch,residential,0,0,22,0,0
+2026-02-02 15:16:58,48.8889,2.19432,30.0,0,0,0,Place du Maréchal Foch,residential,0,0,19,0,0
+2026-02-02 15:17:00,48.88881,2.19424,30.0,0,0,0,Place du Maréchal Foch,residential,0,0,17,0,0
+2026-02-02 15:17:02,48.88874,2.19417,30.0,1,0,0,Place du Maréchal Foch,residential,0,0,9,0,0
+2026-02-02 15:17:04,48.88872,2.19409,30.0,1,0,1,Place du Maréchal Foch,residential,0,0,10,0,0
+2026-02-02 15:17:06,48.8887,2.19401,30.0,1,0,1,Rue Thomas Lemaître,residential,0,0,15,0,0
+2026-02-02 15:17:08,48.88868,2.1939,30.0,1,0,1,Rue Thomas Lemaître,residential,0,0,15,0,0
+2026-02-02 15:17:10,48.88866,2.19381,30.0,1,0,1,Place du Maréchal Foch,residential,0,0,14,0,0
+2026-02-02 15:17:12,48.88864,2.19377,30.0,1,0,1,Place du Maréchal Foch,residential,0,0,11,0,0
+2026-02-02 15:17:13,48.88862,2.19378,30.0,1,0,1,Place du Maréchal Foch,residential,0,0,10,0,0
+2026-02-02 15:17:15,48.88858,2.19376,50.0,1,1,1,Place du Maréchal Foch,primary,0,0,12,0,0
+2026-02-02 15:17:17,48.88853,2.19372,50.0,1,1,1,Place du Maréchal Foch,primary,0,0,17,0,0
+2026-02-02 15:17:19,48.88845,2.19369,50.0,1,1,1,Place du Maréchal Foch,primary,0,0,18,0,0
+2026-02-02 15:17:21,48.88836,2.19364,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,18,0,0
+2026-02-02 15:17:23,48.88829,2.19356,50.0,1,1,0,Avenue Vladimir Ilitch Lénine,primary,0,0,21,0,0
+2026-02-02 15:17:25,48.88821,2.19342,50.0,1,1,0,Place du Maréchal Foch,primary,0,0,24,0,0
+2026-02-02 15:17:27,48.88813,2.19327,30.0,1,1,0,Rue du Bois,residential,0,0,26,0,0
+2026-02-02 15:17:29,48.88803,2.1931,30.0,0,1,0,Rue du Bois,residential,0,0,27,0,0
+2026-02-02 15:17:31,48.88795,2.19292,30.0,0,0,0,Rue du Bois,residential,0,0,26,0,0
+2026-02-02 15:17:33,48.88785,2.19277,30.0,0,0,0,Rue du Bois,residential,0,0,27,0,0
+2026-02-02 15:17:35,48.88776,2.19265,30.0,0,0,0,Rue du Bois,residential,0,0,25,0,0
+2026-02-02 15:17:37,48.88768,2.19251,30.0,0,0,0,Rue du Bois,residential,0,0,23,0,0
+2026-02-02 15:17:39,48.8876,2.19236,30.0,0,0,0,Rue du Bois,residential,0,0,20,0,0
+2026-02-02 15:17:41,48.88753,2.19225,30.0,0,0,0,Rue du Bois,residential,0,0,20,0,0
+2026-02-02 15:17:43,48.88745,2.19215,30.0,0,0,0,Rue du Bois,residential,0,0,23,0,0
+2026-02-02 15:17:45,48.88738,2.19203,30.0,0,0,0,Rue du Bois,residential,0,0,23,0,0
+2026-02-02 15:17:48,48.88728,2.1919,30.0,0,0,0,Rue du Bois,residential,0,0,22,0,0
+2026-02-02 15:17:50,48.88719,2.19178,30.0,0,0,0,Rue du Bois,residential,0,0,21,0,0
+2026-02-02 15:17:52,48.88711,2.19168,30.0,0,0,0,Rue du Bois,residential,0,0,15,0,0
+2026-02-02 15:17:54,48.88706,2.19159,30.0,0,0,0,Rue du Bois,residential,0,0,6,0,0
+2026-02-02 15:17:56,48.88706,2.19155,30.0,0,0,0,Rue du Bois,residential,0,0,7,0,0
+2026-02-02 15:17:58,48.88708,2.19146,30.0,0,0,0,Rue du Bois,residential,0,0,19,0,0
+2026-02-02 15:18:00,48.88715,2.19134,20.0,0,0,0,Villa Blanche,living_street,0,0,26,1,0
+2026-02-02 15:18:02,48.88723,2.19116,20.0,0,0,0,Villa Blanche,living_street,0,0,26,1,0
+2026-02-02 15:18:04,48.88731,2.19101,20.0,0,0,0,Villa Blanche,living_street,0,0,23,0,0
+2026-02-02 15:18:05,48.88736,2.19095,20.0,0,0,0,Villa Blanche,living_street,0,0,22,0,0
+2026-02-02 15:18:07,48.8874,2.19081,20.0,0,0,0,Villa Blanche,living_street,0,0,25,1,0
+2026-02-02 15:18:09,48.88747,2.19064,20.0,0,0,0,Villa Blanche,living_street,0,0,27,1,0
+2026-02-02 15:18:11,48.88755,2.19047,20.0,0,0,0,Villa Blanche,living_street,0,0,27,1,0
+2026-02-02 15:18:13,48.88763,2.1903,20.0,0,0,0,Villa Blanche,living_street,0,0,29,1,0
+2026-02-02 15:18:15,48.88773,2.19013,20.0,0,0,0,Villa Blanche,living_street,0,0,25,1,0
+2026-02-02 15:18:17,48.88781,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,17,0,0
+2026-02-02 15:18:19,48.88784,2.18986,20.0,0,0,0,Villa Blanche,living_street,0,0,7,0,0
+2026-02-02 15:18:21,48.88786,2.18984,20.0,0,0,0,Villa Blanche,living_street,0,0,4,0,0
+2026-02-02 15:18:23,48.88788,2.18985,20.0,0,0,0,Villa Blanche,living_street,0,0,2,0,0
+2026-02-02 15:18:25,48.88788,2.18986,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:18:27,48.88789,2.18987,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:18:29,48.88789,2.18987,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:18:31,48.88788,2.18987,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:18:33,48.88788,2.18987,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 15:18:35,48.88788,2.18987,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:18:37,48.88786,2.18987,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:18:39,48.88786,2.18987,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 15:18:42,48.88786,2.18987,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:18:44,48.88785,2.18987,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 15:18:46,48.88785,2.18988,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 15:18:48,48.88785,2.18988,20.0,0,0,0,Villa Blanche,living_street,0,0,3,0,0
+2026-02-02 15:18:50,48.88785,2.18991,20.0,0,0,0,Villa Blanche,living_street,0,0,3,0,0
+2026-02-02 15:18:52,48.88784,2.18993,20.0,0,0,0,Villa Blanche,living_street,0,0,5,0,0
+2026-02-02 15:18:54,48.88783,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,4,0,0
+2026-02-02 15:18:56,48.88782,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,3,0,0
+2026-02-02 15:18:58,48.88783,2.18999,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 15:19:00,48.88783,2.18999,20.0,0,0,0,Villa Blanche,living_street,0,0,1,0,0
+2026-02-02 15:19:01,48.88783,2.18998,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:19:03,48.88783,2.18998,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:19:05,48.88783,2.18998,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:19:07,48.88784,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:19:09,48.88784,2.18997,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:19:11,48.88785,2.18996,20.0,0,0,0,Villa Blanche,living_street,0,0,0,0,0
+2026-02-02 15:19:13,48.88786,2.18996,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
+2026-02-02 15:19:15,48.88786,2.18996,50.0,0,0,0,Avenue Vladimir Ilitch Lénine,primary,0,0,0,0,0
