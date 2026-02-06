@@ -1,0 +1,1460 @@
+,Time,latitude,longitude,SpeedLimit,Rond_point,Traffic_ligths,Stop,name_street,type_route,peage_arret,is_tunnel,Speed,exces_vitesse,eco_vitesse
+0,2026-02-05 16:30:55,48.88723,2.18075,50.0,False,False,False,Avenue de Colmar,primary,False,False,33,False,False
+1,2026-02-05 16:30:57,48.88725,2.18048,50.0,False,False,False,Avenue de Colmar,primary,False,False,36,False,False
+2,2026-02-05 16:30:59,48.88724,2.18017,50.0,False,False,False,Avenue de Colmar,primary,False,False,38,False,False
+3,2026-02-05 16:31:01,48.88722,2.17988,50.0,False,False,False,Avenue de Colmar,primary,False,False,30,False,False
+4,2026-02-05 16:31:03,48.88721,2.17965,50.0,False,False,False,Avenue de Colmar,primary,False,False,29,False,False
+5,2026-02-05 16:31:05,48.88719,2.17943,50.0,False,False,False,Avenue de Colmar,primary,False,False,34,False,False
+6,2026-02-05 16:31:07,48.88717,2.17919,50.0,False,False,False,Avenue de Colmar,primary,False,False,40,False,False
+7,2026-02-05 16:31:09,48.88714,2.17888,50.0,False,False,False,Avenue de Colmar,primary,False,False,46,False,False
+8,2026-02-05 16:31:11,48.8871,2.17853,50.0,False,False,False,Avenue de Colmar,primary,False,False,47,False,False
+9,2026-02-05 16:31:12,48.88708,2.17835,50.0,False,False,False,Avenue de Colmar,primary,False,False,46,False,False
+10,2026-02-05 16:31:14,48.88704,2.17801,50.0,False,False,False,Avenue de Colmar,primary,False,False,44,False,False
+11,2026-02-05 16:31:16,48.88701,2.17768,50.0,False,False,False,Avenue de Colmar,primary,False,False,42,False,False
+12,2026-02-05 16:31:18,48.88698,2.17736,50.0,False,False,False,Avenue de Colmar,primary,False,False,41,False,False
+13,2026-02-05 16:31:20,48.88696,2.17706,50.0,False,False,False,Avenue de Colmar,primary,False,False,40,False,False
+14,2026-02-05 16:31:22,48.88693,2.1766,50.0,False,False,False,Avenue de Colmar,primary,False,False,39,False,False
+15,2026-02-05 16:31:24,48.88693,2.17633,30.0,False,False,False,Avenue de Colmar,residential,False,False,30,False,False
+16,2026-02-05 16:31:26,48.88692,2.17611,30.0,False,False,False,Avenue de Colmar,residential,False,False,19,False,False
+17,2026-02-05 16:31:28,48.88692,2.17603,30.0,False,False,False,Avenue de Colmar,residential,False,False,5,False,False
+18,2026-02-05 16:31:30,48.88692,2.17604,30.0,False,False,False,Avenue de Colmar,residential,False,False,0,False,False
+19,2026-02-05 16:31:32,48.88691,2.17606,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+20,2026-02-05 16:31:34,48.88691,2.17604,50.0,False,False,False,Avenue de Colmar,primary,False,False,8,False,False
+21,2026-02-05 16:31:36,48.8869,2.17595,50.0,False,False,False,Avenue de Colmar,primary,False,False,17,False,False
+22,2026-02-05 16:31:38,48.8869,2.17581,50.0,False,False,False,Avenue de Colmar,primary,False,False,23,False,False
+23,2026-02-05 16:31:40,48.88688,2.17562,50.0,False,False,False,Avenue de Colmar,primary,False,False,24,False,False
+24,2026-02-05 16:31:42,48.88687,2.17541,50.0,False,False,False,Avenue de Colmar,primary,False,False,28,False,False
+25,2026-02-05 16:31:45,48.88685,2.17518,50.0,False,True,False,Avenue de Colmar,primary_link,False,False,25,False,False
+26,2026-02-05 16:31:47,48.88683,2.17501,30.0,False,True,False,Avenue de Colmar,residential,False,False,8,False,False
+27,2026-02-05 16:31:49,48.88683,2.17497,30.0,False,True,False,Avenue de Colmar,residential,False,False,2,False,False
+28,2026-02-05 16:31:51,48.88684,2.17496,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+29,2026-02-05 16:31:53,48.88683,2.17496,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+30,2026-02-05 16:31:55,48.88683,2.17498,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+31,2026-02-05 16:31:57,48.88683,2.17497,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+32,2026-02-05 16:31:59,48.88683,2.17497,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+33,2026-02-05 16:32:01,48.88683,2.17499,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+34,2026-02-05 16:32:03,48.88683,2.175,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+35,2026-02-05 16:32:05,48.88683,2.17499,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+36,2026-02-05 16:32:07,48.88681,2.17498,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+37,2026-02-05 16:32:08,48.88681,2.17498,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+38,2026-02-05 16:32:10,48.88681,2.17499,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+39,2026-02-05 16:32:12,48.88681,2.17499,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+40,2026-02-05 16:32:14,48.88682,2.17501,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+41,2026-02-05 16:32:16,48.88681,2.17501,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+42,2026-02-05 16:32:18,48.88682,2.17501,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+43,2026-02-05 16:32:20,48.88683,2.17501,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+44,2026-02-05 16:32:22,48.88685,2.17503,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+45,2026-02-05 16:32:24,48.88687,2.17503,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+46,2026-02-05 16:32:26,48.88687,2.17503,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+47,2026-02-05 16:32:28,48.88687,2.17503,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+48,2026-02-05 16:32:30,48.88687,2.17503,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+49,2026-02-05 16:32:32,48.88687,2.17502,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+50,2026-02-05 16:32:34,48.88687,2.17502,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+51,2026-02-05 16:32:36,48.88687,2.17502,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+52,2026-02-05 16:32:38,48.88687,2.17501,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+53,2026-02-05 16:32:41,48.88686,2.175,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+54,2026-02-05 16:32:43,48.88686,2.175,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+55,2026-02-05 16:32:45,48.88686,2.175,30.0,False,True,False,Avenue de Colmar,residential,False,False,0,False,False
+56,2026-02-05 16:32:47,48.88687,2.17499,30.0,False,True,False,Avenue de Colmar,residential,False,False,8,False,False
+57,2026-02-05 16:32:49,48.88686,2.17489,50.0,False,True,False,Avenue de Colmar,primary,False,False,17,False,False
+58,2026-02-05 16:32:51,48.88685,2.17474,50.0,False,True,False,Avenue de Colmar,primary,False,False,21,False,False
+59,2026-02-05 16:32:53,48.88683,2.17456,50.0,False,True,False,Avenue de Colmar,primary,False,False,26,False,False
+60,2026-02-05 16:32:55,48.88681,2.17439,30.0,False,True,False,Avenue Victor Hugo,unclassified,False,False,33,False,False
+61,2026-02-05 16:32:57,48.88678,2.17414,50.0,,,,Avenue de Colmar,primary,,,38,False,False
+62,2026-02-05 16:32:59,48.88675,2.17385,50.0,,,,Avenue de Colmar,primary,,,39,False,False
+63,2026-02-05 16:33:01,48.88672,2.17355,50.0,,,,Avenue de Colmar,primary,,,41,False,False
+64,2026-02-05 16:33:03,48.8867,2.17324,50.0,,,,Avenue de Colmar,primary,,,42,False,False
+65,2026-02-05 16:33:04,48.8867,2.17307,50.0,,,,Avenue de Colmar,primary,,,41,False,False
+66,2026-02-05 16:33:06,48.88672,2.17275,50.0,False,False,False,Avenue de Colmar,primary,False,False,36,False,False
+67,2026-02-05 16:33:08,48.88672,2.17248,50.0,False,False,False,Avenue de Colmar,primary,False,False,32,False,False
+68,2026-02-05 16:33:10,48.88673,2.17224,50.0,False,False,False,Avenue de Colmar,primary,False,False,30,False,False
+69,2026-02-05 16:33:12,48.88675,2.17202,50.0,False,False,False,Avenue de Colmar,primary,False,False,28,False,False
+70,2026-02-05 16:33:14,48.88678,2.17174,50.0,False,False,False,Avenue de Colmar,primary,False,False,23,False,False
+71,2026-02-05 16:33:16,48.88679,2.17157,50.0,False,True,False,Avenue de Colmar,primary,False,False,21,False,False
+72,2026-02-05 16:33:18,48.88682,2.17141,50.0,False,True,False,Avenue de Colmar,primary,False,False,23,False,False
+73,2026-02-05 16:33:20,48.88687,2.17122,10.0,False,True,False,Avenue de Colmar,service,False,False,25,True,False
+74,2026-02-05 16:33:22,48.8869,2.17103,50.0,False,True,False,Avenue de Colmar,primary,False,False,30,False,False
+75,2026-02-05 16:33:24,48.88694,2.17078,50.0,False,False,False,Avenue de Colmar,primary,False,False,33,False,False
+76,2026-02-05 16:33:26,48.88698,2.17053,50.0,False,False,False,Avenue de Colmar,primary,False,False,32,False,False
+77,2026-02-05 16:33:28,48.88701,2.17029,50.0,False,False,False,Avenue de Colmar,primary,False,False,37,False,False
+78,2026-02-05 16:33:30,48.88704,2.17003,50.0,False,True,False,Avenue de Colmar,primary,False,False,42,False,False
+79,2026-02-05 16:33:33,48.88711,2.16971,50.0,False,True,False,Avenue de Colmar,primary,False,False,41,False,False
+80,2026-02-05 16:33:35,48.88717,2.1694,50.0,False,True,False,Avenue de Colmar,primary,False,False,40,False,False
+81,2026-02-05 16:33:37,48.88722,2.16911,50.0,False,False,False,Avenue de Colmar,primary,False,False,41,False,False
+82,2026-02-05 16:33:39,48.8873,2.16879,50.0,False,False,False,Avenue de Colmar,primary,False,False,45,False,False
+83,2026-02-05 16:33:41,48.88736,2.16844,50.0,False,True,False,Avenue de Colmar,primary,False,False,50,False,False
+84,2026-02-05 16:33:43,48.88744,2.16806,50.0,False,True,False,Avenue de Colmar,primary,False,False,51,False,False
+85,2026-02-05 16:33:45,48.88752,2.16768,50.0,False,True,False,Avenue de Colmar,primary,False,False,47,False,False
+86,2026-02-05 16:33:47,48.88758,2.16734,50.0,False,False,False,Avenue de Colmar,primary,False,False,47,False,False
+87,2026-02-05 16:33:49,48.88765,2.16699,50.0,False,False,False,Avenue de Colmar,primary,False,False,43,False,False
+88,2026-02-05 16:33:51,48.88771,2.16668,50.0,False,False,False,Avenue de Colmar,primary,False,False,41,False,False
+89,2026-02-05 16:33:53,48.88775,2.16639,50.0,False,False,False,Avenue de Colmar,primary,False,False,32,False,False
+90,2026-02-05 16:33:55,48.88779,2.16615,50.0,False,False,False,Avenue de Colmar,primary,False,False,25,False,False
+91,2026-02-05 16:33:57,48.88783,2.16597,50.0,False,False,False,,motorway_link,False,False,24,False,False
+92,2026-02-05 16:33:58,48.88785,2.16588,50.0,False,False,False,,motorway_link,False,False,24,False,False
+93,2026-02-05 16:34:00,48.88786,2.16571,50.0,False,False,False,,motorway_link,False,False,23,False,False
+94,2026-02-05 16:34:02,48.88789,2.16554,50.0,False,False,False,,motorway_link,False,False,12,False,False
+95,2026-02-05 16:34:04,48.88791,2.16544,50.0,False,False,False,,primary,False,False,10,False,False
+96,2026-02-05 16:34:06,48.8879,2.16536,50.0,False,False,False,,primary,False,False,8,False,False
+97,2026-02-05 16:34:08,48.88792,2.16527,50.0,False,False,False,,primary,False,False,6,False,False
+98,2026-02-05 16:34:10,48.88792,2.16521,50.0,False,False,False,,primary,False,False,10,False,False
+99,2026-02-05 16:34:12,48.88794,2.1651,50.0,False,False,False,,primary,False,False,20,False,False
+100,2026-02-05 16:34:14,48.88797,2.16493,50.0,False,False,False,,primary,False,False,23,False,False
+101,2026-02-05 16:34:16,48.888,2.16475,50.0,False,False,False,,primary,False,False,26,False,False
+102,2026-02-05 16:34:18,48.88804,2.16455,50.0,False,False,False,,primary,False,False,29,False,False
+103,2026-02-05 16:34:20,48.88808,2.16432,50.0,False,False,False,Pont de Chatou,primary,False,False,24,False,False
+104,2026-02-05 16:34:22,48.88809,2.16415,50.0,False,False,False,Pont de Chatou,primary,False,False,13,False,False
+105,2026-02-05 16:34:24,48.8881,2.16407,50.0,False,False,False,Pont de Chatou,primary,False,False,9,False,False
+106,2026-02-05 16:34:26,48.88811,2.164,50.0,False,False,False,Pont de Chatou,primary,False,False,7,False,False
+107,2026-02-05 16:34:29,48.88812,2.16392,50.0,False,False,False,Pont de Chatou,primary,False,False,15,False,False
+108,2026-02-05 16:34:31,48.88815,2.16381,50.0,False,False,False,Pont de Chatou,primary,False,False,16,False,False
+109,2026-02-05 16:34:33,48.88815,2.16369,50.0,False,False,False,Pont de Chatou,primary,False,False,11,False,False
+110,2026-02-05 16:34:35,48.88817,2.16362,50.0,False,False,False,Pont de Chatou,primary,False,False,7,False,False
+111,2026-02-05 16:34:37,48.88818,2.16358,50.0,False,False,False,Pont de Chatou,primary,False,False,6,False,False
+112,2026-02-05 16:34:39,48.88818,2.16354,50.0,False,False,False,Pont de Chatou,primary,False,False,1,False,False
+113,2026-02-05 16:34:41,48.88819,2.16353,50.0,False,False,False,Pont de Chatou,primary,False,False,0,False,False
+114,2026-02-05 16:34:43,48.88819,2.16353,50.0,False,False,False,Pont de Chatou,primary,False,False,0,False,False
+115,2026-02-05 16:34:45,48.8882,2.16354,50.0,False,False,False,Pont de Chatou,primary,False,False,0,False,False
+116,2026-02-05 16:34:47,48.8882,2.16355,50.0,False,False,False,Pont de Chatou,primary,False,False,0,False,False
+117,2026-02-05 16:34:49,48.88821,2.16354,50.0,False,False,False,Pont de Chatou,primary,False,False,15,False,False
+118,2026-02-05 16:34:51,48.88823,2.16343,50.0,False,False,False,Pont de Chatou,primary,False,False,24,False,False
+119,2026-02-05 16:34:53,48.88826,2.16325,50.0,False,False,False,Pont de Chatou,primary,False,False,25,False,False
+120,2026-02-05 16:34:54,48.88827,2.16316,50.0,False,False,False,Pont de Chatou,primary,False,False,26,False,False
+121,2026-02-05 16:34:56,48.88832,2.16297,50.0,False,False,False,Pont de Chatou,primary,False,False,24,False,False
+122,2026-02-05 16:34:58,48.88836,2.16279,50.0,False,False,False,Pont de Chatou,primary,False,False,22,False,False
+123,2026-02-05 16:35:00,48.88839,2.16264,50.0,False,False,False,Pont de Chatou,primary,False,True,21,False,False
+124,2026-02-05 16:35:02,48.88842,2.16248,50.0,False,False,False,Pont de Chatou,primary,False,True,21,False,False
+125,2026-02-05 16:35:04,48.88846,2.16224,50.0,False,False,False,Pont de Chatou,primary,False,True,19,False,False
+126,2026-02-05 16:35:06,48.88849,2.1621,50.0,False,False,False,Pont de Chatou,primary,False,True,16,False,False
+127,2026-02-05 16:35:08,48.88852,2.16199,50.0,False,False,False,Pont de Chatou,primary,False,True,15,False,False
+128,2026-02-05 16:35:10,48.88853,2.16188,50.0,False,False,False,Pont de Chatou,primary,False,False,14,False,False
+129,2026-02-05 16:35:12,48.88855,2.16177,50.0,False,False,False,Pont de Chatou,primary,False,False,14,False,False
+130,2026-02-05 16:35:14,48.88857,2.16167,50.0,False,False,False,Pont de Chatou,primary,False,False,14,False,False
+131,2026-02-05 16:35:16,48.88858,2.16158,50.0,False,False,False,Pont de Chatou,primary,False,False,8,False,False
+132,2026-02-05 16:35:18,48.88859,2.16155,50.0,False,False,False,Pont de Chatou,primary,False,False,1,False,False
+133,2026-02-05 16:35:20,48.8886,2.16155,50.0,False,False,False,Pont de Chatou,primary,False,False,0,False,False
+134,2026-02-05 16:35:22,48.8886,2.16154,50.0,False,False,False,Pont de Chatou,primary,False,False,0,False,False
+135,2026-02-05 16:35:25,48.88859,2.16154,50.0,False,False,False,Pont de Chatou,primary,False,False,0,False,False
+136,2026-02-05 16:35:27,48.88858,2.16155,50.0,False,False,False,Pont de Chatou,primary,False,False,0,False,False
+137,2026-02-05 16:35:29,48.88858,2.16155,50.0,False,False,False,Pont de Chatou,primary,False,False,0,False,False
+138,2026-02-05 16:35:31,48.88859,2.16152,50.0,False,False,False,Pont de Chatou,primary,False,False,0,False,False
+139,2026-02-05 16:35:33,48.88861,2.16142,50.0,False,False,False,Pont de Chatou,primary,False,False,18,False,False
+140,2026-02-05 16:35:35,48.88862,2.16127,50.0,False,False,False,Pont de Chatou,primary,False,False,20,False,False
+141,2026-02-05 16:35:37,48.88865,2.16113,50.0,False,False,False,Pont de Chatou,primary,False,False,24,False,False
+142,2026-02-05 16:35:39,48.88868,2.16096,50.0,False,False,False,Pont de Chatou,primary,False,False,22,False,False
+143,2026-02-05 16:35:41,48.8887,2.16077,50.0,False,False,False,Pont de Chatou,primary,False,False,26,False,False
+144,2026-02-05 16:35:43,48.88874,2.16058,50.0,False,False,False,Pont de Chatou,primary,False,False,30,False,False
+145,2026-02-05 16:35:45,48.88877,2.16035,50.0,False,False,False,Pont de Chatou,primary,False,False,29,False,False
+146,2026-02-05 16:35:47,48.8888,2.16013,50.0,False,False,False,Pont de Chatou,primary,False,False,29,False,False
+147,2026-02-05 16:35:49,48.88885,2.15992,50.0,False,False,False,Pont de Chatou,primary,False,False,24,False,False
+148,2026-02-05 16:35:50,48.88887,2.15982,50.0,False,True,False,Pont de Chatou,primary,False,False,18,False,False
+149,2026-02-05 16:35:52,48.8889,2.15968,50.0,False,True,False,Pont de Chatou,primary,False,False,10,False,False
+150,2026-02-05 16:35:54,48.88893,2.15962,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,2,False,False
+151,2026-02-05 16:35:56,48.88893,2.15961,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+152,2026-02-05 16:35:58,48.88891,2.15963,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+153,2026-02-05 16:36:00,48.88891,2.15963,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+154,2026-02-05 16:36:02,48.88891,2.15961,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+155,2026-02-05 16:36:04,48.88891,2.15961,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+156,2026-02-05 16:36:06,48.88891,2.15961,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+157,2026-02-05 16:36:08,48.88891,2.15961,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+158,2026-02-05 16:36:10,48.88891,2.15961,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+159,2026-02-05 16:36:12,48.88891,2.15961,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+160,2026-02-05 16:36:14,48.88891,2.1596,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+161,2026-02-05 16:36:16,48.88893,2.15957,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,12,False,False
+162,2026-02-05 16:36:18,48.88897,2.15948,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,14,False,False
+163,2026-02-05 16:36:21,48.88902,2.1594,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,19,False,False
+164,2026-02-05 16:36:23,48.88908,2.15927,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,23,False,False
+165,2026-02-05 16:36:25,48.88911,2.15909,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,32,False,False
+166,2026-02-05 16:36:27,48.88916,2.15884,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,43,False,False
+167,2026-02-05 16:36:29,48.88928,2.15853,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,46,False,False
+168,2026-02-05 16:36:31,48.88938,2.15821,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,44,False,False
+169,2026-02-05 16:36:33,48.88948,2.15792,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,37,False,False
+170,2026-02-05 16:36:35,48.88955,2.15768,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,27,False,False
+171,2026-02-05 16:36:37,48.88961,2.1575,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,26,False,False
+172,2026-02-05 16:36:39,48.88965,2.15733,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,24,False,False
+173,2026-02-05 16:36:41,48.88969,2.15717,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,25,False,False
+174,2026-02-05 16:36:43,48.88975,2.15699,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,28,False,False
+175,2026-02-05 16:36:45,48.88981,2.1568,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,28,False,False
+176,2026-02-05 16:36:46,48.88984,2.15671,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,28,False,False
+177,2026-02-05 16:36:48,48.8899,2.15652,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,25,False,False
+178,2026-02-05 16:36:50,48.88995,2.15634,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,23,False,False
+179,2026-02-05 16:36:52,48.88999,2.15617,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,28,False,False
+180,2026-02-05 16:36:54,48.89003,2.156,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,29,False,False
+181,2026-02-05 16:36:56,48.89009,2.15579,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,26,False,False
+182,2026-02-05 16:36:58,48.89018,2.15549,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,29,False,False
+183,2026-02-05 16:37:00,48.89022,2.15527,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,34,False,False
+184,2026-02-05 16:37:02,48.89027,2.15503,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,34,False,False
+185,2026-02-05 16:37:04,48.89034,2.1548,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,31,False,False
+186,2026-02-05 16:37:06,48.8904,2.15458,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,29,False,False
+187,2026-02-05 16:37:08,48.89044,2.15438,50.0,,,,Avenue du Maréchal Foch,primary,,,27,False,False
+188,2026-02-05 16:37:10,48.89048,2.15419,50.0,False,False,True,Avenue du Maréchal Foch,primary,False,False,21,False,False
+189,2026-02-05 16:37:12,48.89051,2.15406,50.0,False,False,True,Avenue du Maréchal Foch,primary,False,False,8,False,False
+190,2026-02-05 16:37:14,48.89053,2.15402,30.0,False,False,True,Rue François Laubeuf,residential,False,False,5,False,False
+191,2026-02-05 16:37:17,48.89055,2.15402,30.0,False,False,True,Rue François Laubeuf,residential,False,False,8,False,False
+192,2026-02-05 16:37:19,48.89059,2.15404,30.0,,,,Rue François Laubeuf,residential,,,7,False,False
+193,2026-02-05 16:37:21,48.89062,2.15406,30.0,False,False,True,Rue François Laubeuf,residential,False,False,7,False,False
+194,2026-02-05 16:37:23,48.89066,2.15409,30.0,False,False,True,Rue François Laubeuf,residential,False,False,8,False,False
+195,2026-02-05 16:37:25,48.8907,2.1541,30.0,False,False,False,Rue François Laubeuf,residential,False,False,9,False,False
+196,2026-02-05 16:37:27,48.89073,2.15411,30.0,False,False,False,Rue François Laubeuf,residential,False,False,10,False,False
+197,2026-02-05 16:37:29,48.89077,2.15413,30.0,False,False,False,Rue François Laubeuf,residential,False,False,11,False,False
+198,2026-02-05 16:37:31,48.89082,2.15415,30.0,False,False,False,Rue François Laubeuf,residential,False,False,11,False,False
+199,2026-02-05 16:37:33,48.89087,2.15419,30.0,False,False,False,Rue François Laubeuf,residential,False,False,12,False,False
+200,2026-02-05 16:37:35,48.89092,2.15422,30.0,False,False,False,Rue François Laubeuf,residential,False,False,14,False,False
+201,2026-02-05 16:37:37,48.89097,2.15426,30.0,False,False,False,Rue François Laubeuf,residential,False,False,20,False,False
+202,2026-02-05 16:37:39,48.89108,2.15431,30.0,False,False,False,Rue François Laubeuf,residential,False,False,23,False,False
+203,2026-02-05 16:37:41,48.89118,2.15439,30.0,False,False,False,Rue François Laubeuf,residential,False,False,30,False,False
+204,2026-02-05 16:37:42,48.89124,2.15445,30.0,False,False,False,Rue François Laubeuf,residential,False,False,29,False,False
+205,2026-02-05 16:37:44,48.89135,2.15454,30.0,False,False,False,Rue François Laubeuf,residential,False,False,15,False,False
+206,2026-02-05 16:37:46,48.89143,2.15458,30.0,False,False,False,Rue François Laubeuf,residential,False,False,5,False,False
+207,2026-02-05 16:37:48,48.89143,2.1546,30.0,False,False,False,Rue François Laubeuf,residential,False,False,3,False,False
+208,2026-02-05 16:37:50,48.89143,2.1546,30.0,False,False,False,Rue François Laubeuf,residential,False,False,18,False,False
+209,2026-02-05 16:37:52,48.89151,2.15466,30.0,False,False,False,Rue François Laubeuf,residential,False,False,24,False,False
+210,2026-02-05 16:37:54,48.89169,2.15479,30.0,False,False,False,Rue François Laubeuf,residential,False,False,29,False,False
+211,2026-02-05 16:37:56,48.89183,2.1549,30.0,False,False,False,Rue François Laubeuf,residential,False,False,34,True,False
+212,2026-02-05 16:37:58,48.89198,2.15501,30.0,False,False,False,Rue François Laubeuf,residential,False,False,36,True,False
+213,2026-02-05 16:38:00,48.89213,2.15512,30.0,False,False,False,Rue François Laubeuf,residential,False,False,27,False,False
+214,2026-02-05 16:38:02,48.89224,2.15522,30.0,False,False,False,Rue François Laubeuf,residential,False,False,15,False,False
+215,2026-02-05 16:38:04,48.89227,2.15525,30.0,False,False,False,Rue François Laubeuf,residential,False,False,10,False,False
+216,2026-02-05 16:38:06,48.8923,2.15528,30.0,False,False,False,Rue François Laubeuf,residential,False,False,13,False,False
+217,2026-02-05 16:38:08,48.89234,2.15521,30.0,False,False,False,Rue François Laubeuf,residential,False,False,17,False,False
+218,2026-02-05 16:38:10,48.89237,2.15507,30.0,False,False,False,Rue Henri Penon,residential,False,False,24,False,False
+219,2026-02-05 16:38:13,48.89243,2.1549,30.0,False,False,False,Rue Henri Penon,residential,False,False,28,False,False
+220,2026-02-05 16:38:15,48.89249,2.15469,30.0,False,False,False,Rue Henri Penon,residential,False,False,36,True,False
+221,2026-02-05 16:38:17,48.89256,2.15442,30.0,False,False,False,Rue Henri Penon,residential,False,False,40,True,False
+222,2026-02-05 16:38:19,48.89265,2.15414,30.0,False,False,False,Rue Henri Penon,residential,False,False,38,True,False
+223,2026-02-05 16:38:21,48.89272,2.15386,30.0,False,False,False,Rue Henri Penon,residential,False,False,32,False,False
+224,2026-02-05 16:38:23,48.89277,2.15366,30.0,False,False,False,Rue Henri Penon,residential,False,False,15,False,False
+225,2026-02-05 16:38:25,48.8928,2.15358,30.0,False,False,False,Rue Henri Penon,residential,False,False,8,False,False
+226,2026-02-05 16:38:27,48.89283,2.15353,30.0,False,False,False,Rue Henri Penon,residential,False,False,16,False,False
+227,2026-02-05 16:38:29,48.89287,2.15341,30.0,False,False,False,Rue Henri Penon,residential,False,False,25,False,False
+228,2026-02-05 16:38:31,48.89292,2.15322,30.0,False,False,False,Rue Henri Penon,residential,False,False,29,False,False
+229,2026-02-05 16:38:33,48.89298,2.15301,30.0,False,False,False,Rue Henri Penon,residential,False,False,36,True,False
+230,2026-02-05 16:38:35,48.89307,2.15277,30.0,False,False,False,Rue Henri Penon,residential,False,False,37,True,False
+231,2026-02-05 16:38:36,48.89312,2.15264,30.0,False,False,False,Rue Henri Penon,residential,False,False,35,True,False
+232,2026-02-05 16:38:38,48.89321,2.15241,30.0,False,False,False,Rue Henri Penon,residential,False,False,30,False,False
+233,2026-02-05 16:38:40,48.89328,2.15222,30.0,False,False,False,Rue Henri Penon,residential,False,False,27,False,False
+234,2026-02-05 16:38:42,48.89335,2.15204,30.0,False,False,False,Rue Henri Penon,residential,False,False,26,False,False
+235,2026-02-05 16:38:44,48.89341,2.15187,30.0,False,True,False,Rue Henri Penon,residential,False,False,23,False,False
+236,2026-02-05 16:38:46,48.89347,2.15173,30.0,False,True,False,Rue Henri Penon,residential,False,False,17,False,False
+237,2026-02-05 16:38:48,48.89352,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,5,False,False
+238,2026-02-05 16:38:50,48.89352,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+239,2026-02-05 16:38:52,48.89352,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+240,2026-02-05 16:38:54,48.89352,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+241,2026-02-05 16:38:56,48.89352,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+242,2026-02-05 16:38:58,48.89352,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+243,2026-02-05 16:39:00,48.89352,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+244,2026-02-05 16:39:02,48.89353,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+245,2026-02-05 16:39:04,48.89354,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+246,2026-02-05 16:39:07,48.89355,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+247,2026-02-05 16:39:09,48.89355,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+248,2026-02-05 16:39:11,48.89356,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+249,2026-02-05 16:39:13,48.89356,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+250,2026-02-05 16:39:15,48.89356,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+251,2026-02-05 16:39:17,48.89356,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+252,2026-02-05 16:39:19,48.89356,2.15156,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+253,2026-02-05 16:39:21,48.89356,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+254,2026-02-05 16:39:23,48.89356,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+255,2026-02-05 16:39:25,48.89356,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+256,2026-02-05 16:39:27,48.89356,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+257,2026-02-05 16:39:29,48.89356,2.15156,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+258,2026-02-05 16:39:30,48.89356,2.15156,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+259,2026-02-05 16:39:32,48.89356,2.15156,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+260,2026-02-05 16:39:34,48.89356,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+261,2026-02-05 16:39:36,48.89356,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+262,2026-02-05 16:39:38,48.89356,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+263,2026-02-05 16:39:40,48.89357,2.15158,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+264,2026-02-05 16:39:42,48.89356,2.15157,30.0,False,True,False,Rue Henri Penon,residential,False,False,0,False,False
+265,2026-02-05 16:39:44,48.89358,2.15156,30.0,False,True,False,Rue Henri Penon,residential,False,False,10,False,False
+266,2026-02-05 16:39:46,48.89361,2.15148,30.0,False,True,False,Boulevard de la République,tertiary,False,False,11,False,False
+267,2026-02-05 16:39:48,48.89365,2.15144,30.0,False,True,False,Boulevard de la République,tertiary,False,False,14,False,False
+268,2026-02-05 16:39:50,48.89373,2.15147,30.0,False,True,False,Boulevard de la République,tertiary,False,False,23,False,False
+269,2026-02-05 16:39:52,48.89385,2.15155,30.0,False,True,False,Boulevard de la République,tertiary,False,False,27,False,False
+270,2026-02-05 16:39:54,48.89399,2.15161,30.0,False,False,False,Boulevard de la République,tertiary,False,False,32,False,False
+271,2026-02-05 16:39:56,48.89414,2.15169,30.0,False,False,False,Boulevard de la République,tertiary,False,False,30,False,False
+272,2026-02-05 16:39:58,48.89429,2.15175,30.0,False,False,False,Boulevard de la République,tertiary,False,False,25,False,False
+273,2026-02-05 16:40:00,48.8944,2.15181,30.0,False,False,False,Boulevard de la République,tertiary,False,False,21,False,False
+274,2026-02-05 16:40:03,48.89448,2.15184,30.0,False,False,False,Boulevard de la République,tertiary,False,False,9,False,False
+275,2026-02-05 16:40:05,48.89449,2.15185,30.0,False,False,False,Boulevard de la République,tertiary,False,False,1,False,False
+276,2026-02-05 16:40:07,48.89448,2.15184,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+277,2026-02-05 16:40:09,48.89449,2.15184,30.0,False,False,False,Boulevard de la République,tertiary,False,False,8,False,False
+278,2026-02-05 16:40:11,48.89454,2.15186,30.0,False,False,False,Boulevard de la République,tertiary,False,False,14,False,False
+279,2026-02-05 16:40:13,48.89461,2.15189,30.0,False,False,False,Boulevard de la République,tertiary,False,False,18,False,False
+280,2026-02-05 16:40:15,48.8947,2.15195,30.0,False,False,False,Boulevard de la République,tertiary,False,False,22,False,False
+281,2026-02-05 16:40:17,48.89481,2.152,30.0,False,False,False,Boulevard de la République,tertiary,False,False,29,False,False
+282,2026-02-05 16:40:19,48.89496,2.15207,30.0,False,False,False,Boulevard de la République,tertiary,False,False,38,True,False
+283,2026-02-05 16:40:21,48.89515,2.15217,30.0,False,False,False,Boulevard de la République,tertiary,False,False,38,True,False
+284,2026-02-05 16:40:23,48.89533,2.15227,30.0,False,False,False,Boulevard de la République,tertiary,False,False,35,True,False
+285,2026-02-05 16:40:25,48.89549,2.15236,30.0,False,False,False,Boulevard de la République,tertiary,False,False,23,False,False
+286,2026-02-05 16:40:26,48.89555,2.15239,30.0,False,False,False,Boulevard de la République,tertiary,False,False,18,False,False
+287,2026-02-05 16:40:28,48.89562,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+288,2026-02-05 16:40:30,48.89562,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+289,2026-02-05 16:40:32,48.89562,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+290,2026-02-05 16:40:34,48.89562,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+291,2026-02-05 16:40:36,48.89562,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+292,2026-02-05 16:40:38,48.89562,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+293,2026-02-05 16:40:40,48.89562,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+294,2026-02-05 16:40:42,48.89562,2.15244,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+295,2026-02-05 16:40:44,48.89562,2.15244,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+296,2026-02-05 16:40:46,48.89562,2.15244,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+297,2026-02-05 16:40:48,48.89563,2.15244,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+298,2026-02-05 16:40:50,48.89563,2.15244,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+299,2026-02-05 16:40:52,48.89563,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+300,2026-02-05 16:40:54,48.89563,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+301,2026-02-05 16:40:56,48.89564,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+302,2026-02-05 16:40:59,48.89563,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+303,2026-02-05 16:41:01,48.89563,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+304,2026-02-05 16:41:03,48.89562,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+305,2026-02-05 16:41:05,48.89562,2.15243,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+306,2026-02-05 16:41:07,48.89562,2.15242,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+307,2026-02-05 16:41:09,48.89562,2.15242,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+308,2026-02-05 16:41:11,48.89562,2.15241,30.0,False,False,False,Boulevard de la République,tertiary,False,False,6,False,False
+309,2026-02-05 16:41:13,48.89565,2.15244,30.0,False,False,False,Boulevard de la République,tertiary,False,False,13,False,False
+310,2026-02-05 16:41:15,48.89572,2.15247,30.0,,,,Boulevard de la République,tertiary,,,16,False,False
+311,2026-02-05 16:41:17,48.8958,2.15251,30.0,False,False,False,Boulevard de la République,tertiary,False,False,18,False,False
+312,2026-02-05 16:41:19,48.8959,2.15257,30.0,False,False,False,Boulevard de la République,tertiary,False,False,20,False,False
+313,2026-02-05 16:41:21,48.89599,2.15262,30.0,False,False,False,Boulevard de la République,tertiary,False,False,21,False,False
+314,2026-02-05 16:41:22,48.89603,2.15266,30.0,False,True,False,Boulevard de la République,tertiary,False,False,19,False,False
+315,2026-02-05 16:41:24,48.89612,2.15271,30.0,False,True,False,Boulevard de la République,tertiary,False,False,13,False,False
+316,2026-02-05 16:41:26,48.89618,2.15274,30.0,False,True,False,Boulevard de la République,tertiary,False,False,10,False,False
+317,2026-02-05 16:41:28,48.89623,2.15275,30.0,False,True,False,Boulevard de la République,tertiary,False,False,4,False,False
+318,2026-02-05 16:41:30,48.89626,2.15278,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+319,2026-02-05 16:41:32,48.89626,2.15279,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+320,2026-02-05 16:41:34,48.89628,2.1528,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+321,2026-02-05 16:41:36,48.89628,2.15281,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+322,2026-02-05 16:41:38,48.89629,2.15281,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+323,2026-02-05 16:41:40,48.89629,2.1528,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+324,2026-02-05 16:41:42,48.89629,2.15282,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+325,2026-02-05 16:41:44,48.89629,2.15283,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+326,2026-02-05 16:41:46,48.89629,2.15283,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+327,2026-02-05 16:41:48,48.89629,2.15282,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+328,2026-02-05 16:41:50,48.89629,2.15282,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+329,2026-02-05 16:41:52,48.89629,2.1528,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+330,2026-02-05 16:41:55,48.89631,2.1528,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+331,2026-02-05 16:41:57,48.89632,2.1528,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+332,2026-02-05 16:41:59,48.89632,2.15281,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+333,2026-02-05 16:42:01,48.89631,2.15282,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+334,2026-02-05 16:42:03,48.89631,2.15285,30.0,False,True,False,Rue du Général Leclerc,tertiary,False,False,0,False,False
+335,2026-02-05 16:42:05,48.89631,2.15287,30.0,False,True,False,Rue du Général Leclerc,tertiary,False,False,0,False,False
+336,2026-02-05 16:42:07,48.89631,2.15287,30.0,False,True,False,Rue du Général Leclerc,tertiary,False,False,0,False,False
+337,2026-02-05 16:42:09,48.89631,2.15287,30.0,False,True,False,Rue du Général Leclerc,tertiary,False,False,0,False,False
+338,2026-02-05 16:42:11,48.89632,2.15286,30.0,False,True,False,Rue du Général Leclerc,tertiary,False,False,0,False,False
+339,2026-02-05 16:42:13,48.89632,2.15286,30.0,False,True,False,Rue du Général Leclerc,tertiary,False,False,0,False,False
+340,2026-02-05 16:42:15,48.89633,2.15284,30.0,False,True,False,Rue du Général Leclerc,tertiary,False,False,6,False,False
+341,2026-02-05 16:42:17,48.89637,2.15286,30.0,False,True,False,Rue du Général Leclerc,tertiary,False,False,20,False,False
+342,2026-02-05 16:42:18,48.8964,2.15287,30.0,False,True,False,Rue du Général Leclerc,tertiary,False,False,23,False,False
+343,2026-02-05 16:42:20,48.89652,2.15292,30.0,False,True,False,Boulevard de la République,tertiary,False,False,26,False,False
+344,2026-02-05 16:42:22,48.89665,2.15297,30.0,False,True,False,Boulevard de la République,tertiary,False,False,32,False,False
+345,2026-02-05 16:42:24,48.89681,2.15304,30.0,False,True,False,Boulevard de la République,tertiary,False,False,37,True,False
+346,2026-02-05 16:42:26,48.89698,2.15313,30.0,False,False,False,Boulevard de la République,tertiary,False,False,38,True,False
+347,2026-02-05 16:42:28,48.89715,2.15322,30.0,False,False,False,Boulevard de la République,tertiary,False,False,42,True,False
+348,2026-02-05 16:42:30,48.89745,2.15336,30.0,False,False,False,Boulevard de la République,tertiary,False,False,41,True,False
+349,2026-02-05 16:42:32,48.89763,2.15346,30.0,False,False,False,Boulevard de la République,tertiary,False,False,36,True,False
+350,2026-02-05 16:42:34,48.8978,2.15354,30.0,False,False,False,Boulevard de la République,tertiary,False,False,37,True,False
+351,2026-02-05 16:42:36,48.89797,2.15365,30.0,False,False,False,Boulevard de la République,tertiary,False,False,37,True,False
+352,2026-02-05 16:42:38,48.89816,2.1537,30.0,False,False,False,Boulevard de la République,tertiary,False,False,34,True,False
+353,2026-02-05 16:42:40,48.89831,2.15378,30.0,False,False,False,Boulevard de la République,tertiary,False,False,27,False,False
+354,2026-02-05 16:42:42,48.89841,2.15385,30.0,False,False,False,Boulevard de la République,tertiary,False,False,17,False,False
+355,2026-02-05 16:42:44,48.89847,2.15388,30.0,False,False,False,Boulevard de la République,tertiary,False,False,6,False,False
+356,2026-02-05 16:42:46,48.89849,2.1539,30.0,False,False,False,Boulevard de la République,tertiary,False,False,1,False,False
+357,2026-02-05 16:42:49,48.89847,2.15393,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+358,2026-02-05 16:42:51,48.89848,2.15392,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+359,2026-02-05 16:42:53,48.89849,2.15392,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+360,2026-02-05 16:42:55,48.89848,2.15392,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+361,2026-02-05 16:42:57,48.89847,2.15391,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+362,2026-02-05 16:42:59,48.89847,2.1539,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+363,2026-02-05 16:43:01,48.89847,2.15389,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+364,2026-02-05 16:43:03,48.89847,2.1539,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+365,2026-02-05 16:43:05,48.89848,2.15389,30.0,False,False,False,Boulevard de la République,tertiary,False,False,0,False,False
+366,2026-02-05 16:43:07,48.89849,2.15389,30.0,False,False,False,Boulevard de la République,tertiary,False,False,1,False,False
+367,2026-02-05 16:43:09,48.8985,2.15389,30.0,False,False,False,Boulevard de la République,tertiary,False,False,14,False,False
+368,2026-02-05 16:43:11,48.89856,2.15393,30.0,False,False,False,Boulevard de la République,tertiary,False,False,16,False,False
+369,2026-02-05 16:43:13,48.89862,2.15397,30.0,False,True,False,Boulevard de la République,tertiary,False,False,16,False,False
+370,2026-02-05 16:43:14,48.89867,2.15399,30.0,False,True,False,Boulevard de la République,tertiary,False,False,17,False,False
+371,2026-02-05 16:43:16,48.89872,2.15405,30.0,False,True,False,Route de Maisons,tertiary,False,False,25,False,False
+372,2026-02-05 16:43:18,48.89879,2.15397,30.0,False,True,False,Boulevard Jean Jaurès,tertiary,False,False,31,False,False
+373,2026-02-05 16:43:20,48.8989,2.1538,30.0,False,True,False,Route de Maisons,tertiary,False,False,41,True,False
+374,2026-02-05 16:43:22,48.89906,2.15357,30.0,False,False,False,Route de Maisons,tertiary,False,False,41,True,False
+375,2026-02-05 16:43:24,48.89922,2.15335,30.0,False,False,False,Route de Maisons,tertiary,False,False,41,True,False
+376,2026-02-05 16:43:26,48.89948,2.15309,30.0,False,False,False,Route de Maisons,tertiary,False,False,39,True,False
+377,2026-02-05 16:43:28,48.89966,2.15294,30.0,False,False,False,Route de Maisons,tertiary,False,False,36,True,False
+378,2026-02-05 16:43:30,48.89982,2.15284,30.0,False,False,False,Route de Maisons,tertiary,False,False,36,True,False
+379,2026-02-05 16:43:32,48.89999,2.15277,30.0,False,False,False,Route de Maisons,tertiary,False,False,36,True,False
+380,2026-02-05 16:43:34,48.90015,2.1527,30.0,False,False,False,Route de Maisons,tertiary,False,False,32,False,False
+381,2026-02-05 16:43:36,48.9003,2.15264,30.0,False,False,False,Rue André Derain,residential,False,False,28,False,False
+382,2026-02-05 16:43:38,48.90039,2.15261,30.0,False,False,False,Route de Maisons,tertiary,False,False,10,False,False
+383,2026-02-05 16:43:40,48.90044,2.1526,30.0,False,False,False,Route de Maisons,tertiary,False,False,7,False,False
+384,2026-02-05 16:43:42,48.90045,2.15259,30.0,False,False,False,Route de Maisons,tertiary,False,False,2,False,False
+385,2026-02-05 16:43:45,48.90047,2.15257,30.0,False,False,False,Route de Maisons,tertiary,False,False,1,False,False
+386,2026-02-05 16:43:47,48.90047,2.15256,30.0,False,False,False,Route de Maisons,tertiary,False,False,2,False,False
+387,2026-02-05 16:43:49,48.90051,2.15254,30.0,False,False,False,Route de Maisons,tertiary,False,False,17,False,False
+388,2026-02-05 16:43:51,48.90061,2.15249,30.0,False,False,False,Route de Maisons,tertiary,False,False,26,False,False
+389,2026-02-05 16:43:53,48.90076,2.15243,30.0,False,False,False,Route de Maisons,tertiary,False,False,35,True,False
+390,2026-02-05 16:43:55,48.90096,2.15236,30.0,False,False,False,Route de Maisons,tertiary,False,False,42,True,False
+391,2026-02-05 16:43:57,48.90117,2.1523,30.0,False,False,False,Route de Maisons,tertiary,False,False,39,True,False
+392,2026-02-05 16:43:59,48.90136,2.15224,30.0,False,False,False,Route de Maisons,tertiary,False,False,36,True,False
+393,2026-02-05 16:44:01,48.90154,2.15219,30.0,False,False,False,Route de Maisons,tertiary,False,False,38,True,False
+394,2026-02-05 16:44:03,48.90173,2.15214,30.0,False,False,False,Route de Maisons,tertiary,False,False,42,True,False
+395,2026-02-05 16:44:05,48.90194,2.15208,30.0,False,False,False,Route de Maisons,tertiary,False,False,37,True,False
+396,2026-02-05 16:44:07,48.90212,2.15204,30.0,False,False,False,Route de Maisons,tertiary,False,False,24,False,False
+397,2026-02-05 16:44:09,48.90224,2.15201,30.0,False,False,False,Route de Maisons,tertiary,False,False,9,False,False
+398,2026-02-05 16:44:10,48.90227,2.15201,30.0,False,False,False,Route de Maisons,tertiary,False,False,4,False,False
+399,2026-02-05 16:44:12,48.90228,2.152,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+400,2026-02-05 16:44:14,48.90228,2.152,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+401,2026-02-05 16:44:16,48.9023,2.15198,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+402,2026-02-05 16:44:18,48.9023,2.15197,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+403,2026-02-05 16:44:20,48.9023,2.15197,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+404,2026-02-05 16:44:22,48.9023,2.15197,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+405,2026-02-05 16:44:24,48.9023,2.15197,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+406,2026-02-05 16:44:26,48.9023,2.15195,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+407,2026-02-05 16:44:28,48.90231,2.15194,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+408,2026-02-05 16:44:30,48.90232,2.15195,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+409,2026-02-05 16:44:32,48.90232,2.15196,30.0,False,False,False,Route de Maisons,tertiary,False,False,6,False,False
+410,2026-02-05 16:44:34,48.90237,2.15195,30.0,False,False,False,Route de Maisons,tertiary,False,False,18,False,False
+411,2026-02-05 16:44:37,48.90247,2.15192,30.0,False,False,False,Route de Maisons,tertiary,False,False,22,False,False
+412,2026-02-05 16:44:39,48.90262,2.15188,30.0,False,False,False,Route de Maisons,tertiary,False,False,28,False,False
+413,2026-02-05 16:44:41,48.90276,2.15185,30.0,False,False,False,Route de Maisons,tertiary,False,False,33,False,False
+414,2026-02-05 16:44:43,48.90292,2.15184,30.0,False,False,False,Route de Maisons,tertiary,False,False,30,False,False
+415,2026-02-05 16:44:45,48.90307,2.15184,30.0,False,False,False,Route de Maisons,tertiary,False,False,32,False,False
+416,2026-02-05 16:44:47,48.90323,2.15183,30.0,False,False,False,Route de Maisons,tertiary,False,False,39,True,False
+417,2026-02-05 16:44:49,48.90343,2.15186,30.0,False,False,False,Route de Maisons,tertiary,False,False,41,True,False
+418,2026-02-05 16:44:51,48.90364,2.1519,30.0,False,False,False,Route de Maisons,tertiary,False,False,39,True,False
+419,2026-02-05 16:44:53,48.90382,2.15195,30.0,False,False,False,Route de Maisons,tertiary,False,False,35,True,False
+420,2026-02-05 16:44:55,48.90399,2.15201,30.0,False,False,False,Route de Maisons,tertiary,False,False,25,False,False
+421,2026-02-05 16:44:57,48.9041,2.15205,30.0,False,False,False,Route de Maisons,tertiary,False,False,17,False,False
+422,2026-02-05 16:44:59,48.90417,2.15208,30.0,False,False,False,Route de Maisons,tertiary,False,False,13,False,False
+423,2026-02-05 16:45:01,48.90423,2.15209,30.0,False,False,False,Route de Maisons,tertiary,False,False,5,False,False
+424,2026-02-05 16:45:02,48.90425,2.15209,30.0,False,False,False,Route de Maisons,tertiary,False,False,5,False,False
+425,2026-02-05 16:45:04,48.90426,2.15209,30.0,False,False,False,Route de Maisons,tertiary,False,False,4,False,False
+426,2026-02-05 16:45:06,48.90428,2.15211,30.0,,,,Route de Maisons,tertiary,,,4,False,False
+427,2026-02-05 16:45:08,48.9043,2.1521,30.0,,,,Route de Maisons,tertiary,,,4,False,False
+428,2026-02-05 16:45:10,48.90432,2.15212,30.0,,,,Route de Maisons,tertiary,,,6,False,False
+429,2026-02-05 16:45:12,48.90436,2.15214,30.0,False,False,False,Route de Maisons,tertiary,False,False,5,False,False
+430,2026-02-05 16:45:14,48.9044,2.15215,30.0,False,False,False,Route de Maisons,tertiary,False,False,2,False,False
+431,2026-02-05 16:45:16,48.9044,2.15217,30.0,False,False,False,Route de Maisons,tertiary,False,False,2,False,False
+432,2026-02-05 16:45:18,48.90442,2.15218,30.0,False,False,False,Route de Maisons,tertiary,False,False,2,False,False
+433,2026-02-05 16:45:20,48.90442,2.15218,30.0,False,False,False,Route de Maisons,tertiary,False,False,2,False,False
+434,2026-02-05 16:45:22,48.90443,2.15219,30.0,False,False,False,Route de Maisons,tertiary,False,False,3,False,False
+435,2026-02-05 16:45:24,48.90445,2.1522,30.0,False,False,True,Route de Maisons,tertiary,False,False,1,False,False
+436,2026-02-05 16:45:26,48.90446,2.15221,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+437,2026-02-05 16:45:28,48.90446,2.15219,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+438,2026-02-05 16:45:30,48.90447,2.1522,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+439,2026-02-05 16:45:33,48.90446,2.15222,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+440,2026-02-05 16:45:35,48.90447,2.15222,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+441,2026-02-05 16:45:37,48.90448,2.15222,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+442,2026-02-05 16:45:39,48.90448,2.15222,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+443,2026-02-05 16:45:41,48.90448,2.15222,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+444,2026-02-05 16:45:43,48.90449,2.15222,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+445,2026-02-05 16:45:45,48.90449,2.15222,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+446,2026-02-05 16:45:47,48.90448,2.15221,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+447,2026-02-05 16:45:49,48.90448,2.15221,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+448,2026-02-05 16:45:51,48.90448,2.15221,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+449,2026-02-05 16:45:53,48.90449,2.15221,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+450,2026-02-05 16:45:55,48.90449,2.15221,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+451,2026-02-05 16:45:57,48.90449,2.15221,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+452,2026-02-05 16:45:58,48.90449,2.15221,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+453,2026-02-05 16:46:00,48.90449,2.15221,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+454,2026-02-05 16:46:02,48.90449,2.15222,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+455,2026-02-05 16:46:04,48.90448,2.15222,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+456,2026-02-05 16:46:06,48.90448,2.15223,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+457,2026-02-05 16:46:08,48.90448,2.15223,30.0,False,False,True,Route de Maisons,tertiary,False,False,6,False,False
+458,2026-02-05 16:46:10,48.90455,2.15226,30.0,False,False,True,Route de Maisons,tertiary,False,False,12,False,False
+459,2026-02-05 16:46:12,48.90462,2.15228,30.0,False,False,True,Route de Maisons,tertiary,False,False,12,False,False
+460,2026-02-05 16:46:14,48.90467,2.15229,30.0,False,False,True,Route de Maisons,tertiary,False,False,11,False,False
+461,2026-02-05 16:46:16,48.90472,2.15231,30.0,False,False,True,Route de Maisons,tertiary,False,False,10,False,False
+462,2026-02-05 16:46:18,48.90477,2.15232,30.0,False,False,True,Route de Maisons,tertiary,False,False,4,False,False
+463,2026-02-05 16:46:20,48.90478,2.15232,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+464,2026-02-05 16:46:22,48.90478,2.15232,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+465,2026-02-05 16:46:24,48.90478,2.15232,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+466,2026-02-05 16:46:26,48.90478,2.15231,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+467,2026-02-05 16:46:29,48.90478,2.15231,30.0,False,False,True,Route de Maisons,tertiary,False,False,2,False,False
+468,2026-02-05 16:46:31,48.9048,2.15231,30.0,False,False,True,Route de Maisons,tertiary,False,False,4,False,False
+469,2026-02-05 16:46:33,48.90482,2.15231,30.0,False,False,True,Route de Maisons,tertiary,False,False,4,False,False
+470,2026-02-05 16:46:35,48.90484,2.15231,30.0,False,False,True,Route de Maisons,tertiary,False,False,1,False,False
+471,2026-02-05 16:46:37,48.90484,2.1523,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+472,2026-02-05 16:46:39,48.90484,2.1523,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+473,2026-02-05 16:46:41,48.90484,2.1523,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+474,2026-02-05 16:46:43,48.90484,2.1523,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+475,2026-02-05 16:46:45,48.90484,2.15229,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+476,2026-02-05 16:46:47,48.90484,2.15229,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+477,2026-02-05 16:46:49,48.90484,2.15229,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+478,2026-02-05 16:46:51,48.90484,2.15228,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+479,2026-02-05 16:46:53,48.90483,2.15228,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+480,2026-02-05 16:46:54,48.90483,2.15227,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+481,2026-02-05 16:46:56,48.90484,2.15227,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+482,2026-02-05 16:46:58,48.90484,2.15227,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+483,2026-02-05 16:47:00,48.90484,2.15227,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+484,2026-02-05 16:47:02,48.90484,2.15226,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+485,2026-02-05 16:47:04,48.90484,2.15226,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+486,2026-02-05 16:47:06,48.90484,2.15226,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+487,2026-02-05 16:47:08,48.90484,2.15226,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+488,2026-02-05 16:47:10,48.90485,2.15226,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+489,2026-02-05 16:47:12,48.90485,2.15226,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+490,2026-02-05 16:47:14,48.90485,2.15226,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+491,2026-02-05 16:47:16,48.90485,2.15225,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+492,2026-02-05 16:47:18,48.90485,2.15225,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+493,2026-02-05 16:47:20,48.90485,2.15225,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+494,2026-02-05 16:47:22,48.90484,2.15225,30.0,False,False,True,Route de Maisons,tertiary,False,False,0,False,False
+495,2026-02-05 16:47:25,48.90485,2.15225,30.0,False,False,True,Route de Maisons,tertiary,False,False,4,False,False
+496,2026-02-05 16:47:27,48.90487,2.15226,30.0,False,False,True,Route de Maisons,tertiary,False,False,6,False,False
+497,2026-02-05 16:47:29,48.90491,2.15227,30.0,False,False,False,Rue des Vignobles,residential,False,False,4,False,False
+498,2026-02-05 16:47:31,48.90492,2.15229,30.0,False,False,False,Rue des Vignobles,residential,False,False,1,False,False
+499,2026-02-05 16:47:33,48.90493,2.15229,30.0,False,False,False,Rue des Vignobles,residential,False,False,2,False,False
+500,2026-02-05 16:47:35,48.90495,2.15229,30.0,False,False,False,Route de Maisons,tertiary,False,False,8,False,False
+501,2026-02-05 16:47:37,48.90499,2.1523,30.0,False,False,False,Rue des Vignobles,residential,False,False,8,False,False
+502,2026-02-05 16:47:39,48.90504,2.1523,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,8,False,False
+503,2026-02-05 16:47:41,48.90508,2.15231,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,4,False,False
+504,2026-02-05 16:47:43,48.9051,2.15231,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,4,False,False
+505,2026-02-05 16:47:45,48.90512,2.15231,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,6,False,False
+506,2026-02-05 16:47:47,48.90515,2.1523,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,9,False,False
+507,2026-02-05 16:47:49,48.90519,2.15231,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,6,False,False
+508,2026-02-05 16:47:50,48.90522,2.15232,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,5,False,False
+509,2026-02-05 16:47:52,48.90524,2.15233,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,2,False,False
+510,2026-02-05 16:47:54,48.90525,2.15233,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+511,2026-02-05 16:47:56,48.90525,2.15232,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+512,2026-02-05 16:47:58,48.90525,2.15232,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+513,2026-02-05 16:48:00,48.90525,2.15233,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+514,2026-02-05 16:48:02,48.90525,2.15233,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+515,2026-02-05 16:48:04,48.90525,2.15233,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+516,2026-02-05 16:48:06,48.90525,2.15233,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+517,2026-02-05 16:48:08,48.90525,2.15233,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+518,2026-02-05 16:48:10,48.90525,2.15233,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+519,2026-02-05 16:48:12,48.90525,2.15234,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+520,2026-02-05 16:48:14,48.90525,2.15234,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+521,2026-02-05 16:48:16,48.90525,2.15234,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+522,2026-02-05 16:48:19,48.90525,2.15234,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+523,2026-02-05 16:48:21,48.90525,2.15235,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+524,2026-02-05 16:48:23,48.90525,2.15235,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+525,2026-02-05 16:48:25,48.90525,2.15235,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+526,2026-02-05 16:48:27,48.90526,2.15236,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+527,2026-02-05 16:48:29,48.90525,2.15236,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+528,2026-02-05 16:48:31,48.90526,2.15236,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+529,2026-02-05 16:48:33,48.90526,2.15236,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,3,False,False
+530,2026-02-05 16:48:35,48.90528,2.15237,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,5,False,False
+531,2026-02-05 16:48:37,48.9053,2.15236,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,5,False,False
+532,2026-02-05 16:48:39,48.9053,2.15236,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,1,False,False
+533,2026-02-05 16:48:41,48.9053,2.15236,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,0,False,False
+534,2026-02-05 16:48:43,48.9053,2.15236,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,2,False,False
+535,2026-02-05 16:48:44,48.90532,2.15236,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,7,False,False
+536,2026-02-05 16:48:46,48.90535,2.15237,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,12,False,False
+537,2026-02-05 16:48:48,48.90543,2.15237,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,14,False,False
+538,2026-02-05 16:48:50,48.9055,2.15238,30.0,,,,Rue Jean Jaurès,tertiary,,,17,False,False
+539,2026-02-05 16:48:52,48.90558,2.15239,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,17,False,False
+540,2026-02-05 16:48:54,48.90569,2.15239,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,15,False,False
+541,2026-02-05 16:48:56,48.90576,2.15239,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,10,False,False
+542,2026-02-05 16:48:58,48.90579,2.15238,30.0,,,,Rue Jean Jaurès,tertiary,,,3,False,False
+543,2026-02-05 16:49:00,48.90579,2.15238,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+544,2026-02-05 16:49:02,48.90579,2.15238,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+545,2026-02-05 16:49:04,48.90579,2.15238,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+546,2026-02-05 16:49:06,48.90579,2.15239,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+547,2026-02-05 16:49:08,48.90579,2.15239,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+548,2026-02-05 16:49:10,48.90579,2.15239,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+549,2026-02-05 16:49:13,48.9058,2.1524,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+550,2026-02-05 16:49:15,48.9058,2.1524,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+551,2026-02-05 16:49:17,48.9058,2.1524,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+552,2026-02-05 16:49:19,48.9058,2.1524,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+553,2026-02-05 16:49:21,48.9058,2.15241,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+554,2026-02-05 16:49:23,48.9058,2.15242,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+555,2026-02-05 16:49:25,48.9058,2.15242,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+556,2026-02-05 16:49:27,48.90579,2.15242,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+557,2026-02-05 16:49:29,48.90579,2.15242,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+558,2026-02-05 16:49:31,48.90579,2.15242,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+559,2026-02-05 16:49:33,48.90579,2.15242,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+560,2026-02-05 16:49:35,48.90579,2.15241,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+561,2026-02-05 16:49:37,48.90579,2.1524,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+562,2026-02-05 16:49:38,48.90579,2.15241,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+563,2026-02-05 16:49:40,48.90579,2.1524,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+564,2026-02-05 16:49:42,48.9058,2.1524,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+565,2026-02-05 16:49:44,48.90579,2.1524,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+566,2026-02-05 16:49:46,48.90579,2.15239,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+567,2026-02-05 16:49:48,48.90579,2.15239,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+568,2026-02-05 16:49:50,48.90579,2.1524,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+569,2026-02-05 16:49:52,48.90579,2.1524,30.0,,,,Rue Jean Jaurès,tertiary,,,0,False,False
+570,2026-02-05 16:49:54,48.9058,2.15241,30.0,,,,Rue Jean Jaurès,tertiary,,,8,False,False
+571,2026-02-05 16:49:56,48.90587,2.15241,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,17,False,False
+572,2026-02-05 16:49:58,48.90597,2.15243,30.0,,,,Rue Jean Jaurès,tertiary,,,22,False,False
+573,2026-02-05 16:50:00,48.90608,2.15243,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,19,False,False
+574,2026-02-05 16:50:02,48.90617,2.15241,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,18,False,False
+575,2026-02-05 16:50:04,48.90626,2.15242,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,18,False,False
+576,2026-02-05 16:50:06,48.90635,2.15243,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,16,False,False
+577,2026-02-05 16:50:09,48.90644,2.15244,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,14,False,False
+578,2026-02-05 16:50:11,48.9065,2.15242,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,12,False,False
+579,2026-02-05 16:50:13,48.90656,2.15241,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,13,False,False
+580,2026-02-05 16:50:15,48.90663,2.15242,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,16,False,False
+581,2026-02-05 16:50:17,48.9067,2.15242,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,20,False,False
+582,2026-02-05 16:50:19,48.9068,2.1524,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,22,False,False
+583,2026-02-05 16:50:21,48.9069,2.15237,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,25,False,False
+584,2026-02-05 16:50:23,48.90702,2.15236,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,25,False,False
+585,2026-02-05 16:50:25,48.90715,2.15235,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,24,False,False
+586,2026-02-05 16:50:27,48.90728,2.15233,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,23,False,False
+587,2026-02-05 16:50:29,48.90739,2.15231,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,20,False,False
+588,2026-02-05 16:50:31,48.90749,2.1523,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,15,False,False
+589,2026-02-05 16:50:33,48.90756,2.1523,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,13,False,False
+590,2026-02-05 16:50:34,48.90759,2.1523,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,7,False,False
+591,2026-02-05 16:50:36,48.90762,2.15229,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,0,False,False
+592,2026-02-05 16:50:38,48.90763,2.1523,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,9,False,False
+593,2026-02-05 16:50:40,48.90768,2.1523,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,16,False,False
+594,2026-02-05 16:50:42,48.90776,2.15228,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,19,False,False
+595,2026-02-05 16:50:44,48.90786,2.15228,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,20,False,False
+596,2026-02-05 16:50:46,48.90798,2.15225,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,22,False,False
+597,2026-02-05 16:50:48,48.90809,2.15226,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,23,False,False
+598,2026-02-05 16:50:50,48.90821,2.15226,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,24,False,False
+599,2026-02-05 16:50:52,48.90833,2.15225,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,23,False,False
+600,2026-02-05 16:50:54,48.90844,2.15224,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,20,False,False
+601,2026-02-05 16:50:56,48.90853,2.15224,30.0,False,False,True,Rue Pierre-Louis Guyard,tertiary,False,False,13,False,False
+602,2026-02-05 16:50:58,48.90858,2.15222,30.0,False,False,True,Rue Pierre-Louis Guyard,tertiary,False,False,5,False,False
+603,2026-02-05 16:51:00,48.9086,2.15221,30.0,False,False,True,Rue Pierre-Louis Guyard,tertiary,False,False,0,False,False
+604,2026-02-05 16:51:02,48.90861,2.15221,30.0,False,False,True,Rue Pierre-Louis Guyard,tertiary,False,False,4,False,False
+605,2026-02-05 16:51:05,48.90864,2.1522,30.0,False,False,True,Rue Pierre-Louis Guyard,tertiary,False,False,8,False,False
+606,2026-02-05 16:51:07,48.9087,2.15222,30.0,False,False,True,Rue Pierre-Louis Guyard,tertiary,False,False,13,False,False
+607,2026-02-05 16:51:09,48.90878,2.15226,30.0,False,False,True,Rue du Général Leclerc,tertiary,False,False,20,False,False
+608,2026-02-05 16:51:11,48.90886,2.15231,30.0,False,False,True,Rue du Général Leclerc,tertiary,False,False,22,False,False
+609,2026-02-05 16:51:13,48.90898,2.15234,30.0,False,False,False,Rue du Général Leclerc,tertiary,False,False,25,False,False
+610,2026-02-05 16:51:15,48.9091,2.15239,30.0,,,,Rue du Général Leclerc,tertiary,,,27,False,False
+611,2026-02-05 16:51:17,48.90924,2.15243,30.0,False,False,False,Rue du Général Leclerc,tertiary,False,False,22,False,False
+612,2026-02-05 16:51:19,48.90935,2.15245,30.0,False,False,False,Rue du Général Leclerc,tertiary,False,False,19,False,False
+613,2026-02-05 16:51:21,48.90945,2.15246,30.0,False,False,False,Rue du Général Leclerc,tertiary,False,False,22,False,False
+614,2026-02-05 16:51:23,48.90955,2.15243,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,26,False,False
+615,2026-02-05 16:51:25,48.90968,2.15235,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,29,False,False
+616,2026-02-05 16:51:27,48.90982,2.15229,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,30,False,False
+617,2026-02-05 16:51:29,48.90997,2.15223,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,28,False,False
+618,2026-02-05 16:51:30,48.91003,2.15221,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,27,False,False
+619,2026-02-05 16:51:32,48.91018,2.15217,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,26,False,False
+620,2026-02-05 16:51:34,48.9103,2.15212,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,24,False,False
+621,2026-02-05 16:51:36,48.91042,2.15207,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,25,False,False
+622,2026-02-05 16:51:38,48.91054,2.15201,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,25,False,False
+623,2026-02-05 16:51:40,48.91068,2.15197,30.0,,,,Rue Félicien Lesage,tertiary,,,24,False,False
+624,2026-02-05 16:51:42,48.91087,2.1519,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,23,False,False
+625,2026-02-05 16:51:44,48.91099,2.15188,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,25,False,False
+626,2026-02-05 16:51:46,48.91111,2.15185,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,26,False,False
+627,2026-02-05 16:51:48,48.91125,2.15183,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,29,False,False
+628,2026-02-05 16:51:50,48.9114,2.15183,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,29,False,False
+629,2026-02-05 16:51:52,48.91154,2.1518,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,29,False,False
+630,2026-02-05 16:51:54,48.91169,2.15177,30.0,False,False,False,Rue Félicien Lesage,tertiary,False,False,28,False,False
+631,2026-02-05 16:51:56,48.91183,2.15176,30.0,True,False,False,Rue Félicien Lesage,tertiary,False,False,25,False,False
+632,2026-02-05 16:51:58,48.91195,2.15177,30.0,True,False,False,Rue Félicien Lesage,tertiary,False,False,19,False,False
+633,2026-02-05 16:52:01,48.91203,2.15182,50.0,True,False,False,Rue d'Estienne d'Orves,unclassified,False,False,17,False,False
+634,2026-02-05 16:52:03,48.91211,2.15181,,,,,,,,,18,False,False
+635,2026-02-05 16:52:05,48.91219,2.15175,,,,,,,,,20,False,False
+636,2026-02-05 16:52:07,48.9123,2.15174,,,,,,,,,24,False,False
+637,2026-02-05 16:52:09,48.91243,2.15175,,,,,,,,,27,False,False
+638,2026-02-05 16:52:11,48.91257,2.15177,,,,,,,,,30,False,False
+639,2026-02-05 16:52:13,48.91272,2.1518,,,,,,,,,29,False,False
+640,2026-02-05 16:52:15,48.91287,2.15184,,,,,,,,,29,False,False
+641,2026-02-05 16:52:17,48.91301,2.15187,,,,,,,,,27,False,False
+642,2026-02-05 16:52:19,48.91315,2.1519,,,,,,,,,21,False,False
+643,2026-02-05 16:52:21,48.91325,2.15193,50.0,True,False,False,Route de Sartrouville,tertiary_link,False,False,16,False,False
+644,2026-02-05 16:52:23,48.91332,2.15199,50.0,True,False,False,Route de Sartrouville,tertiary_link,False,False,17,False,False
+645,2026-02-05 16:52:25,48.91338,2.15208,50.0,True,False,False,Route de Sartrouville,tertiary_link,False,False,24,False,False
+646,2026-02-05 16:52:26,48.91344,2.15212,50.0,True,False,False,Route de Sartrouville,tertiary_link,False,False,26,False,False
+647,2026-02-05 16:52:28,48.91358,2.1521,50.0,,,,Route de Sartrouville,tertiary_link,,,30,False,False
+648,2026-02-05 16:52:30,48.91373,2.15207,50.0,True,False,False,Route de Sartrouville,secondary_link,False,False,33,False,False
+649,2026-02-05 16:52:32,48.9139,2.1521,50.0,,,,Route de Sartrouville,secondary,,,36,False,False
+650,2026-02-05 16:52:34,48.91407,2.15215,50.0,,,,Route de Sartrouville,secondary,,,35,False,False
+651,2026-02-05 16:52:36,48.91424,2.1522,50.0,,,,Route de Sartrouville,secondary,,,34,False,False
+652,2026-02-05 16:52:38,48.91449,2.15228,50.0,,,,Route de Sartrouville,secondary,,,35,False,False
+653,2026-02-05 16:52:40,48.91468,2.15235,50.0,,,,Route de Sartrouville,secondary,,,35,False,False
+654,2026-02-05 16:52:42,48.91485,2.15244,50.0,False,False,False,Route de Sartrouville,secondary,False,False,40,False,False
+655,2026-02-05 16:52:44,48.91506,2.15254,50.0,False,False,False,Route de Sartrouville,secondary,False,False,50,False,False
+656,2026-02-05 16:52:46,48.91532,2.15264,50.0,False,False,False,Route de Sartrouville,secondary,False,False,50,False,False
+657,2026-02-05 16:52:48,48.91556,2.15276,50.0,True,False,False,Route de Sartrouville,secondary,False,False,45,False,False
+658,2026-02-05 16:52:50,48.91575,2.15289,50.0,True,False,False,Route de Sartrouville,secondary,False,False,38,False,False
+659,2026-02-05 16:52:52,48.91586,2.15308,50.0,True,False,False,Route de Sartrouville,secondary,False,False,34,False,False
+660,2026-02-05 16:52:55,48.91602,2.15315,50.0,,,,Route de Sartrouville,secondary,,,34,False,False
+661,2026-02-05 16:52:57,48.9162,2.15305,70.0,True,False,False,Route de Sartrouville,secondary,False,False,43,False,True
+662,2026-02-05 16:52:59,48.91642,2.15299,70.0,True,False,False,Route de Sartrouville,secondary,False,False,53,False,True
+663,2026-02-05 16:53:01,48.9167,2.15301,70.0,False,False,False,Route de Sartrouville,secondary,False,False,55,False,True
+664,2026-02-05 16:53:03,48.91698,2.15305,70.0,False,False,False,Route de Sartrouville,secondary,False,False,53,False,True
+665,2026-02-05 16:53:05,48.91724,2.15308,70.0,False,False,False,Route de Sartrouville,secondary,False,False,50,False,True
+666,2026-02-05 16:53:07,48.91748,2.15314,70.0,False,False,False,Route de Sartrouville,secondary,False,False,48,False,True
+667,2026-02-05 16:53:09,48.91771,2.15321,70.0,False,False,False,Route de Sartrouville,secondary,False,False,46,False,True
+668,2026-02-05 16:53:11,48.91795,2.15327,70.0,False,False,False,Route de Sartrouville,secondary,False,False,44,False,True
+669,2026-02-05 16:53:13,48.91817,2.15334,70.0,False,False,False,Route de Sartrouville,secondary,False,False,42,False,True
+670,2026-02-05 16:53:15,48.91837,2.15342,70.0,False,False,False,Route de Sartrouville,secondary,False,False,41,False,True
+671,2026-02-05 16:53:17,48.91857,2.15351,70.0,False,False,False,Route de Sartrouville,secondary,False,False,40,False,True
+672,2026-02-05 16:53:19,48.91876,2.1536,70.0,False,False,False,,secondary,False,False,40,False,True
+673,2026-02-05 16:53:20,48.91887,2.15364,70.0,False,False,False,,secondary,False,False,40,False,True
+674,2026-02-05 16:53:22,48.91906,2.15374,70.0,False,False,False,,secondary,False,False,38,False,True
+675,2026-02-05 16:53:24,48.91923,2.15386,70.0,True,False,False,Route de Sartrouville,secondary,False,False,26,False,True
+676,2026-02-05 16:53:26,48.91935,2.15394,70.0,True,False,False,Route de Sartrouville,secondary,False,False,22,False,True
+677,2026-02-05 16:53:28,48.91943,2.15404,70.0,True,False,False,Route de Sartrouville,secondary,False,False,25,False,True
+678,2026-02-05 16:53:30,48.9195,2.15419,70.0,True,False,False,Route de Sartrouville,secondary,False,False,27,False,True
+679,2026-02-05 16:53:32,48.9196,2.1543,70.0,True,False,False,Route de Sartrouville,secondary,False,False,32,False,True
+680,2026-02-05 16:53:34,48.91985,2.15422,70.0,True,False,False,Route de Sartrouville,secondary,False,True,34,False,True
+681,2026-02-05 16:53:36,48.92004,2.15423,70.0,,,,Route de Sartrouville,secondary,,,41,False,True
+682,2026-02-05 16:53:38,48.92027,2.15431,70.0,False,False,False,Route de Sartrouville,secondary,False,True,56,False,True
+683,2026-02-05 16:53:40,48.92056,2.15442,70.0,False,False,False,Route de Sartrouville,secondary,False,False,60,False,False
+684,2026-02-05 16:53:42,48.92086,2.15458,70.0,False,False,False,Route de Sartrouville,secondary,False,False,66,False,False
+685,2026-02-05 16:53:44,48.92117,2.15476,70.0,False,False,False,Route de Sartrouville,secondary,False,False,65,False,False
+686,2026-02-05 16:53:46,48.92148,2.15496,70.0,False,False,False,Route de Sartrouville,secondary,False,False,64,False,False
+687,2026-02-05 16:53:48,48.92177,2.15516,70.0,False,False,False,Route de Sartrouville,secondary,False,False,66,False,False
+688,2026-02-05 16:53:51,48.92208,2.15536,70.0,False,False,False,Route de Sartrouville,secondary,False,False,67,False,False
+689,2026-02-05 16:53:53,48.92239,2.15556,70.0,False,False,False,Route de Sartrouville,secondary,False,False,64,False,False
+690,2026-02-05 16:53:55,48.92265,2.15576,70.0,True,False,False,Route de Sartrouville,secondary,False,False,42,False,True
+691,2026-02-05 16:53:57,48.92281,2.15591,70.0,True,False,False,Route de Sartrouville,secondary,False,False,28,False,True
+692,2026-02-05 16:53:59,48.92289,2.15606,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,29,False,True
+693,2026-02-05 16:54:01,48.92296,2.15625,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,29,False,True
+694,2026-02-05 16:54:03,48.92309,2.15634,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,31,False,True
+695,2026-02-05 16:54:05,48.92324,2.15625,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,34,False,True
+696,2026-02-05 16:54:07,48.92331,2.15599,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,38,False,True
+697,2026-02-05 16:54:09,48.9232,2.15573,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,40,False,True
+698,2026-02-05 16:54:11,48.92298,2.1557,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,54,False,True
+699,2026-02-05 16:54:13,48.92271,2.15568,70.0,True,False,False,Route de Sartrouville,secondary,False,False,65,False,False
+700,2026-02-05 16:54:14,48.92256,2.15559,70.0,False,False,False,Route de Sartrouville,secondary,False,False,69,False,False
+701,2026-02-05 16:54:16,48.92225,2.15537,70.0,False,False,False,Route de Sartrouville,secondary,False,False,70,False,False
+702,2026-02-05 16:54:18,48.92193,2.15517,70.0,False,False,False,Route de Sartrouville,secondary,False,False,69,False,False
+703,2026-02-05 16:54:20,48.9216,2.155,70.0,False,False,False,Route de Sartrouville,secondary,False,False,69,False,False
+704,2026-02-05 16:54:22,48.92128,2.15479,70.0,False,False,False,Route de Sartrouville,secondary,False,False,69,False,False
+705,2026-02-05 16:54:24,48.92096,2.15459,70.0,False,False,False,Route de Sartrouville,secondary,False,False,65,False,False
+706,2026-02-05 16:54:26,48.92065,2.15442,70.0,False,False,False,Route de Sartrouville,secondary,False,False,61,False,False
+707,2026-02-05 16:54:28,48.92023,2.15426,70.0,False,False,False,Route de Sartrouville,secondary,False,True,51,False,True
+708,2026-02-05 16:54:30,48.92004,2.15416,70.0,,,,Route de Sartrouville,secondary,,,30,False,True
+709,2026-02-05 16:54:32,48.91993,2.15407,70.0,True,False,False,Route de Sartrouville,secondary,False,True,27,False,True
+710,2026-02-05 16:54:34,48.91984,2.15393,70.0,True,False,False,Route de Sartrouville,secondary,False,True,29,False,True
+711,2026-02-05 16:54:36,48.91972,2.15378,70.0,True,False,False,Route de Sartrouville,secondary,False,False,28,False,True
+712,2026-02-05 16:54:38,48.91957,2.1538,70.0,True,False,False,Route de Sartrouville,secondary,False,False,32,False,True
+713,2026-02-05 16:54:40,48.91943,2.15401,70.0,True,False,False,Route de Sartrouville,secondary,False,False,35,False,True
+714,2026-02-05 16:54:43,48.91951,2.15425,70.0,True,False,False,Route de Sartrouville,secondary,False,False,36,False,True
+715,2026-02-05 16:54:45,48.9197,2.15433,70.0,True,False,False,Route de Sartrouville,secondary,False,False,36,False,True
+716,2026-02-05 16:54:47,48.91988,2.15421,70.0,True,False,False,Route de Sartrouville,secondary,False,True,44,False,True
+717,2026-02-05 16:54:49,48.92008,2.15418,70.0,True,False,False,Route de Sartrouville,secondary,False,True,58,False,True
+718,2026-02-05 16:54:51,48.92039,2.15432,70.0,False,False,False,Route de Sartrouville,secondary,False,False,64,False,False
+719,2026-02-05 16:54:53,48.92073,2.15448,70.0,False,False,False,Route de Sartrouville,secondary,False,False,68,False,False
+720,2026-02-05 16:54:55,48.92105,2.15466,70.0,False,False,False,Route de Sartrouville,secondary,False,False,67,False,False
+721,2026-02-05 16:54:57,48.92135,2.15486,70.0,False,False,False,Route de Sartrouville,secondary,False,False,66,False,False
+722,2026-02-05 16:54:59,48.92166,2.15507,70.0,False,False,False,Route de Sartrouville,secondary,False,False,63,False,False
+723,2026-02-05 16:55:01,48.92194,2.15526,70.0,False,False,False,Route de Sartrouville,secondary,False,False,59,False,True
+724,2026-02-05 16:55:03,48.92221,2.15544,70.0,False,False,False,Route de Sartrouville,secondary,False,False,37,False,True
+725,2026-02-05 16:55:05,48.92237,2.15553,70.0,False,False,False,Route de Sartrouville,secondary,False,False,40,False,True
+726,2026-02-05 16:55:07,48.92254,2.15565,70.0,False,False,False,Route de Sartrouville,secondary,False,False,35,False,True
+727,2026-02-05 16:55:09,48.92269,2.15577,70.0,True,False,False,Route de Sartrouville,secondary,False,False,12,False,True
+728,2026-02-05 16:55:10,48.92273,2.1558,70.0,True,False,False,Route de Sartrouville,secondary,False,False,7,False,True
+729,2026-02-05 16:55:12,48.92275,2.15582,70.0,True,False,False,Route de Sartrouville,secondary,False,False,2,False,True
+730,2026-02-05 16:55:14,48.92276,2.15583,70.0,True,False,False,Route de Sartrouville,secondary,False,False,5,False,True
+731,2026-02-05 16:55:16,48.92277,2.15585,70.0,True,False,False,Route de Sartrouville,secondary,False,False,3,False,True
+732,2026-02-05 16:55:18,48.92279,2.15586,70.0,True,False,False,Route de Sartrouville,secondary,False,False,21,False,True
+733,2026-02-05 16:55:20,48.92283,2.15597,70.0,True,False,False,Route de Sartrouville,secondary,False,False,33,False,True
+734,2026-02-05 16:55:22,48.92299,2.15629,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,33,False,True
+735,2026-02-05 16:55:24,48.92315,2.15629,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,30,False,True
+736,2026-02-05 16:55:26,48.92326,2.15611,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,31,False,True
+737,2026-02-05 16:55:28,48.92328,2.15587,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,29,False,True
+738,2026-02-05 16:55:30,48.92318,2.15568,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,37,False,True
+739,2026-02-05 16:55:32,48.92311,2.15545,50.0,True,False,False,Chemin de l'Espérance,tertiary,False,False,34,False,False
+740,2026-02-05 16:55:34,48.92315,2.15518,50.0,True,False,False,Chemin de l'Espérance,tertiary,False,False,33,False,False
+741,2026-02-05 16:55:36,48.92323,2.15495,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,35,False,False
+742,2026-02-05 16:55:39,48.92337,2.15475,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,39,False,False
+743,2026-02-05 16:55:41,48.9235,2.15452,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,42,False,False
+744,2026-02-05 16:55:43,48.92365,2.15428,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,43,False,False
+745,2026-02-05 16:55:45,48.92381,2.15403,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,44,False,False
+746,2026-02-05 16:55:47,48.92395,2.15378,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,42,False,False
+747,2026-02-05 16:55:49,48.92409,2.15354,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,41,False,False
+748,2026-02-05 16:55:51,48.92423,2.15329,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,44,False,False
+749,2026-02-05 16:55:53,48.92437,2.15303,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,47,False,False
+750,2026-02-05 16:55:55,48.92454,2.15276,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,45,False,False
+751,2026-02-05 16:55:57,48.92468,2.1525,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,43,False,False
+752,2026-02-05 16:55:59,48.92483,2.15225,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,41,False,False
+753,2026-02-05 16:56:01,48.92497,2.15201,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,39,False,False
+754,2026-02-05 16:56:03,48.92509,2.1518,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,37,False,False
+755,2026-02-05 16:56:04,48.92515,2.15169,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,35,False,False
+756,2026-02-05 16:56:06,48.92527,2.15149,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,30,False,False
+757,2026-02-05 16:56:08,48.92538,2.15132,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,22,False,False
+758,2026-02-05 16:56:10,48.92545,2.15121,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,23,False,False
+759,2026-02-05 16:56:12,48.92553,2.15109,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,29,False,False
+760,2026-02-05 16:56:14,48.92563,2.15091,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,36,False,False
+761,2026-02-05 16:56:16,48.92575,2.15071,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,40,False,False
+762,2026-02-05 16:56:18,48.92596,2.15038,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,39,False,False
+763,2026-02-05 16:56:20,48.92609,2.15018,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,40,False,False
+764,2026-02-05 16:56:22,48.92623,2.14995,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,44,False,False
+765,2026-02-05 16:56:24,48.92637,2.14968,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,45,False,False
+766,2026-02-05 16:56:26,48.92653,2.14942,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,43,False,False
+767,2026-02-05 16:56:28,48.92669,2.1492,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,40,False,False
+768,2026-02-05 16:56:30,48.92681,2.14898,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,41,False,False
+769,2026-02-05 16:56:32,48.92696,2.14875,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,41,False,False
+770,2026-02-05 16:56:35,48.9271,2.14852,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,35,False,False
+771,2026-02-05 16:56:37,48.92722,2.14833,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,34,False,False
+772,2026-02-05 16:56:39,48.92736,2.14817,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,33,False,False
+773,2026-02-05 16:56:41,48.92753,2.14812,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,34,False,False
+774,2026-02-05 16:56:43,48.92768,2.14819,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,34,False,False
+775,2026-02-05 16:56:45,48.92782,2.14835,20.0,False,False,False,Chemin de l'Espérance,unclassified,False,False,34,True,False
+776,2026-02-05 16:56:47,48.92796,2.14851,20.0,False,False,False,Chemin de l'Espérance,unclassified,False,False,34,True,False
+777,2026-02-05 16:56:49,48.9281,2.14863,20.0,False,False,False,Chemin de l'Espérance,unclassified,False,False,31,True,False
+778,2026-02-05 16:56:51,48.92826,2.14868,20.0,False,False,False,Chemin de l'Espérance,unclassified,False,False,32,True,False
+779,2026-02-05 16:56:53,48.92842,2.14866,20.0,False,False,False,Chemin de l'Espérance,unclassified,False,False,31,True,False
+780,2026-02-05 16:56:55,48.92856,2.14856,20.0,False,False,False,Chemin de l'Espérance,unclassified,False,False,30,True,False
+781,2026-02-05 16:56:57,48.92866,2.14839,20.0,False,False,False,Chemin de l'Espérance,unclassified,False,True,31,True,False
+782,2026-02-05 16:56:58,48.92872,2.14829,20.0,True,False,False,Chemin de l'Espérance,unclassified,False,True,26,True,False
+783,2026-02-05 16:57:00,48.92881,2.14816,20.0,True,False,False,Chemin de l'Espérance,unclassified,False,True,12,False,False
+784,2026-02-05 16:57:02,48.92887,2.14811,20.0,True,False,False,Chemin de l'Espérance,unclassified,False,True,17,False,False
+785,2026-02-05 16:57:04,48.92893,2.14805,20.0,True,False,False,Chemin de l'Espérance,unclassified,False,True,20,False,False
+786,2026-02-05 16:57:06,48.92901,2.14797,20.0,,,,Chemin de l'Espérance,unclassified,,,21,False,False
+787,2026-02-05 16:57:08,48.92905,2.14781,20.0,,,,Chemin de l'Espérance,unclassified,,,21,False,False
+788,2026-02-05 16:57:10,48.92901,2.14768,20.0,,,,Chemin de l'Espérance,unclassified,,,21,False,False
+789,2026-02-05 16:57:12,48.92886,2.14767,20.0,,,,Chemin de l'Espérance,unclassified,,,23,False,False
+790,2026-02-05 16:57:14,48.92878,2.14782,20.0,True,False,False,Chemin de l'Espérance,unclassified,False,True,26,True,False
+791,2026-02-05 16:57:16,48.92873,2.14799,20.0,True,False,False,Chemin de l'Espérance,unclassified,False,True,30,True,False
+792,2026-02-05 16:57:18,48.92862,2.14818,20.0,True,False,False,Chemin de l'Espérance,unclassified,False,True,36,True,False
+793,2026-02-05 16:57:20,48.9285,2.14838,50.0,,,,Chemin de l'Espérance,tertiary,,,33,False,False
+794,2026-02-05 16:57:22,48.92836,2.1485,50.0,,,,Chemin de l'Espérance,tertiary,,,34,False,False
+795,2026-02-05 16:57:24,48.92819,2.1485,50.0,,,,Chemin de l'Espérance,tertiary,,,40,False,False
+796,2026-02-05 16:57:26,48.92801,2.14838,50.0,,,,Chemin de l'Espérance,tertiary,,,38,False,False
+797,2026-02-05 16:57:29,48.92784,2.14825,50.0,,,,Chemin de l'Espérance,tertiary,,,40,False,False
+798,2026-02-05 16:57:31,48.92768,2.14812,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,36,False,False
+799,2026-02-05 16:57:33,48.92751,2.14807,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,26,False,False
+800,2026-02-05 16:57:35,48.92739,2.1481,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,19,False,False
+801,2026-02-05 16:57:37,48.92731,2.14817,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,25,False,False
+802,2026-02-05 16:57:39,48.92721,2.14831,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,33,False,False
+803,2026-02-05 16:57:41,48.92709,2.14851,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,44,False,False
+804,2026-02-05 16:57:43,48.92694,2.14876,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,45,False,False
+805,2026-02-05 16:57:45,48.92677,2.14901,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,46,False,False
+806,2026-02-05 16:57:47,48.92662,2.14927,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,46,False,False
+807,2026-02-05 16:57:49,48.92646,2.14952,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,45,False,False
+808,2026-02-05 16:57:51,48.9263,2.14976,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,44,False,False
+809,2026-02-05 16:57:53,48.92616,2.15001,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,43,False,False
+810,2026-02-05 16:57:54,48.92608,2.15013,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,42,False,False
+811,2026-02-05 16:57:56,48.92593,2.15036,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,41,False,False
+812,2026-02-05 16:57:58,48.9258,2.15061,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,40,False,False
+813,2026-02-05 16:58:00,48.92566,2.15082,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,38,False,False
+814,2026-02-05 16:58:02,48.92552,2.15103,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,31,False,False
+815,2026-02-05 16:58:04,48.92542,2.1512,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,34,False,False
+816,2026-02-05 16:58:06,48.92524,2.1515,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,35,False,False
+817,2026-02-05 16:58:08,48.92511,2.15172,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,43,False,False
+818,2026-02-05 16:58:10,48.92496,2.15197,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,47,False,False
+819,2026-02-05 16:58:12,48.92481,2.15225,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,51,False,False
+820,2026-02-05 16:58:14,48.92463,2.15255,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,53,False,False
+821,2026-02-05 16:58:16,48.92445,2.15286,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,49,False,False
+822,2026-02-05 16:58:18,48.92429,2.15313,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,46,False,False
+823,2026-02-05 16:58:21,48.92415,2.15339,50.0,,,,Chemin de l'Espérance,tertiary,,,43,False,False
+824,2026-02-05 16:58:23,48.92401,2.15364,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,44,False,False
+825,2026-02-05 16:58:25,48.92386,2.1539,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,45,False,False
+826,2026-02-05 16:58:27,48.9237,2.15415,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,45,False,False
+827,2026-02-05 16:58:29,48.92356,2.15441,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,46,False,False
+828,2026-02-05 16:58:31,48.92341,2.15468,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,49,False,False
+829,2026-02-05 16:58:33,48.92325,2.15496,50.0,False,False,False,Chemin de l'Espérance,tertiary,False,False,46,False,False
+830,2026-02-05 16:58:35,48.92312,2.15525,50.0,True,False,False,Chemin de l'Espérance,tertiary,False,False,39,False,False
+831,2026-02-05 16:58:37,48.92303,2.15551,50.0,True,False,False,Chemin de l'Espérance,tertiary,False,False,33,False,False
+832,2026-02-05 16:58:39,48.92294,2.1557,70.0,True,False,False,Route de Sartrouville,secondary,False,False,32,False,True
+833,2026-02-05 16:58:41,48.92278,2.15571,70.0,True,False,False,Route de Sartrouville,secondary,False,False,40,False,True
+834,2026-02-05 16:58:43,48.92257,2.15558,70.0,False,False,False,Route de Sartrouville,secondary,False,False,55,False,True
+835,2026-02-05 16:58:45,48.92233,2.15542,70.0,False,False,False,Route de Sartrouville,secondary,False,False,60,False,False
+836,2026-02-05 16:58:46,48.92218,2.15532,70.0,False,False,False,Route de Sartrouville,secondary,False,False,62,False,False
+837,2026-02-05 16:58:48,48.92189,2.15513,70.0,False,False,False,Route de Sartrouville,secondary,False,False,65,False,False
+838,2026-02-05 16:58:50,48.9216,2.15493,70.0,False,False,False,Route de Sartrouville,secondary,False,False,66,False,False
+839,2026-02-05 16:58:52,48.9213,2.15473,70.0,False,False,False,Route de Sartrouville,secondary,False,False,64,False,False
+840,2026-02-05 16:58:54,48.92099,2.15454,70.0,False,False,False,Route de Sartrouville,secondary,False,False,61,False,False
+841,2026-02-05 16:58:56,48.92071,2.15439,70.0,False,False,False,Route de Sartrouville,secondary,False,False,57,False,True
+842,2026-02-05 16:58:58,48.92043,2.15426,70.0,False,False,False,Route de Sartrouville,secondary,False,False,57,False,True
+843,2026-02-05 16:59:00,48.92004,2.15413,70.0,,,,Route de Sartrouville,secondary,,,38,False,True
+844,2026-02-05 16:59:02,48.91988,2.15402,70.0,True,False,False,Route de Sartrouville,secondary,False,True,33,False,True
+845,2026-02-05 16:59:04,48.91977,2.15383,,,,,,,,,31,False,False
+846,2026-02-05 16:59:06,48.91965,2.15371,70.0,True,False,False,Rue du 11 Novembre 1918,tertiary,False,False,31,False,True
+847,2026-02-05 16:59:08,48.9195,2.15377,70.0,True,False,False,Route de Sartrouville,secondary,False,False,30,False,True
+848,2026-02-05 16:59:10,48.91943,2.15396,70.0,True,False,False,Route de Sartrouville,secondary,False,False,23,False,True
+849,2026-02-05 16:59:12,48.91946,2.15413,70.0,True,False,False,Route de Sartrouville,secondary,False,False,20,False,True
+850,2026-02-05 16:59:15,48.91954,2.15424,70.0,True,False,False,Route de Sartrouville,secondary,False,False,23,False,True
+851,2026-02-05 16:59:17,48.91966,2.15428,70.0,True,False,False,Route de Sartrouville,secondary,False,False,27,False,True
+852,2026-02-05 16:59:19,48.9198,2.15422,70.0,True,False,False,Route de Sartrouville,secondary,False,True,30,False,True
+853,2026-02-05 16:59:21,48.91996,2.15418,70.0,True,False,False,Route de Sartrouville,secondary,False,True,45,False,True
+854,2026-02-05 16:59:23,48.9202,2.15426,70.0,False,False,False,Route de Sartrouville,secondary,False,True,60,False,False
+855,2026-02-05 16:59:25,48.9205,2.15439,70.0,False,False,False,Route de Sartrouville,secondary,False,False,69,False,False
+856,2026-02-05 16:59:27,48.92084,2.15455,70.0,False,False,False,Route de Sartrouville,secondary,False,False,69,False,False
+857,2026-02-05 16:59:29,48.92116,2.15474,70.0,False,False,False,Route de Sartrouville,secondary,False,False,69,False,False
+858,2026-02-05 16:59:31,48.92148,2.15494,70.0,False,False,False,Route de Sartrouville,secondary,False,False,67,False,False
+859,2026-02-05 16:59:33,48.92178,2.15514,70.0,False,False,False,Route de Sartrouville,secondary,False,False,67,False,False
+860,2026-02-05 16:59:35,48.92209,2.15533,70.0,False,False,False,Route de Sartrouville,secondary,False,False,66,False,False
+861,2026-02-05 16:59:37,48.92239,2.15554,70.0,False,False,False,Route de Sartrouville,secondary,False,False,61,False,False
+862,2026-02-05 16:59:39,48.92265,2.15574,70.0,True,False,False,Route de Sartrouville,secondary,False,False,40,False,True
+863,2026-02-05 16:59:41,48.92282,2.15589,70.0,True,False,False,Route de Sartrouville,secondary,False,False,35,False,True
+864,2026-02-05 16:59:42,48.92288,2.15599,70.0,True,False,False,Route de Sartrouville,secondary,False,False,33,False,True
+865,2026-02-05 16:59:44,48.92296,2.15619,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,25,False,True
+866,2026-02-05 16:59:46,48.92308,2.15627,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,24,False,True
+867,2026-02-05 16:59:48,48.9232,2.15622,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,35,False,True
+868,2026-02-05 16:59:50,48.92329,2.15601,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,38,False,True
+869,2026-02-05 16:59:52,48.92323,2.15573,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,33,False,True
+870,2026-02-05 16:59:54,48.92308,2.1556,70.0,True,False,False,Rond-Point de l'Espérance,secondary,False,False,45,False,True
+871,2026-02-05 16:59:56,48.92273,2.15561,70.0,True,False,False,Route de Sartrouville,secondary,False,False,60,False,False
+872,2026-02-05 16:59:58,48.92242,2.15546,70.0,False,False,False,Route de Sartrouville,secondary,False,False,69,False,False
+873,2026-02-05 17:00:00,48.9221,2.15524,70.0,False,False,False,Route de Sartrouville,secondary,False,False,74,True,False
+874,2026-02-05 17:00:02,48.92175,2.15505,70.0,False,False,False,Route de Sartrouville,secondary,False,False,71,False,False
+875,2026-02-05 17:00:04,48.92143,2.15483,70.0,False,False,False,Route de Sartrouville,secondary,False,False,69,False,False
+876,2026-02-05 17:00:06,48.92112,2.15463,70.0,False,False,False,Route de Sartrouville,secondary,False,False,66,False,False
+877,2026-02-05 17:00:08,48.92081,2.15446,70.0,False,False,False,Route de Sartrouville,secondary,False,False,62,False,False
+878,2026-02-05 17:00:11,48.92053,2.15433,70.0,False,False,False,Route de Sartrouville,secondary,False,False,56,False,True
+879,2026-02-05 17:00:13,48.92027,2.15422,70.0,False,False,False,Route de Sartrouville,secondary,False,True,35,False,True
+880,2026-02-05 17:00:15,48.92011,2.15416,70.0,True,False,False,Route de Sartrouville,secondary,False,True,31,False,True
+881,2026-02-05 17:00:17,48.91997,2.15409,70.0,True,False,False,Route de Sartrouville,secondary,False,True,30,False,True
+882,2026-02-05 17:00:19,48.91985,2.15394,70.0,True,False,False,Route de Sartrouville,secondary,False,True,34,False,True
+883,2026-02-05 17:00:21,48.91972,2.15374,70.0,True,False,False,,secondary,False,False,35,False,True
+884,2026-02-05 17:00:23,48.91954,2.15372,70.0,True,False,False,Route de Sartrouville,secondary,False,False,47,False,True
+885,2026-02-05 17:00:25,48.9193,2.15385,70.0,True,False,False,Route de Sartrouville,secondary,False,False,40,False,True
+886,2026-02-05 17:00:27,48.91911,2.15378,70.0,False,False,False,Route de Sartrouville,secondary,False,False,39,False,True
+887,2026-02-05 17:00:29,48.91898,2.15363,70.0,False,False,False,Route de Sartrouville,secondary,False,False,38,False,True
+888,2026-02-05 17:00:31,48.91882,2.15349,70.0,False,False,False,Route de Sartrouville,secondary,False,False,39,False,True
+889,2026-02-05 17:00:33,48.91866,2.15335,70.0,False,False,False,Route de Sartrouville,secondary,False,False,41,False,True
+890,2026-02-05 17:00:35,48.91849,2.15325,70.0,False,False,False,Route de Sartrouville,secondary,False,False,46,False,True
+891,2026-02-05 17:00:37,48.91828,2.15316,70.0,False,False,False,Route de Sartrouville,secondary,False,False,48,False,True
+892,2026-02-05 17:00:38,48.91815,2.15313,70.0,False,False,False,Route de Sartrouville,secondary,False,False,49,False,True
+893,2026-02-05 17:00:40,48.91787,2.15307,70.0,False,False,False,Route de Sartrouville,secondary,False,False,54,False,True
+894,2026-02-05 17:00:42,48.91757,2.15302,70.0,False,False,False,Route de Sartrouville,secondary,False,False,47,False,True
+895,2026-02-05 17:00:44,48.9173,2.15298,70.0,False,False,False,Route de Sartrouville,secondary,False,False,46,False,True
+896,2026-02-05 17:00:46,48.91707,2.15294,70.0,False,False,False,Route de Sartrouville,secondary,False,False,48,False,True
+897,2026-02-05 17:00:48,48.91682,2.15291,70.0,False,False,False,Route de Sartrouville,secondary,False,False,55,False,True
+898,2026-02-05 17:00:50,48.91654,2.15284,70.0,False,False,False,Route de Sartrouville,secondary,False,False,20,False,True
+899,2026-02-05 17:00:52,48.91639,2.15282,70.0,True,False,False,Route de Sartrouville,secondary,False,False,21,False,True
+900,2026-02-05 17:00:54,48.91628,2.15273,70.0,True,False,False,Route de Sartrouville,secondary,False,False,36,False,True
+901,2026-02-05 17:00:56,48.91613,2.15254,70.0,True,False,False,Route de Sartrouville,secondary,False,False,33,False,True
+902,2026-02-05 17:00:58,48.91592,2.15243,70.0,True,False,False,Route de Sartrouville,secondary,False,False,35,False,True
+903,2026-02-05 17:01:00,48.91583,2.15268,70.0,True,False,False,Route de Sartrouville,secondary,False,False,35,False,True
+904,2026-02-05 17:01:02,48.9159,2.153,70.0,True,False,False,Route de Sartrouville,secondary,False,False,36,False,True
+905,2026-02-05 17:01:04,48.91609,2.15309,70.0,True,False,False,Route de Sartrouville,secondary,False,False,37,False,True
+906,2026-02-05 17:01:07,48.91623,2.15291,70.0,True,False,False,Route de Sartrouville,secondary,False,False,36,False,True
+907,2026-02-05 17:01:09,48.91617,2.15262,70.0,True,False,False,,secondary,False,False,40,False,True
+908,2026-02-05 17:01:11,48.91599,2.15236,70.0,True,False,False,,secondary,False,False,53,False,True
+909,2026-02-05 17:01:13,48.91603,2.15188,70.0,False,False,False,,secondary,False,False,63,False,False
+910,2026-02-05 17:01:15,48.91603,2.15138,70.0,False,False,False,,secondary,False,False,68,False,False
+911,2026-02-05 17:01:17,48.91604,2.15086,70.0,False,False,False,,secondary,False,False,65,False,False
+912,2026-02-05 17:01:19,48.91604,2.15037,70.0,False,False,False,,secondary,False,False,46,False,True
+913,2026-02-05 17:01:21,48.91607,2.14998,70.0,False,False,False,,secondary,False,False,20,False,True
+914,2026-02-05 17:01:23,48.91607,2.14985,70.0,False,False,False,,secondary,False,False,22,False,True
+915,2026-02-05 17:01:27,48.91611,2.14954,70.0,False,False,False,,secondary,False,False,20,False,True
+916,2026-02-05 17:01:28,48.91614,2.14948,70.0,False,False,False,,secondary,False,False,20,False,True
+917,2026-02-05 17:01:30,48.91622,2.14932,70.0,False,False,False,,secondary,False,False,28,False,True
+918,2026-02-05 17:01:32,48.91625,2.14911,70.0,False,False,False,,secondary,False,False,26,False,True
+919,2026-02-05 17:01:45,48.91603,2.15024,70.0,False,False,False,,secondary,False,False,63,False,False
+920,2026-02-05 17:01:46,48.91602,2.1505,70.0,False,False,False,,secondary,False,False,68,False,False
+921,2026-02-05 17:01:48,48.91601,2.15104,70.0,False,False,False,,secondary,False,False,71,False,False
+922,2026-02-05 17:01:50,48.91601,2.15158,70.0,False,False,False,,secondary,False,False,68,False,False
+923,2026-02-05 17:01:52,48.916,2.152,70.0,True,False,False,,secondary,False,False,25,False,True
+924,2026-02-05 17:01:55,48.91599,2.15215,70.0,True,False,False,,secondary,False,False,22,False,True
+925,2026-02-05 17:01:57,48.91597,2.15229,70.0,True,False,False,,secondary,False,False,18,False,True
+926,2026-02-05 17:01:59,48.91596,2.15242,70.0,True,False,False,,secondary,False,False,13,False,True
+927,2026-02-05 17:02:01,48.91591,2.15252,70.0,True,False,False,,secondary,False,False,25,False,True
+928,2026-02-05 17:02:03,48.91579,2.15264,70.0,True,False,False,,secondary,False,False,38,False,True
+929,2026-02-05 17:02:05,48.91559,2.15265,50.0,True,False,False,,secondary,False,False,50,False,False
+930,2026-02-05 17:02:07,48.91534,2.15258,50.0,False,False,False,Route de Sartrouville,secondary,False,False,54,True,False
+931,2026-02-05 17:02:09,48.91508,2.15248,50.0,False,False,False,Route de Sartrouville,secondary,False,False,51,False,False
+932,2026-02-05 17:02:11,48.91483,2.15236,50.0,False,False,False,Route de Sartrouville,secondary,False,False,48,False,False
+933,2026-02-05 17:02:13,48.9146,2.15225,50.0,False,False,False,Route de Sartrouville,secondary,False,False,45,False,False
+934,2026-02-05 17:02:15,48.91439,2.15216,50.0,False,False,False,Route de Sartrouville,secondary,False,False,42,False,False
+935,2026-02-05 17:02:17,48.91418,2.15211,50.0,False,False,False,Route de Sartrouville,secondary,False,False,43,False,False
+936,2026-02-05 17:02:19,48.91396,2.15205,50.0,False,False,False,Route de Sartrouville,secondary,False,False,40,False,False
+937,2026-02-05 17:02:20,48.91387,2.15202,50.0,True,False,False,Route de Sartrouville,secondary,False,False,32,False,False
+938,2026-02-05 17:02:22,48.91372,2.15198,50.0,True,False,False,Route de Sartrouville,secondary_link,False,False,12,False,False
+939,2026-02-05 17:02:24,48.91366,2.15195,50.0,True,False,False,Route de Sartrouville,secondary_link,False,False,13,False,False
+940,2026-02-05 17:02:26,48.9136,2.15193,50.0,True,False,False,Route de Sartrouville,secondary_link,False,False,18,False,False
+941,2026-02-05 17:02:28,48.91351,2.15187,50.0,True,False,False,Route de Sartrouville,secondary_link,False,False,19,False,False
+942,2026-02-05 17:02:30,48.91342,2.1519,50.0,True,False,False,,secondary,False,False,28,False,False
+943,2026-02-05 17:02:32,48.91337,2.1521,70.0,True,False,False,Barreau Est de Montesson,secondary_link,False,False,41,False,True
+944,2026-02-05 17:02:34,48.91332,2.1524,70.0,True,False,False,Barreau Est de Montesson,secondary,False,False,41,False,True
+945,2026-02-05 17:02:36,48.91316,2.15283,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,48,False,True
+946,2026-02-05 17:02:38,48.91303,2.15316,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,48,False,True
+947,2026-02-05 17:02:40,48.91295,2.15351,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,52,False,True
+948,2026-02-05 17:02:42,48.91289,2.1539,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,54,False,True
+949,2026-02-05 17:02:44,48.91286,2.15433,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,56,False,True
+950,2026-02-05 17:02:46,48.91288,2.15476,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,60,False,False
+951,2026-02-05 17:02:49,48.91293,2.15523,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,65,False,False
+952,2026-02-05 17:02:51,48.91298,2.15572,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,64,False,False
+953,2026-02-05 17:02:53,48.91298,2.1562,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,64,False,False
+954,2026-02-05 17:02:55,48.91294,2.15668,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,66,False,False
+955,2026-02-05 17:02:57,48.91288,2.15719,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,67,False,False
+956,2026-02-05 17:02:59,48.91283,2.15771,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,67,False,False
+957,2026-02-05 17:03:01,48.91276,2.15821,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,67,False,False
+958,2026-02-05 17:03:03,48.9127,2.15872,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,67,False,False
+959,2026-02-05 17:03:05,48.91266,2.15922,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,65,False,False
+960,2026-02-05 17:03:07,48.91256,2.1597,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,64,False,False
+961,2026-02-05 17:03:09,48.91244,2.16015,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,64,False,False
+962,2026-02-05 17:03:11,48.91227,2.16059,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,63,False,False
+963,2026-02-05 17:03:13,48.91208,2.16096,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,62,False,False
+964,2026-02-05 17:03:15,48.91184,2.16127,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,61,False,False
+965,2026-02-05 17:03:16,48.91171,2.1614,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,61,False,False
+966,2026-02-05 17:03:18,48.91144,2.16162,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,60,False,False
+967,2026-02-05 17:03:20,48.91117,2.16177,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,57,False,True
+968,2026-02-05 17:03:22,48.91088,2.16188,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,49,False,True
+969,2026-02-05 17:03:24,48.91065,2.162,70.0,False,False,False,Barreau Est de Montesson,secondary,False,False,33,False,True
+970,2026-02-05 17:03:26,48.91049,2.16206,70.0,True,False,False,Barreau Est de Montesson,secondary,False,False,26,False,True
+971,2026-02-05 17:03:28,48.91036,2.16208,70.0,True,False,False,Barreau Est de Montesson,secondary,False,False,23,False,True
+972,2026-02-05 17:03:30,48.91018,2.16204,70.0,True,False,False,Barreau Est de Montesson,secondary,False,False,29,False,True
+973,2026-02-05 17:03:32,48.91003,2.16197,50.0,True,False,False,Route de Saint-Germain,primary,False,False,36,False,False
+974,2026-02-05 17:03:34,48.90987,2.16176,50.0,True,False,False,Route de Saint-Germain,primary,False,False,43,False,False
+975,2026-02-05 17:03:36,48.90972,2.16148,50.0,False,False,False,Route de Saint-Germain,primary,False,False,48,False,False
+976,2026-02-05 17:03:38,48.9096,2.16117,50.0,False,False,False,Route de Saint-Germain,primary,False,False,43,False,False
+977,2026-02-05 17:03:40,48.90951,2.1609,,,,,,,,,32,False,False
+978,2026-02-05 17:03:42,48.90945,2.16069,,,,,,,,,25,False,False
+979,2026-02-05 17:03:45,48.90942,2.1605,,,,,,,,,23,False,False
+980,2026-02-05 17:03:47,48.90935,2.16038,,,,,,,,,28,False,False
+981,2026-02-05 17:03:49,48.90925,2.1602,,,,,,,,,39,False,False
+982,2026-02-05 17:03:51,48.90914,2.15994,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,42,False,False
+983,2026-02-05 17:03:53,48.90902,2.15966,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,43,False,False
+984,2026-02-05 17:03:55,48.9089,2.15938,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,42,False,False
+985,2026-02-05 17:03:57,48.90878,2.15911,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,41,False,False
+986,2026-02-05 17:03:59,48.90866,2.15884,50.0,,,,Avenue Paul Doumer,primary,,,42,False,False
+987,2026-02-05 17:04:01,48.90855,2.15856,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,42,False,False
+988,2026-02-05 17:04:03,48.90843,2.15829,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,41,False,False
+989,2026-02-05 17:04:05,48.90832,2.15803,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,42,False,False
+990,2026-02-05 17:04:07,48.90821,2.15776,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,46,False,False
+991,2026-02-05 17:04:09,48.90809,2.15746,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,46,False,False
+992,2026-02-05 17:04:10,48.90802,2.1573,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,45,False,False
+993,2026-02-05 17:04:12,48.90791,2.157,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,44,False,False
+994,2026-02-05 17:04:14,48.9078,2.1567,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,44,False,False
+995,2026-02-05 17:04:16,48.90768,2.1564,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,44,False,False
+996,2026-02-05 17:04:18,48.90757,2.15611,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,43,False,False
+997,2026-02-05 17:04:20,48.90747,2.15583,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,43,False,False
+998,2026-02-05 17:04:22,48.90736,2.15554,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,43,False,False
+999,2026-02-05 17:04:24,48.90726,2.15526,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,41,False,False
+1000,2026-02-05 17:04:26,48.90711,2.15485,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,38,False,False
+1001,2026-02-05 17:04:28,48.90703,2.1546,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,35,False,False
+1002,2026-02-05 17:04:30,48.90695,2.15437,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,32,False,False
+1003,2026-02-05 17:04:32,48.90689,2.15417,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,26,False,False
+1004,2026-02-05 17:04:34,48.90683,2.154,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,24,False,False
+1005,2026-02-05 17:04:36,48.90676,2.15385,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,22,False,False
+1006,2026-02-05 17:04:38,48.90672,2.15372,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,15,False,False
+1007,2026-02-05 17:04:41,48.90669,2.15362,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,13,False,False
+1008,2026-02-05 17:04:43,48.90665,2.15353,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,11,False,False
+1009,2026-02-05 17:04:45,48.90663,2.15346,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,10,False,False
+1010,2026-02-05 17:04:47,48.90661,2.1534,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,8,False,False
+1011,2026-02-05 17:04:49,48.90658,2.15334,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,7,False,False
+1012,2026-02-05 17:04:51,48.90657,2.15329,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,5,False,False
+1013,2026-02-05 17:04:53,48.90656,2.15326,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,3,False,False
+1014,2026-02-05 17:04:55,48.90656,2.15324,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1015,2026-02-05 17:04:57,48.90656,2.15323,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1016,2026-02-05 17:04:59,48.90656,2.15322,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1017,2026-02-05 17:05:01,48.90655,2.15322,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1018,2026-02-05 17:05:03,48.90654,2.15321,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1019,2026-02-05 17:05:05,48.90654,2.15321,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1020,2026-02-05 17:05:06,48.90653,2.15321,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1021,2026-02-05 17:05:08,48.90653,2.15321,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1022,2026-02-05 17:05:10,48.90652,2.1532,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1023,2026-02-05 17:05:12,48.90652,2.15319,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1024,2026-02-05 17:05:14,48.90652,2.15319,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1025,2026-02-05 17:05:16,48.90652,2.1532,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1026,2026-02-05 17:05:18,48.90652,2.1532,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1027,2026-02-05 17:05:20,48.90653,2.1532,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1028,2026-02-05 17:05:22,48.90652,2.1532,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1029,2026-02-05 17:05:24,48.90652,2.1532,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1030,2026-02-05 17:05:26,48.90653,2.15322,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1031,2026-02-05 17:05:28,48.90652,2.15319,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,12,False,False
+1032,2026-02-05 17:05:30,48.9065,2.15308,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,15,False,False
+1033,2026-02-05 17:05:32,48.90649,2.15297,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,11,False,False
+1034,2026-02-05 17:05:34,48.90648,2.1529,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,9,False,False
+1035,2026-02-05 17:05:37,48.90647,2.15284,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,11,False,False
+1036,2026-02-05 17:05:39,48.90645,2.15275,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,14,False,False
+1037,2026-02-05 17:05:41,48.90642,2.15266,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,11,False,False
+1038,2026-02-05 17:05:43,48.9064,2.15262,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,3,False,False
+1039,2026-02-05 17:05:45,48.9064,2.15261,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1040,2026-02-05 17:05:47,48.9064,2.15261,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1041,2026-02-05 17:05:49,48.90638,2.1526,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1042,2026-02-05 17:05:51,48.9064,2.15257,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1043,2026-02-05 17:05:53,48.90637,2.15257,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1044,2026-02-05 17:05:55,48.90639,2.15255,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,0,False,False
+1045,2026-02-05 17:05:57,48.9064,2.15253,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,4,False,False
+1046,2026-02-05 17:05:59,48.90639,2.15249,50.0,False,False,False,Avenue Paul Doumer,primary,False,False,16,False,False
+1047,2026-02-05 17:06:01,48.90636,2.15237,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,16,False,False
+1048,2026-02-05 17:06:02,48.90633,2.15234,30.0,False,False,False,Rue Pierre-Louis Guyard,tertiary,False,False,17,False,False
+1049,2026-02-05 17:06:04,48.90625,2.15234,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,19,False,False
+1050,2026-02-05 17:06:06,48.90614,2.15235,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,20,False,False
+1051,2026-02-05 17:06:08,48.90605,2.15234,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,24,False,False
+1052,2026-02-05 17:06:10,48.90593,2.15234,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,27,False,False
+1053,2026-02-05 17:06:12,48.90579,2.15233,30.0,,,,Rue Jean Jaurès,tertiary,,,25,False,False
+1054,2026-02-05 17:06:14,48.90567,2.15232,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,25,False,False
+1055,2026-02-05 17:06:16,48.90548,2.1523,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,25,False,False
+1056,2026-02-05 17:06:18,48.90535,2.1523,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,21,False,False
+1057,2026-02-05 17:06:20,48.90524,2.15229,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,18,False,False
+1058,2026-02-05 17:06:22,48.90516,2.15228,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,17,False,False
+1059,2026-02-05 17:06:24,48.90506,2.15227,30.0,False,False,False,Rue Jean Jaurès,tertiary,False,False,20,False,False
+1060,2026-02-05 17:06:26,48.90495,2.15225,30.0,False,False,False,Rue des Vignobles,residential,False,False,23,False,False
+1061,2026-02-05 17:06:28,48.90484,2.15221,30.0,False,False,True,Route de Maisons,tertiary,False,False,26,False,False
+1062,2026-02-05 17:06:30,48.90472,2.15217,30.0,False,False,True,Route de Maisons,tertiary,False,False,28,False,False
+1063,2026-02-05 17:06:33,48.90458,2.15216,30.0,False,False,True,Route de Maisons,tertiary,False,False,29,False,False
+1064,2026-02-05 17:06:35,48.90443,2.15212,30.0,False,False,False,Route de Maisons,tertiary,False,False,31,False,False
+1065,2026-02-05 17:06:37,48.90427,2.15209,30.0,False,False,False,Route de Maisons,tertiary,False,False,31,False,False
+1066,2026-02-05 17:06:39,48.90411,2.15204,30.0,False,False,False,Route de Maisons,tertiary,False,False,33,False,False
+1067,2026-02-05 17:06:41,48.90394,2.15198,30.0,False,False,False,Route de Maisons,tertiary,False,False,35,True,False
+1068,2026-02-05 17:06:43,48.90377,2.15192,30.0,False,False,False,Route de Maisons,tertiary,False,False,38,True,False
+1069,2026-02-05 17:06:45,48.90358,2.15187,30.0,False,False,False,Route de Maisons,tertiary,False,False,37,True,False
+1070,2026-02-05 17:06:47,48.90339,2.15184,30.0,False,False,False,Route de Maisons,tertiary,False,False,39,True,False
+1071,2026-02-05 17:06:49,48.90318,2.15182,30.0,False,False,False,Route de Maisons,tertiary,False,False,39,True,False
+1072,2026-02-05 17:06:51,48.90297,2.1518,30.0,False,False,False,Route de Maisons,tertiary,False,False,35,True,False
+1073,2026-02-05 17:06:53,48.90279,2.15182,30.0,False,False,False,Route de Maisons,tertiary,False,False,26,False,False
+1074,2026-02-05 17:06:55,48.90265,2.15183,30.0,False,False,False,Route de Maisons,tertiary,False,False,24,False,False
+1075,2026-02-05 17:06:57,48.90253,2.15185,30.0,False,False,False,Route de Maisons,tertiary,False,False,30,False,False
+1076,2026-02-05 17:06:58,48.90245,2.15188,30.0,False,False,False,Route de Maisons,tertiary,False,False,34,True,False
+1077,2026-02-05 17:07:00,48.90228,2.15192,30.0,False,False,False,Route de Maisons,tertiary,False,False,40,True,False
+1078,2026-02-05 17:07:02,48.90208,2.15197,30.0,False,False,False,Route de Maisons,tertiary,False,False,44,True,False
+1079,2026-02-05 17:07:04,48.90186,2.15201,30.0,False,False,False,Route de Maisons,tertiary,False,False,46,True,False
+1080,2026-02-05 17:07:06,48.90162,2.1521,30.0,False,False,False,Route de Maisons,tertiary,False,False,46,True,False
+1081,2026-02-05 17:07:08,48.90139,2.15216,30.0,False,False,False,Route de Maisons,tertiary,False,False,43,True,False
+1082,2026-02-05 17:07:10,48.90118,2.1522,30.0,False,False,False,Route de Maisons,tertiary,False,False,41,True,False
+1083,2026-02-05 17:07:12,48.90089,2.1523,30.0,False,False,False,Route de Maisons,tertiary,False,False,39,True,False
+1084,2026-02-05 17:07:14,48.9007,2.15238,30.0,False,False,False,Route de Maisons,tertiary,False,False,37,True,False
+1085,2026-02-05 17:07:16,48.90053,2.15245,30.0,False,False,False,Route de Maisons,tertiary,False,False,31,False,False
+1086,2026-02-05 17:07:18,48.90038,2.1525,30.0,False,False,False,Route de Maisons,tertiary,False,False,34,True,False
+1087,2026-02-05 17:07:20,48.90022,2.15255,30.0,False,False,False,Route de Maisons,tertiary,False,False,38,True,False
+1088,2026-02-05 17:07:22,48.90005,2.15263,30.0,False,False,False,Route de Maisons,tertiary,False,False,43,True,False
+1089,2026-02-05 17:07:24,48.89984,2.15275,30.0,False,False,False,Route de Maisons,tertiary,False,False,42,True,False
+1090,2026-02-05 17:07:27,48.89963,2.15289,30.0,False,False,False,Route de Maisons,tertiary,False,False,39,True,False
+1091,2026-02-05 17:07:29,48.89948,2.15303,30.0,False,False,False,Route de Maisons,tertiary,False,False,31,False,False
+1092,2026-02-05 17:07:31,48.89934,2.15315,30.0,False,False,False,Route de Maisons,tertiary,False,False,26,False,False
+1093,2026-02-05 17:07:33,48.89925,2.15327,30.0,False,False,False,Route de Maisons,tertiary,False,False,24,False,False
+1094,2026-02-05 17:07:35,48.89916,2.15339,30.0,False,False,False,Route de Maisons,tertiary,False,False,19,False,False
+1095,2026-02-05 17:07:37,48.89909,2.15348,30.0,False,False,False,Route de Maisons,tertiary,False,False,7,False,False
+1096,2026-02-05 17:07:39,48.89908,2.15351,30.0,False,False,False,Route de Maisons,tertiary,False,False,1,False,False
+1097,2026-02-05 17:07:41,48.89908,2.15352,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+1098,2026-02-05 17:07:43,48.89908,2.15352,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+1099,2026-02-05 17:07:45,48.89908,2.15352,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+1100,2026-02-05 17:07:47,48.89908,2.15352,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+1101,2026-02-05 17:07:49,48.89908,2.15352,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+1102,2026-02-05 17:07:51,48.89907,2.15352,30.0,False,False,False,Route de Maisons,tertiary,False,False,0,False,False
+1103,2026-02-05 17:07:53,48.89907,2.15352,30.0,False,False,False,Route de Maisons,tertiary,False,False,11,False,False
+1104,2026-02-05 17:07:54,48.89905,2.15354,30.0,False,False,False,Route de Maisons,tertiary,False,False,15,False,False
+1105,2026-02-05 17:07:56,48.899,2.15361,30.0,False,False,False,Route de Maisons,tertiary,False,False,12,False,False
+1106,2026-02-05 17:07:58,48.89896,2.15367,30.0,False,True,False,Route de Maisons,tertiary,False,False,4,False,False
+1107,2026-02-05 17:08:00,48.89893,2.15369,30.0,False,True,False,Route de Maisons,tertiary,False,False,2,False,False
+1108,2026-02-05 17:08:02,48.89893,2.1537,30.0,False,True,False,Route de Maisons,tertiary,False,False,8,False,False
+1109,2026-02-05 17:08:04,48.8989,2.15375,30.0,False,True,False,Route de Maisons,tertiary,False,False,15,False,False
+1110,2026-02-05 17:08:06,48.89885,2.15384,30.0,False,True,False,Route de Maisons,tertiary,False,False,15,False,False
+1111,2026-02-05 17:08:08,48.89875,2.15393,30.0,False,True,False,Route de Maisons,tertiary,False,False,16,False,False
+1112,2026-02-05 17:08:10,48.89867,2.15392,30.0,False,True,False,Boulevard de la République,tertiary,False,False,17,False,False
+1113,2026-02-05 17:08:12,48.89859,2.15387,30.0,False,False,False,Boulevard de la République,tertiary,False,False,20,False,False
+1114,2026-02-05 17:08:14,48.89849,2.15381,30.0,False,False,False,Boulevard de la République,tertiary,False,False,25,False,False
+1115,2026-02-05 17:08:16,48.89835,2.15375,30.0,False,False,False,Boulevard de la République,tertiary,False,False,27,False,False
+1116,2026-02-05 17:08:18,48.89824,2.15369,30.0,False,False,False,Boulevard de la République,tertiary,False,False,24,False,False
+1117,2026-02-05 17:08:20,48.89813,2.15364,30.0,False,False,False,Boulevard de la République,tertiary,False,False,21,False,False
+1118,2026-02-05 17:08:23,48.89804,2.1536,30.0,False,False,False,Boulevard de la République,tertiary,False,False,18,False,False
+1119,2026-02-05 17:08:25,48.89795,2.15356,30.0,False,False,False,Boulevard de la République,tertiary,False,False,21,False,False
+1120,2026-02-05 17:08:27,48.89786,2.15352,30.0,False,False,False,Boulevard de la République,tertiary,False,False,23,False,False
+1121,2026-02-05 17:08:29,48.89775,2.15345,30.0,False,False,False,Boulevard de la République,tertiary,False,False,25,False,False
+1122,2026-02-05 17:08:31,48.89765,2.15339,30.0,False,False,False,Boulevard de la République,tertiary,False,False,25,False,False
+1123,2026-02-05 17:08:33,48.89755,2.15334,30.0,False,False,False,Boulevard de la République,tertiary,False,False,27,False,False
+1124,2026-02-05 17:08:35,48.89742,2.15329,30.0,False,False,False,Boulevard de la République,tertiary,False,False,30,False,False
+1125,2026-02-05 17:08:37,48.89727,2.1532,30.0,False,False,False,Boulevard de la République,tertiary,False,False,29,False,False
+1126,2026-02-05 17:08:39,48.89713,2.15311,30.0,False,False,False,Boulevard de la République,tertiary,False,False,25,False,False
+1127,2026-02-05 17:08:41,48.89702,2.15304,30.0,False,False,False,Boulevard de la République,tertiary,False,False,22,False,False
+1128,2026-02-05 17:08:43,48.89694,2.15298,30.0,False,False,False,Boulevard de la République,tertiary,False,False,18,False,False
+1129,2026-02-05 17:08:45,48.89687,2.15294,30.0,False,False,False,Boulevard de la République,tertiary,False,False,11,False,False
+1130,2026-02-05 17:08:47,48.89681,2.15291,30.0,False,True,False,Boulevard de la République,tertiary,False,False,4,False,False
+1131,2026-02-05 17:08:49,48.89681,2.15289,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1132,2026-02-05 17:08:50,48.89682,2.15289,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1133,2026-02-05 17:08:52,48.89683,2.15288,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1134,2026-02-05 17:08:54,48.89681,2.15288,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1135,2026-02-05 17:08:56,48.89681,2.15288,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1136,2026-02-05 17:08:58,48.89681,2.15287,30.0,False,True,False,Boulevard de la République,tertiary,False,False,3,False,False
+1137,2026-02-05 17:09:00,48.89679,2.15287,30.0,False,True,False,Boulevard de la République,tertiary,False,False,11,False,False
+1138,2026-02-05 17:09:02,48.89673,2.15283,30.0,False,True,False,Boulevard de la République,tertiary,False,False,13,False,False
+1139,2026-02-05 17:09:04,48.89664,2.15279,30.0,False,True,False,Boulevard de la République,tertiary,False,False,15,False,False
+1140,2026-02-05 17:09:06,48.89656,2.15276,30.0,False,True,False,Boulevard de la République,tertiary,False,False,16,False,False
+1141,2026-02-05 17:09:08,48.89646,2.15275,30.0,False,True,False,Boulevard de la République,tertiary,False,False,19,False,False
+1142,2026-02-05 17:09:10,48.89635,2.1527,30.0,False,True,False,Boulevard de la République,tertiary,False,False,25,False,False
+1143,2026-02-05 17:09:12,48.89622,2.15261,30.0,False,True,False,Boulevard de la République,tertiary,False,False,31,False,False
+1144,2026-02-05 17:09:14,48.89605,2.15253,30.0,False,True,False,Boulevard de la République,tertiary,False,False,34,True,False
+1145,2026-02-05 17:09:17,48.89589,2.15246,30.0,False,False,False,Boulevard de la République,tertiary,False,False,36,True,False
+1146,2026-02-05 17:09:19,48.89571,2.15238,30.0,,,,Boulevard de la République,tertiary,,,34,True,False
+1147,2026-02-05 17:09:21,48.89555,2.1523,30.0,False,False,False,Boulevard de la République,tertiary,False,False,32,False,False
+1148,2026-02-05 17:09:23,48.89539,2.15225,30.0,False,False,False,Boulevard de la République,tertiary,False,False,31,False,False
+1149,2026-02-05 17:09:25,48.89525,2.1522,30.0,False,False,False,Boulevard de la République,tertiary,False,False,30,False,False
+1150,2026-02-05 17:09:27,48.8951,2.15211,30.0,False,False,False,Boulevard de la République,tertiary,False,False,30,False,False
+1151,2026-02-05 17:09:29,48.89495,2.15205,30.0,False,False,False,Boulevard de la République,tertiary,False,False,29,False,False
+1152,2026-02-05 17:09:31,48.89481,2.15198,30.0,False,False,False,Boulevard de la République,tertiary,False,False,32,False,False
+1153,2026-02-05 17:09:33,48.89465,2.15192,30.0,False,False,False,Boulevard de la République,tertiary,False,False,35,True,False
+1154,2026-02-05 17:09:35,48.89446,2.15183,30.0,False,False,False,Boulevard de la République,tertiary,False,False,38,True,False
+1155,2026-02-05 17:09:37,48.89427,2.15175,30.0,False,False,False,Boulevard de la République,tertiary,False,False,39,True,False
+1156,2026-02-05 17:09:39,48.89408,2.15166,30.0,False,False,False,Boulevard de la République,tertiary,False,False,37,True,False
+1157,2026-02-05 17:09:41,48.89389,2.15157,30.0,False,True,False,Boulevard de la République,tertiary,False,False,34,True,False
+1158,2026-02-05 17:09:43,48.89372,2.15149,30.0,False,True,False,Boulevard de la République,tertiary,False,False,32,False,False
+1159,2026-02-05 17:09:44,48.89364,2.15145,30.0,False,True,False,Boulevard de la République,tertiary,False,False,33,False,False
+1160,2026-02-05 17:09:46,48.89347,2.15136,30.0,False,True,False,Boulevard de la République,tertiary,False,False,34,True,False
+1161,2026-02-05 17:09:48,48.89331,2.15128,30.0,False,True,False,Boulevard de la République,tertiary,False,False,36,True,False
+1162,2026-02-05 17:09:50,48.89314,2.15119,30.0,False,False,False,Boulevard de la République,tertiary,False,False,37,True,False
+1163,2026-02-05 17:09:52,48.89295,2.1511,30.0,False,False,False,Boulevard de la République,tertiary,False,False,36,True,False
+1164,2026-02-05 17:09:54,48.89278,2.15103,30.0,False,False,False,Boulevard de la République,tertiary,False,False,35,True,False
+1165,2026-02-05 17:09:56,48.89261,2.15096,30.0,False,False,False,Boulevard de la République,tertiary,False,False,35,True,False
+1166,2026-02-05 17:09:58,48.89235,2.15083,30.0,False,False,False,Boulevard de la République,tertiary,False,False,34,True,False
+1167,2026-02-05 17:10:00,48.89219,2.15075,30.0,False,False,False,Boulevard de la République,tertiary,False,False,30,False,False
+1168,2026-02-05 17:10:02,48.89206,2.15068,30.0,False,True,False,Boulevard de la République,tertiary,False,False,22,False,False
+1169,2026-02-05 17:10:04,48.89196,2.15063,30.0,False,True,False,Boulevard de la République,tertiary,False,False,9,False,False
+1170,2026-02-05 17:10:06,48.89193,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,3,False,False
+1171,2026-02-05 17:10:08,48.89193,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1172,2026-02-05 17:10:10,48.89193,2.1506,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1173,2026-02-05 17:10:12,48.89193,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1174,2026-02-05 17:10:15,48.89193,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1175,2026-02-05 17:10:17,48.89193,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1176,2026-02-05 17:10:19,48.89193,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1177,2026-02-05 17:10:21,48.89193,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1178,2026-02-05 17:10:23,48.89192,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1179,2026-02-05 17:10:25,48.89193,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1180,2026-02-05 17:10:27,48.89193,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1181,2026-02-05 17:10:29,48.89193,2.15061,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1182,2026-02-05 17:10:31,48.89193,2.1506,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1183,2026-02-05 17:10:33,48.89193,2.1506,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1184,2026-02-05 17:10:35,48.89193,2.15059,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1185,2026-02-05 17:10:37,48.89193,2.1506,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1186,2026-02-05 17:10:39,48.89193,2.1506,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1187,2026-02-05 17:10:40,48.89193,2.15059,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1188,2026-02-05 17:10:42,48.89193,2.15059,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1189,2026-02-05 17:10:44,48.89192,2.1506,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1190,2026-02-05 17:10:46,48.89192,2.1506,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1191,2026-02-05 17:10:48,48.89192,2.1506,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1192,2026-02-05 17:10:50,48.89192,2.1506,30.0,False,True,False,Boulevard de la République,tertiary,False,False,1,False,False
+1193,2026-02-05 17:10:52,48.8919,2.1506,30.0,False,True,False,Boulevard de la République,tertiary,False,False,16,False,False
+1194,2026-02-05 17:10:54,48.89179,2.15054,30.0,False,True,False,Boulevard de la République,tertiary,False,False,19,False,False
+1195,2026-02-05 17:10:56,48.89169,2.15049,30.0,False,True,False,Boulevard de la République,tertiary,False,False,21,False,False
+1196,2026-02-05 17:10:58,48.8916,2.15045,30.0,False,True,False,Boulevard de la République,tertiary,False,False,20,False,False
+1197,2026-02-05 17:11:00,48.8915,2.1504,30.0,False,True,False,Boulevard de la République,tertiary,False,False,14,False,False
+1198,2026-02-05 17:11:02,48.89146,2.15038,30.0,False,True,False,Boulevard de la République,tertiary,False,False,1,False,False
+1199,2026-02-05 17:11:04,48.89146,2.15038,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1200,2026-02-05 17:11:06,48.89146,2.15038,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1201,2026-02-05 17:11:09,48.89145,2.15038,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1202,2026-02-05 17:11:11,48.89144,2.15038,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1203,2026-02-05 17:11:13,48.89144,2.15037,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1204,2026-02-05 17:11:15,48.89143,2.15037,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1205,2026-02-05 17:11:17,48.89143,2.15037,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1206,2026-02-05 17:11:19,48.89143,2.15037,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1207,2026-02-05 17:11:21,48.89143,2.15037,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1208,2026-02-05 17:11:23,48.89143,2.15037,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1209,2026-02-05 17:11:25,48.89143,2.15037,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1210,2026-02-05 17:11:27,48.89143,2.15036,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1211,2026-02-05 17:11:29,48.89143,2.15036,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1212,2026-02-05 17:11:31,48.89143,2.15036,30.0,False,True,False,Boulevard de la République,tertiary,False,False,0,False,False
+1213,2026-02-05 17:11:33,48.89143,2.15036,30.0,False,True,False,Boulevard de la République,tertiary,False,False,1,False,False
+1214,2026-02-05 17:11:35,48.8914,2.15035,30.0,False,True,False,Boulevard de la République,tertiary,False,False,18,False,False
+1215,2026-02-05 17:11:36,48.89137,2.15033,30.0,False,True,False,Boulevard de la République,tertiary,False,False,20,False,False
+1216,2026-02-05 17:11:38,48.89126,2.15028,30.0,False,True,False,Boulevard de la République,tertiary,False,False,23,False,False
+1217,2026-02-05 17:11:40,48.89114,2.15027,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,21,False,False
+1218,2026-02-05 17:11:42,48.89106,2.15037,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,24,False,False
+1219,2026-02-05 17:11:44,48.89105,2.15055,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,32,False,False
+1220,2026-02-05 17:11:46,48.89102,2.15077,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,40,False,False
+1221,2026-02-05 17:11:48,48.89095,2.15105,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,41,False,False
+1222,2026-02-05 17:11:50,48.89086,2.15152,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,45,False,False
+1223,2026-02-05 17:11:52,48.8908,2.15185,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,44,False,False
+1224,2026-02-05 17:11:54,48.89074,2.15216,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,43,False,False
+1225,2026-02-05 17:11:56,48.89068,2.15248,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,43,False,False
+1226,2026-02-05 17:11:58,48.89063,2.15278,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,40,False,False
+1227,2026-02-05 17:12:00,48.89056,2.15305,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,35,False,False
+1228,2026-02-05 17:12:02,48.89053,2.15329,50.0,,,,Avenue du Maréchal Foch,primary,,,22,False,False
+1229,2026-02-05 17:12:05,48.8905,2.1534,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,7,False,False
+1230,2026-02-05 17:12:07,48.8905,2.15343,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,8,False,False
+1231,2026-02-05 17:12:09,48.89047,2.15351,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,17,False,False
+1232,2026-02-05 17:12:11,48.89044,2.15363,50.0,False,False,True,Avenue du Maréchal Foch,primary,False,False,15,False,False
+1233,2026-02-05 17:12:13,48.89041,2.15375,50.0,False,False,True,Avenue du Maréchal Foch,primary,False,False,22,False,False
+1234,2026-02-05 17:12:15,48.89039,2.15389,50.0,False,False,True,Avenue du Maréchal Foch,primary,False,False,24,False,False
+1235,2026-02-05 17:12:17,48.89038,2.15405,50.0,False,False,True,Avenue du Maréchal Foch,primary,False,False,25,False,False
+1236,2026-02-05 17:12:19,48.89036,2.1542,50.0,False,False,True,Avenue du Maréchal Foch,primary,False,False,19,False,False
+1237,2026-02-05 17:12:21,48.89032,2.15428,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,8,False,False
+1238,2026-02-05 17:12:23,48.89032,2.15432,50.0,,,,Avenue du Maréchal Foch,primary,,,0,False,False
+1239,2026-02-05 17:12:25,48.89032,2.15432,50.0,,,,Avenue du Maréchal Foch,primary,,,0,False,False
+1240,2026-02-05 17:12:27,48.89032,2.15434,50.0,,,,Avenue du Maréchal Foch,primary,,,0,False,False
+1241,2026-02-05 17:12:29,48.89032,2.15436,50.0,,,,Avenue du Maréchal Foch,primary,,,11,False,False
+1242,2026-02-05 17:12:31,48.8903,2.15445,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,25,False,False
+1243,2026-02-05 17:12:32,48.89027,2.15453,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,27,False,False
+1244,2026-02-05 17:12:34,48.89022,2.15474,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,31,False,False
+1245,2026-02-05 17:12:36,48.89018,2.15496,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,27,False,False
+1246,2026-02-05 17:12:38,48.89013,2.15516,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,23,False,False
+1247,2026-02-05 17:12:40,48.8901,2.15533,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,20,False,False
+1248,2026-02-05 17:12:42,48.89005,2.15547,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,21,False,False
+1249,2026-02-05 17:12:44,48.89001,2.15559,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,26,False,False
+1250,2026-02-05 17:12:46,48.88993,2.15584,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,27,False,False
+1251,2026-02-05 17:12:48,48.88987,2.15604,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,32,False,False
+1252,2026-02-05 17:12:50,48.88978,2.15626,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,31,False,False
+1253,2026-02-05 17:12:52,48.88969,2.15648,50.0,,,,Avenue du Maréchal Foch,primary,,,36,False,False
+1254,2026-02-05 17:12:54,48.88963,2.15676,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,44,False,False
+1255,2026-02-05 17:12:56,48.88954,2.15708,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,43,False,False
+1256,2026-02-05 17:12:58,48.88945,2.1574,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,44,False,False
+1257,2026-02-05 17:13:01,48.88935,2.1577,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,44,False,False
+1258,2026-02-05 17:13:03,48.88925,2.15802,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,43,False,False
+1259,2026-02-05 17:13:05,48.88916,2.15831,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,41,False,False
+1260,2026-02-05 17:13:07,48.88908,2.15859,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,34,False,False
+1261,2026-02-05 17:13:09,48.889,2.15879,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,16,False,False
+1262,2026-02-05 17:13:11,48.88897,2.15888,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,4,False,False
+1263,2026-02-05 17:13:13,48.88897,2.15889,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1264,2026-02-05 17:13:15,48.88896,2.1589,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1265,2026-02-05 17:13:17,48.88894,2.15893,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1266,2026-02-05 17:13:19,48.88893,2.15896,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1267,2026-02-05 17:13:21,48.88891,2.15897,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1268,2026-02-05 17:13:23,48.88891,2.15898,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1269,2026-02-05 17:13:25,48.88891,2.15898,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1270,2026-02-05 17:13:27,48.8889,2.15897,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1271,2026-02-05 17:13:28,48.8889,2.15897,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1272,2026-02-05 17:13:30,48.88894,2.15897,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1273,2026-02-05 17:13:32,48.88897,2.15897,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1274,2026-02-05 17:13:34,48.88899,2.15896,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,0,False,False
+1275,2026-02-05 17:13:36,48.88897,2.15898,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,13,False,False
+1276,2026-02-05 17:13:38,48.88891,2.15905,50.0,False,False,False,Avenue du Maréchal Foch,primary,False,False,18,False,False
+1277,2026-02-05 17:13:40,48.88885,2.15916,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,22,False,False
+1278,2026-02-05 17:13:42,48.88884,2.15943,50.0,False,True,False,Avenue du Maréchal Foch,primary,False,False,30,False,False
+1279,2026-02-05 17:13:44,48.88884,2.15969,50.0,False,True,False,Pont de Chatou,primary,False,False,42,False,False
+1280,2026-02-05 17:13:46,48.88877,2.16004,50.0,False,False,False,Pont de Chatou,primary,False,False,47,False,False
+1281,2026-02-05 17:13:48,48.8887,2.16041,50.0,False,False,False,Pont de Chatou,primary,False,False,48,False,False
+1282,2026-02-05 17:13:50,48.88864,2.16078,50.0,False,False,False,Pont de Chatou,primary,False,False,48,False,False
+1283,2026-02-05 17:13:52,48.88858,2.16113,50.0,False,False,False,Pont de Chatou,primary,False,False,48,False,False
+1284,2026-02-05 17:13:54,48.88853,2.16147,50.0,False,False,False,Pont de Chatou,primary,False,False,48,False,False
+1285,2026-02-05 17:13:57,48.88849,2.16184,50.0,False,False,False,Pont de Chatou,primary,False,False,49,False,False
+1286,2026-02-05 17:13:59,48.88844,2.16222,50.0,False,False,False,Pont de Chatou,primary,False,True,50,False,False
+1287,2026-02-05 17:14:01,48.88837,2.16259,50.0,False,False,False,Pont de Chatou,primary,False,True,50,False,False
+1288,2026-02-05 17:14:03,48.8883,2.16298,50.0,False,False,False,Pont de Chatou,primary,False,False,51,False,False
+1289,2026-02-05 17:14:05,48.88824,2.16336,50.0,False,False,False,Pont de Chatou,primary,False,False,51,False,False
+1290,2026-02-05 17:14:07,48.88818,2.16375,50.0,False,False,False,Pont de Chatou,primary,False,False,52,False,False
+1291,2026-02-05 17:14:09,48.8881,2.16413,50.0,False,False,False,Pont de Chatou,primary,False,False,53,False,False
+1292,2026-02-05 17:14:11,48.88802,2.16451,50.0,False,False,False,,primary,False,False,52,False,False
+1293,2026-02-05 17:14:13,48.88794,2.16488,50.0,False,False,False,,primary,False,False,50,False,False
+1294,2026-02-05 17:14:15,48.88786,2.16525,50.0,False,False,False,,primary,False,False,50,False,False
+1295,2026-02-05 17:14:17,48.8878,2.16562,50.0,False,False,False,,primary,False,False,49,False,False
+1296,2026-02-05 17:14:19,48.88774,2.16597,50.0,False,False,False,,primary,False,False,48,False,False
+1297,2026-02-05 17:14:21,48.88768,2.16633,50.0,False,False,False,Avenue de Colmar,primary,False,False,47,False,False
+1298,2026-02-05 17:14:23,48.88762,2.16668,50.0,False,False,False,Avenue de Colmar,primary,False,False,46,False,False
+1299,2026-02-05 17:14:24,48.88758,2.16685,50.0,False,False,False,Avenue de Colmar,primary,False,False,45,False,False
+1300,2026-02-05 17:14:26,48.88752,2.16718,50.0,False,False,False,Avenue de Colmar,primary,False,False,41,False,False
+1301,2026-02-05 17:14:28,48.88746,2.16747,50.0,False,False,False,Avenue de Colmar,primary,False,False,32,False,False
+1302,2026-02-05 17:14:30,48.88742,2.1677,50.0,False,True,False,Avenue de Colmar,primary,False,False,24,False,False
+1303,2026-02-05 17:14:32,48.88739,2.16784,50.0,False,True,False,Avenue de Colmar,primary,False,False,24,False,False
+1304,2026-02-05 17:14:34,48.88738,2.16788,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+1305,2026-02-05 17:14:36,48.88738,2.16788,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+1306,2026-02-05 17:14:38,48.88738,2.16789,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+1307,2026-02-05 17:14:40,48.88737,2.16789,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+1308,2026-02-05 17:14:42,48.88737,2.1679,50.0,False,True,False,Avenue de Colmar,primary,False,False,0,False,False
+1309,2026-02-05 17:14:44,48.88737,2.16791,50.0,False,True,False,Avenue de Colmar,primary,False,False,13,False,False
+1310,2026-02-05 17:14:46,48.88734,2.16801,50.0,False,True,False,Avenue de Colmar,primary,False,False,19,False,False
+1311,2026-02-05 17:14:48,48.8873,2.16817,50.0,False,True,False,Avenue de Colmar,primary,False,False,24,False,False
+1312,2026-02-05 17:14:50,48.88727,2.16837,50.0,False,True,False,Avenue de Colmar,primary,False,False,31,False,False
+1313,2026-02-05 17:14:53,48.88722,2.16863,50.0,False,True,False,Avenue de Colmar,primary,False,False,41,False,False
+1314,2026-02-05 17:14:55,48.88716,2.16894,50.0,False,False,False,Avenue de Colmar,primary,False,False,42,False,False
+1315,2026-02-05 17:14:57,48.88711,2.16926,50.0,,,,Avenue de Colmar,primary,,,40,False,False
+1316,2026-02-05 17:14:59,48.88706,2.16955,50.0,False,True,False,Avenue de Colmar,primary,False,False,37,False,False
+1317,2026-02-05 17:15:01,48.88701,2.16982,50.0,False,True,False,Avenue de Colmar,primary,False,False,31,False,False
+1318,2026-02-05 17:15:03,48.88696,2.17004,50.0,False,False,False,Avenue de Colmar,primary,False,False,26,False,False
+1319,2026-02-05 17:15:05,48.88696,2.17016,50.0,False,False,False,Avenue de Colmar,primary,False,False,23,False,False
+1320,2026-02-05 17:15:07,48.88693,2.17027,50.0,False,False,False,Avenue de Colmar,primary,False,False,21,False,False
+1321,2026-02-05 17:15:09,48.8869,2.17044,50.0,False,True,False,Avenue de Colmar,primary,False,False,20,False,False
+1322,2026-02-05 17:15:11,48.88686,2.1706,50.0,False,True,False,Avenue de Colmar,primary,False,False,22,False,False
+1323,2026-02-05 17:15:13,48.88684,2.17077,50.0,False,True,False,Avenue de Colmar,primary,False,False,22,False,False
+1324,2026-02-05 17:15:15,48.88681,2.17093,50.0,False,True,False,Avenue de Colmar,primary,False,False,21,False,False
+1325,2026-02-05 17:15:17,48.88681,2.17106,50.0,False,True,False,Avenue de Colmar,primary,False,False,20,False,False
+1326,2026-02-05 17:15:19,48.88679,2.17122,50.0,False,True,False,Avenue de Colmar,primary,False,False,22,False,False
+1327,2026-02-05 17:15:20,48.88678,2.1713,50.0,False,True,False,Avenue de Colmar,primary,False,False,23,False,False
+1328,2026-02-05 17:15:22,48.88676,2.17146,50.0,False,True,False,Avenue de Colmar,primary,False,False,24,False,False
+1329,2026-02-05 17:15:24,48.88673,2.17163,50.0,False,True,False,Avenue de Colmar,primary,False,False,25,False,False
+1330,2026-02-05 17:15:26,48.88673,2.17177,50.0,False,False,False,Avenue de Colmar,primary,False,False,24,False,False
+1331,2026-02-05 17:15:28,48.88672,2.17186,50.0,False,False,False,Avenue de Colmar,primary,False,False,25,False,False
+1332,2026-02-05 17:15:30,48.88669,2.17204,50.0,False,False,False,Avenue de Colmar,primary,False,False,28,False,False
+1333,2026-02-05 17:15:32,48.88668,2.17227,50.0,False,False,False,Avenue de Colmar,primary,False,False,28,False,False
+1334,2026-02-05 17:15:34,48.88668,2.17261,50.0,False,False,False,Avenue de Colmar,primary,False,False,25,False,False
+1335,2026-02-05 17:15:36,48.88666,2.17282,50.0,False,False,False,Avenue de Colmar,primary,False,False,23,False,False
+1336,2026-02-05 17:15:38,48.88666,2.17303,50.0,False,False,False,Avenue de Colmar,primary,False,False,23,False,False
+1337,2026-02-05 17:15:40,48.88666,2.17323,50.0,False,False,False,Avenue de Colmar,primary,False,False,24,False,False
+1338,2026-02-05 17:15:42,48.88664,2.17342,50.0,False,False,False,Avenue de Colmar,primary,False,False,23,False,False
+1339,2026-02-05 17:15:44,48.88661,2.17361,50.0,False,False,False,Avenue de Colmar,primary_link,False,False,21,False,False
+1340,2026-02-05 17:15:46,48.88661,2.1738,50.0,False,True,False,Avenue de Colmar,primary,False,False,23,False,False
+1341,2026-02-05 17:15:49,48.88663,2.17402,50.0,False,True,False,Avenue de Colmar,primary,False,False,26,False,False
+1342,2026-02-05 17:15:51,48.88666,2.17426,50.0,False,True,False,Avenue de Colmar,primary,False,False,29,False,False
+1343,2026-02-05 17:15:53,48.8867,2.1745,50.0,False,True,False,Avenue de Colmar,primary_link,False,False,34,False,False
+1344,2026-02-05 17:15:55,48.88672,2.17477,50.0,False,True,False,Avenue de Colmar,primary_link,False,False,39,False,False
+1345,2026-02-05 17:15:57,48.88675,2.1751,50.0,False,True,False,Avenue de Colmar,primary_link,False,False,40,False,False
+1346,2026-02-05 17:15:59,48.8868,2.17544,50.0,False,False,False,Avenue de Colmar,primary,False,False,36,False,False
+1347,2026-02-05 17:16:01,48.88685,2.17574,50.0,False,False,False,Avenue de Colmar,primary,False,False,35,False,False
+1348,2026-02-05 17:16:03,48.88687,2.176,50.0,False,False,False,Avenue de Colmar,primary,False,False,34,False,False
+1349,2026-02-05 17:16:05,48.88689,2.17625,50.0,False,False,False,Avenue de Colmar,primary,False,False,35,False,False
+1350,2026-02-05 17:16:07,48.88691,2.17652,50.0,False,False,False,Avenue de Colmar,primary,False,False,36,False,False
+1351,2026-02-05 17:16:09,48.88693,2.17679,50.0,False,False,False,Avenue de Colmar,primary,False,False,37,False,False
+1352,2026-02-05 17:16:11,48.88695,2.17707,50.0,False,False,False,Avenue de Colmar,primary,False,False,38,False,False
+1353,2026-02-05 17:16:13,48.88697,2.17736,50.0,False,False,False,Avenue de Colmar,primary,False,False,35,False,False
+1354,2026-02-05 17:16:15,48.88699,2.17764,50.0,False,False,False,Avenue de Colmar,primary,False,False,31,False,False
+1355,2026-02-05 17:16:16,48.88701,2.17776,50.0,False,False,False,Avenue de Colmar,primary,False,False,31,False,False
+1356,2026-02-05 17:16:18,48.88701,2.178,50.0,False,False,False,Avenue de Colmar,primary,False,False,26,False,False
+1357,2026-02-05 17:16:20,48.88699,2.17823,50.0,False,False,False,Avenue de Colmar,primary,False,False,25,False,False
+1358,2026-02-05 17:16:22,48.88701,2.17842,50.0,False,False,False,Avenue de Colmar,primary,False,False,22,False,False
+1359,2026-02-05 17:16:24,48.88702,2.17857,50.0,False,False,False,Avenue de Colmar,primary,False,False,16,False,False
+1360,2026-02-05 17:16:26,48.88704,2.17869,50.0,False,False,False,Avenue de Colmar,primary,False,False,6,False,False
+1361,2026-02-05 17:16:28,48.88705,2.17875,50.0,False,False,False,Avenue de Colmar,primary,False,False,3,False,False
+1362,2026-02-05 17:16:30,48.88705,2.17874,50.0,False,False,False,Avenue de Colmar,primary,False,False,2,False,False
+1363,2026-02-05 17:16:32,48.88705,2.17875,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1364,2026-02-05 17:16:34,48.88705,2.17874,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1365,2026-02-05 17:16:36,48.88705,2.17875,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1366,2026-02-05 17:16:38,48.88706,2.17877,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1367,2026-02-05 17:16:40,48.88708,2.17876,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1368,2026-02-05 17:16:42,48.8871,2.17878,50.0,False,False,False,Avenue de Colmar,primary,False,False,4,False,False
+1369,2026-02-05 17:16:44,48.8871,2.17881,50.0,False,False,False,Avenue de Colmar,primary,False,False,2,False,False
+1370,2026-02-05 17:16:47,48.8871,2.17882,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1371,2026-02-05 17:16:49,48.88708,2.17882,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1372,2026-02-05 17:16:51,48.8871,2.17884,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1373,2026-02-05 17:16:53,48.8871,2.17884,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1374,2026-02-05 17:16:55,48.88708,2.17884,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1375,2026-02-05 17:16:57,48.88708,2.17884,50.0,False,False,False,Avenue de Colmar,primary,False,False,0,False,False
+1376,2026-02-05 17:16:59,48.88708,2.17884,50.0,False,False,False,Avenue de Colmar,primary,False,False,6,False,False
+1377,2026-02-05 17:17:01,48.8871,2.17891,50.0,False,False,False,Avenue de Colmar,primary,False,False,15,False,False
+1378,2026-02-05 17:17:03,48.8871,2.17905,50.0,False,False,False,Avenue de Colmar,primary,False,False,21,False,False
+1379,2026-02-05 17:17:05,48.88711,2.17922,50.0,False,False,False,Avenue de Colmar,primary,False,False,26,False,False
+1380,2026-02-05 17:17:07,48.88713,2.17942,50.0,False,False,False,Avenue de Colmar,primary,False,False,28,False,False
+1381,2026-02-05 17:17:09,48.88715,2.17963,50.0,False,False,False,Avenue de Colmar,primary,False,False,31,False,False
+1382,2026-02-05 17:17:11,48.88717,2.17987,50.0,False,False,False,Avenue de Colmar,primary,False,False,35,False,False
+1383,2026-02-05 17:17:12,48.88719,2.17999,50.0,False,False,False,Avenue de Colmar,primary,False,False,38,False,False
+1384,2026-02-05 17:17:14,48.88722,2.18026,50.0,False,False,False,Avenue de Colmar,primary,False,False,38,False,False
+1385,2026-02-05 17:17:16,48.88723,2.18054,50.0,False,False,False,Avenue de Colmar,primary,False,False,35,False,False
+1386,2026-02-05 17:17:18,48.88724,2.18079,50.0,False,False,False,Avenue de Colmar,primary,False,False,35,False,False
+1387,2026-02-05 17:17:20,48.88725,2.18105,50.0,False,False,False,Avenue de Colmar,primary,False,False,38,False,False
+1388,2026-02-05 17:17:22,48.88727,2.18133,50.0,False,False,False,Avenue de Colmar,primary,False,False,37,False,False
+1389,2026-02-05 17:17:24,48.88729,2.1816,50.0,False,False,False,Avenue de Colmar,primary,False,False,35,False,False
+1390,2026-02-05 17:17:26,48.88731,2.18185,50.0,False,False,False,Avenue de Colmar,primary,False,False,34,False,False
+1391,2026-02-05 17:17:28,48.8873,2.18223,50.0,False,False,False,Avenue de Colmar,primary,False,False,37,False,False
+1392,2026-02-05 17:17:30,48.8873,2.18252,30.0,False,False,False,Avenue de Colmar,residential,False,False,37,True,False
+1393,2026-02-05 17:17:32,48.88733,2.1828,30.0,False,False,False,Avenue de Colmar,residential,False,False,34,True,False
+1394,2026-02-05 17:17:34,48.88736,2.18306,50.0,False,False,False,Avenue de Colmar,primary,False,False,31,False,False
+1395,2026-02-05 17:17:36,48.88738,2.18329,50.0,False,False,False,Avenue de Colmar,primary,False,False,29,False,False
+1396,2026-02-05 17:17:38,48.8874,2.18351,50.0,False,False,False,Avenue de Colmar,primary,False,False,29,False,False
+1397,2026-02-05 17:17:40,48.88742,2.18374,50.0,False,False,False,Avenue de Colmar,primary,False,False,31,False,False
+1398,2026-02-05 17:17:43,48.88746,2.184,50.0,False,False,False,Avenue de Colmar,primary,False,False,33,False,False
+1399,2026-02-05 17:17:45,48.88751,2.18427,50.0,False,False,False,Avenue de Colmar,primary,False,False,32,False,False
+1400,2026-02-05 17:17:47,48.8875,2.18457,50.0,False,False,False,Avenue de Colmar,primary,False,False,32,False,False
+1401,2026-02-05 17:17:49,48.88748,2.18482,30.0,False,False,False,Avenue de Colmar,residential,False,False,33,False,False
+1402,2026-02-05 17:17:51,48.88748,2.18503,30.0,False,False,False,Avenue de Colmar,residential,False,False,33,False,False
+1403,2026-02-05 17:17:53,48.88749,2.1853,30.0,False,True,False,Avenue de Colmar,residential,False,False,34,True,False
+1404,2026-02-05 17:17:55,48.8875,2.18556,,,,,,,,,34,False,False
+1405,2026-02-05 17:17:57,48.8875,2.1858,,,,,,,,,32,False,False
+1406,2026-02-05 17:17:59,48.88749,2.18604,,,,,,,,,30,False,False
+1407,2026-02-05 17:18:01,48.88752,2.18626,,,,,,,,,29,False,False
+1408,2026-02-05 17:18:03,48.88754,2.18648,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,28,False,False
+1409,2026-02-05 17:18:05,48.88755,2.18667,50.0,,,,Avenue Vladimir Ilitch Lénine,primary,,,27,False,False
+1410,2026-02-05 17:18:07,48.88755,2.1869,50.0,,,,Avenue Vladimir Ilitch Lénine,primary,,,25,False,False
+1411,2026-02-05 17:18:09,48.88755,2.1871,50.0,,,,Avenue Vladimir Ilitch Lénine,primary,,,17,False,False
+1412,2026-02-05 17:18:10,48.88758,2.18716,50.0,,,,Avenue Vladimir Ilitch Lénine,primary,,,11,False,False
+1413,2026-02-05 17:18:12,48.88768,2.1872,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,5,False,False
+1414,2026-02-05 17:18:14,48.88768,2.18724,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,3,False,False
+1415,2026-02-05 17:18:16,48.88768,2.18726,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,1,False,False
+1416,2026-02-05 17:18:18,48.88769,2.18727,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,4,False,False
+1417,2026-02-05 17:18:20,48.88769,2.18731,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,3,False,False
+1418,2026-02-05 17:18:22,48.88769,2.18733,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,0,False,False
+1419,2026-02-05 17:18:33,48.88772,2.18737,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,0,False,False
+1420,2026-02-05 17:18:34,48.88772,2.18737,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,0,False,False
+1421,2026-02-05 17:18:36,48.88773,2.18741,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,12,False,False
+1422,2026-02-05 17:18:38,48.88774,2.18753,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,18,False,False
+1423,2026-02-05 17:18:40,48.88775,2.1877,50.0,,,,Avenue Vladimir Ilitch Lénine,primary,,,23,False,False
+1424,2026-02-05 17:18:43,48.88777,2.18788,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,28,False,False
+1425,2026-02-05 17:18:45,48.88779,2.18813,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,35,False,False
+1426,2026-02-05 17:18:47,48.88782,2.1884,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,38,False,False
+1427,2026-02-05 17:18:49,48.88784,2.18869,50.0,,,,Avenue Vladimir Ilitch Lénine,primary,,,36,False,False
+1428,2026-02-05 17:18:51,48.88788,2.18897,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,35,False,False
+1429,2026-02-05 17:18:53,48.8879,2.18925,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,39,False,False
+1430,2026-02-05 17:18:55,48.88792,2.18953,50.0,False,False,False,Avenue Vladimir Ilitch Lénine,primary,False,False,27,False,False
+1431,2026-02-05 17:18:57,48.88794,2.18971,,,,,,,,,7,False,False
+1432,2026-02-05 17:18:59,48.88791,2.18972,20.0,False,False,False,Villa Blanche,living_street,False,False,2,False,False
+1433,2026-02-05 17:19:01,48.8879,2.18971,20.0,False,False,False,Villa Blanche,living_street,False,False,6,False,False
+1434,2026-02-05 17:19:03,48.88788,2.18971,20.0,False,False,False,Villa Blanche,living_street,False,False,8,False,False
+1435,2026-02-05 17:19:05,48.88783,2.18974,20.0,False,False,False,Villa Blanche,living_street,False,False,6,False,False
+1436,2026-02-05 17:19:07,48.88782,2.18979,20.0,False,False,False,Villa Blanche,living_street,False,False,4,False,False
+1437,2026-02-05 17:19:09,48.88778,2.18979,20.0,False,False,False,Villa Blanche,living_street,False,False,4,False,False
+1438,2026-02-05 17:19:10,48.88778,2.1898,20.0,False,False,False,Villa Blanche,living_street,False,False,5,False,False
+1439,2026-02-05 17:19:12,48.88778,2.18984,20.0,False,False,False,Villa Blanche,living_street,False,False,7,False,False
+1440,2026-02-05 17:19:14,48.88776,2.18989,20.0,False,False,False,Villa Blanche,living_street,False,False,3,False,False
+1441,2026-02-05 17:19:16,48.88775,2.1899,20.0,False,False,False,Villa Blanche,living_street,False,False,3,False,False
+1442,2026-02-05 17:19:18,48.88774,2.1899,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1443,2026-02-05 17:19:20,48.88775,2.18991,20.0,False,False,False,Villa Blanche,living_street,False,False,2,False,False
+1444,2026-02-05 17:19:22,48.88776,2.18991,20.0,False,False,False,Villa Blanche,living_street,False,False,6,False,False
+1445,2026-02-05 17:19:24,48.8878,2.18992,20.0,False,False,False,Villa Blanche,living_street,False,False,3,False,False
+1446,2026-02-05 17:19:26,48.88781,2.18992,20.0,False,False,False,Villa Blanche,living_street,False,False,1,False,False
+1447,2026-02-05 17:19:28,48.88782,2.18992,20.0,False,False,False,Villa Blanche,living_street,False,False,1,False,False
+1448,2026-02-05 17:19:30,48.88783,2.18991,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1449,2026-02-05 17:19:32,48.88783,2.18992,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1450,2026-02-05 17:19:34,48.88783,2.18992,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1451,2026-02-05 17:19:36,48.88783,2.18991,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1452,2026-02-05 17:19:39,48.88783,2.18991,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1453,2026-02-05 17:19:41,48.88783,2.18991,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1454,2026-02-05 17:19:43,48.88783,2.18992,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1455,2026-02-05 17:19:45,48.88783,2.18992,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1456,2026-02-05 17:19:47,48.88783,2.18992,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1457,2026-02-05 17:19:49,48.88783,2.18992,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
+1458,2026-02-05 17:19:51,48.88784,2.18992,20.0,False,False,False,Villa Blanche,living_street,False,False,0,False,False
